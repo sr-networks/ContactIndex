@@ -13,9 +13,9 @@ Here is a preview for selected countries:
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/127544698/224412824-58624381-cb85-45c7-b442-10d2267f2d59.png">
 
-<img width="392" alt="image" src="https://user-images.githubusercontent.com/127544698/224413447-0ee9917d-2dc5-47a1-909d-65e70669c884.png">
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/127544698/224418262-c42437d5-a191-47ac-a70d-64c00d5d196e.png">
 
-<img width="398" alt="image" src="https://user-images.githubusercontent.com/127544698/224413502-ea72bc64-97b5-437e-9ca4-d2d9b33457ca.png">
+<img width="388" alt="image" src="https://user-images.githubusercontent.com/127544698/224418390-38cec8b9-fe8b-43a5-be56-97871503a1cc.png">
 
 <img width="396" alt="image" src="https://user-images.githubusercontent.com/127544698/224413545-aa71a262-9a5e-4854-b247-b53a4f6fa003.png">
 
