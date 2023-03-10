@@ -11,13 +11,9 @@ Then I use the resulting model to predict the Contact Index for other countries 
 
 Here is a preview for selected countries:
 
-<img width="399" alt="image" src="https://user-images.githubusercontent.com/127544698/224412824-58624381-cb85-45c7-b442-10d2267f2d59.png">
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/127544698/224420337-bf822124-3062-4764-910b-d10d94579233.png">
 
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/127544698/224418262-c42437d5-a191-47ac-a70d-64c00d5d196e.png">
+<img width="393" alt="image" src="https://user-images.githubusercontent.com/127544698/224420446-2f739ebe-9d34-4143-8d62-2ac3eebe2c62.png">
 
-<img width="388" alt="image" src="https://user-images.githubusercontent.com/127544698/224418390-38cec8b9-fe8b-43a5-be56-97871503a1cc.png">
-
-<img width="396" alt="image" src="https://user-images.githubusercontent.com/127544698/224413545-aa71a262-9a5e-4854-b247-b53a4f6fa003.png">
-
-<img width="391" alt="image" src="https://user-images.githubusercontent.com/127544698/224413592-ee23173e-2ae2-43f3-bb2d-24c752e31ced.png">
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/127544698/224420531-25ad870b-b3ba-4ccd-96b4-286d088192ad.png">
 
