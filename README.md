@@ -3,7 +3,7 @@
 
 This is a first brief description of my Contact Index calculations based on mobility data. I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
 
-contactindex.netcheck.de
+https://contactindex.netcheck.de
 
 With XGBoost I first calculated a fit of the German mobility data to the German CX. 
 
