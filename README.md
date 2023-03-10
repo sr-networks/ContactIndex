@@ -1,13 +1,15 @@
 # ContactIndex
 ### Contact Index for the countries of the world during the SARS-CoV-2 pandemic
 
-This is a first description of my Contact Index calculations from mobility data. Briefly, I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
+This is a first brief description of my Contact Index calculations based on mobility data. I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
 
-www.contactindex.netcheck.de
+contactindex.netcheck.de
 
-Using the XGBoost I calculated a fit of the German mobility data to the German CX. 
+With XGBoost I first calculated a fit of the German mobility data to the German CX. 
 
 Then I use the resulting model to predict the Contact Index for other countries from their respective mobility data. A first analysis for the United Kingdom provided good correspondence to the (time-shifted) reproduction number.
+
+Here is a preview for selected countries:
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/127544698/224412824-58624381-cb85-45c7-b442-10d2267f2d59.png">
 
