@@ -1,0 +1,731 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-01,-8,16,9,-3,-2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-02,-6,19,1,1,1,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-03,-2,23,4,3,-4,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-04,-4,20,-6,6,-4,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-05,-6,17,-1,5,-5,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-06,-6,16,-6,3,-4,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-07,-4,20,1,4,-4,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-08,-7,18,3,-4,-1,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-09,-7,16,-3,0,2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-10,-2,18,0,0,-4,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-11,-5,16,-12,3,-4,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-12,-7,13,-8,2,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-13,-8,10,-14,-4,-6,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-14,-7,11,-10,-4,-9,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-15,-10,8,-2,-13,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-16,-11,8,-10,-8,-6,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-17,-7,11,-6,-6,-9,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-18,-9,9,-14,-3,-8,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-19,-10,7,-11,-4,-9,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-20,-11,6,-15,-7,-7,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-21,-12,7,-24,-7,-7,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-22,-15,4,-29,-21,-6,4
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-23,-12,7,-15,-11,-2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-24,-8,10,-9,-9,-6,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-25,-10,8,-16,-5,-6,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-26,-11,6,-12,-5,-7,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-27,-10,7,-16,-7,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-28,-5,14,-11,-3,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-29,-7,13,-3,-14,-4,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-30,-5,16,-6,-5,-1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-01-31,-1,21,-3,-4,-5,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-01,-2,19,-11,-1,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-02,-2,18,-8,0,-7,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-03,-6,14,-12,-6,-6,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-04,-7,15,-13,-8,-7,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-05,-11,13,-14,-20,-5,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-06,-9,13,-11,-11,-2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-07,-5,15,-6,-10,-7,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-08,1,20,-9,-1,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-09,-3,24,16,-19,-61,19
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-10,-10,10,-16,-10,-8,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-11,-10,11,-12,-11,-9,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-12,-14,10,-14,-24,-5,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-13,-10,13,-11,-15,-4,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-14,-3,18,-4,-11,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-15,-8,12,-15,-9,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-16,-9,11,-11,-9,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-17,-10,10,-15,-10,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-18,-9,14,-11,-9,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-19,-15,9,-24,-22,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-20,-12,10,-14,-14,-3,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-21,-7,16,-6,-10,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-22,-9,11,-16,-8,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-23,-10,10,-13,-9,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-24,-11,9,-15,-11,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-25,-8,13,-16,-9,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-26,-12,12,-20,-20,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-27,-9,13,-15,-11,-3,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-02-28,-2,22,-7,-6,-7,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-01,-3,19,-15,-3,-8,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-02,-4,18,-12,-3,-9,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-03,-5,18,-14,-6,-8,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-04,-4,21,-8,-5,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-05,-9,17,-23,-18,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-06,-7,18,-16,-9,-4,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-07,-3,22,-4,-7,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-08,-4,18,-13,-5,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-09,-5,17,-10,-5,-10,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-10,-6,15,-14,-8,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-11,-5,18,-7,-7,-9,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-12,-11,14,-18,-20,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-13,-10,13,-22,-13,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-14,-3,20,0,-8,-11,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-15,-5,16,-8,-5,-12,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-16,-6,14,-5,-6,-12,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-17,-8,13,-9,-9,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-18,-7,15,-7,-9,-11,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-19,-12,13,-9,-22,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-20,-10,14,-12,-12,-4,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-21,-4,19,-3,-9,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-22,-7,14,-13,-7,-9,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-23,-8,12,-11,-9,-10,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-24,-9,12,-14,-11,-9,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-25,-7,15,-11,-10,-10,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-26,-17,9,-24,-26,-7,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-27,-12,12,-15,-14,-5,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-28,-5,19,-9,-11,-11,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-29,-5,18,-17,-8,-12,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-30,-5,18,-11,-7,-12,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-03-31,-5,19,-13,-7,-12,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-01,-5,19,-13,-9,-12,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-02,-14,13,-24,-22,-8,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-03,-9,15,-22,-12,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-04,-2,22,-8,-8,-13,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-05,-4,19,-15,-6,-13,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-06,-4,18,-12,-6,-14,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-07,-4,19,-13,-8,-13,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-08,-3,21,-12,-9,-13,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-09,-24,11,-38,-35,-11,5
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-10,-17,16,-23,-27,-9,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-11,-6,27,-9,-9,-13,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-12,-4,35,-19,-7,-14,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-13,-23,22,-26,-15,-18,10
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-14,-25,15,-26,-16,-18,10
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-15,-26,12,-27,-17,-17,12
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-16,-34,6,-44,-39,-15,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-17,-27,9,-28,-31,-11,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-18,-19,17,-14,-15,-15,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-19,-20,15,-23,-13,-16,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-20,-21,13,-21,-13,-16,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-21,-23,13,-23,-15,-16,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-22,-24,12,-26,-16,-15,11
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-23,-33,5,-45,-39,-13,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-24,-26,8,-27,-30,-9,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-25,-17,18,-14,-12,-14,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-26,-19,15,-21,-11,-14,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-27,-21,13,-20,-12,-15,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-28,-18,18,-23,-11,-15,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-29,-18,20,-23,-11,-15,10
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-04-30,-27,13,-41,-33,-11,7
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-01,-20,17,-25,-26,-9,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-02,-12,24,-12,-10,-14,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-03,-12,23,-20,-6,-15,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-04,-14,22,-18,-7,-15,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-05,-14,22,-21,-8,-15,7
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-06,-16,21,-23,-10,-15,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-07,-23,16,-41,-32,-10,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-08,-19,18,-24,-26,-7,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-09,-7,30,-10,-8,-21,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-10,-7,28,-20,-6,-22,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-11,-5,33,-16,-4,-24,8
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-12,0,50,-17,-3,-31,9
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-13,-19,14,1,-12,-69,22
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-14,-22,13,-22,-33,-25,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-15,-19,17,-10,-33,-49,13
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-16,-11,25,-7,-19,-47,14
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-17,-12,18,-17,-11,-26,7
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-18,-14,15,-17,-10,-23,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-19,-16,12,-22,-13,-12,4
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-20,-17,16,-20,-15,-12,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-21,-26,10,-32,-36,-10,6
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-22,-20,12,-20,-24,-4,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-23,-12,17,-8,-8,-9,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-24,-13,14,-20,-7,-10,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-25,-14,13,-16,-7,-9,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-26,-14,14,-17,-9,-9,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-27,-10,23,-14,-8,-8,4
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-28,-14,19,-25,-23,-4,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-29,-9,21,-16,-10,1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-30,-2,27,-4,-3,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-05-31,-3,25,-14,-2,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-01,-4,25,-11,-1,-7,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-02,-4,25,-14,-3,-6,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-03,-4,27,-11,-6,-4,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-04,-11,24,-22,-20,-2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-05,-8,22,-17,-8,2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-06,-2,26,-6,-4,-4,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-07,-3,24,-16,-2,-5,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-08,-3,24,-11,-1,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-09,-4,23,-13,-4,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-10,-5,25,-11,-6,-5,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-11,-12,23,-21,-20,-3,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-12,-8,20,-13,-8,2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-13,-3,25,0,-4,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-14,-4,22,-11,-1,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-15,-6,19,-9,0,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-16,-7,18,-16,-4,-6,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-17,-9,19,-21,-7,-6,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-18,-10,22,-29,-19,-3,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-19,-8,18,-17,-7,2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-20,-2,23,-4,-2,-6,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-21,-4,20,-14,0,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-22,-5,19,-12,-1,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-23,-6,18,-16,-3,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-24,-5,21,-12,-5,-6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-25,-11,19,-22,-19,-2,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-26,-9,16,-16,-7,2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-27,-4,21,-5,-2,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-28,-1,22,-17,2,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-29,-4,19,-16,0,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-06-30,-4,21,-18,-2,-8,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-01,-3,26,-16,-2,-8,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-02,-10,22,-32,-17,-2,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-03,-7,21,-24,-4,2,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-04,-1,26,-10,0,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-05,-2,23,-21,2,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-06,-3,20,-18,2,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-07,-3,21,-21,0,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-08,-4,25,-20,-3,-8,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-09,-9,22,-31,-24,-1,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-10,-8,19,-24,-5,2,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-11,-4,22,-12,-1,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-12,-3,20,-21,1,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-13,-5,17,-19,2,-9,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-14,-6,17,-23,1,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-15,-7,18,-25,0,-9,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-16,-13,17,-37,-23,1,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-17,-9,16,-24,-2,1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-18,1,27,-11,4,-19,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-19,3,40,-21,3,-27,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-20,-9,20,19,-4,-69,15
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-21,-9,20,5,-25,-64,16
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-22,-17,10,-16,-32,-57,18
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-23,-25,0,-40,-33,-3,4
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-24,-18,3,-29,-19,-3,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-25,-10,12,-17,-4,-18,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-26,-11,10,-27,-2,-11,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-27,-11,10,-23,-1,-12,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-28,-10,13,-26,-4,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-29,-8,17,-25,-4,-10,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-30,-14,14,-37,-25,2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-07-31,-10,13,-28,-2,1,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-01,-4,20,-14,3,-11,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-02,-5,18,-25,5,-11,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-03,-6,17,-21,2,-12,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-04,-6,15,-24,3,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-05,-7,19,-25,-2,-11,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-06,-13,17,-39,-20,-2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-07,-11,13,-30,-5,-1,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-08,-5,19,-16,0,-10,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-09,-6,15,-27,3,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-10,-6,15,-21,3,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-11,-8,14,-26,-1,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-12,-8,16,-25,-2,-11,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-13,-14,14,-38,-26,-2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-14,-12,11,-29,-5,-1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-15,-4,17,-15,4,-10,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-16,-7,13,-25,2,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-17,-9,12,-23,0,-11,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-18,-10,11,-27,-2,-8,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-19,-10,15,-26,-4,-7,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-20,-14,13,-38,-28,0,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-21,-11,11,-29,-4,-1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-22,-7,15,-17,-2,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-23,-7,13,-27,0,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-24,-8,11,-24,0,-8,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-25,-8,12,-26,-2,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-26,-4,19,-25,-2,-7,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-27,-8,17,-38,-21,-1,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-28,-5,19,-30,-4,1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-29,-1,23,-17,0,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-30,-1,21,-26,5,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-08-31,-1,21,-21,3,-7,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-01,-2,21,-24,3,-7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-02,0,25,-22,2,-6,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-03,-4,24,-35,-16,-3,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-04,-3,23,-27,-1,0,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-05,0,25,-14,1,-6,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-06,0,23,-24,4,-6,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-07,-1,22,-19,5,-6,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-08,-3,21,-23,1,-5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-09,1,26,-18,2,-5,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-10,-2,26,-27,-15,-2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-11,-4,21,-26,-2,1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-12,0,24,-12,4,-4,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-13,-1,21,-20,4,-5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-14,-2,20,-17,4,-6,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-15,-3,19,-21,2,-5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-16,0,24,-16,1,-5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-17,-4,23,-23,-15,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-18,-5,19,-22,-1,0,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-19,-2,22,-11,2,-5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-20,-2,18,-19,6,-5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-21,-3,18,-15,3,-4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-22,-4,18,-19,0,-1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-23,0,23,-11,-1,-1,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-24,-4,21,-16,-17,-3,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-25,-6,17,-19,-3,2,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-26,-1,21,-9,1,-1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-27,0,20,-16,3,-1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-28,3,23,-12,6,-2,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-29,2,23,-16,3,-1,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-09-30,7,30,-8,5,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-01,5,31,-15,-11,-2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-02,2,27,-18,2,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-03,5,29,-5,5,0,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-04,5,29,-18,7,0,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-05,4,27,-13,8,-1,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-06,3,26,-17,5,0,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-07,7,30,-10,6,0,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-08,4,31,-16,-9,-3,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-09,2,27,-17,2,3,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-10,5,29,-4,7,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-11,4,27,-14,9,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-12,3,25,-10,9,0,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-13,1,24,-14,5,1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-14,5,29,-4,6,1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-15,0,28,-10,-10,-5,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-16,-1,25,-14,1,2,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-17,3,28,-4,7,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-18,3,25,-11,8,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-19,2,22,-6,8,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-20,0,22,-9,6,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-21,4,27,1,4,0,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-22,1,25,-4,-9,-3,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-23,-1,23,-8,1,4,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-24,0,23,-2,6,1,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-25,2,24,-9,9,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-26,3,23,-3,10,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-27,4,26,-8,6,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-28,9,33,4,8,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-29,5,29,0,-10,-1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-30,5,29,-8,5,5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-10-31,9,33,0,10,4,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-01,9,32,-9,13,3,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-02,9,32,-5,13,3,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-03,8,32,-8,10,3,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-04,12,36,3,11,1,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-05,6,30,2,-3,-3,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-06,5,29,-5,8,5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-07,9,33,2,12,3,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-08,9,31,-7,14,4,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-09,9,30,0,15,3,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-10,7,28,-4,11,4,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-11,10,30,4,11,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-12,9,31,6,-1,-1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-13,6,28,-4,9,5,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-14,8,30,2,14,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-15,8,28,-7,16,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-16,7,26,-1,15,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-17,6,25,-3,10,5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-18,9,29,8,11,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-19,6,27,6,-3,1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-20,3,25,-1,9,7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-21,7,28,5,12,5,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-22,7,26,-4,15,5,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-23,6,24,1,16,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-24,6,25,-3,10,5,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-25,12,29,8,7,4,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-26,13,31,3,-2,2,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-27,8,27,4,7,7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-28,14,36,9,13,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-29,16,34,3,18,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-11-30,18,32,8,22,2,-3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-01,15,33,0,19,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-02,17,36,20,19,2,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-03,15,31,16,14,2,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-04,13,29,3,19,7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-05,15,35,10,16,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-06,17,31,0,17,4,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-07,17,30,5,21,5,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-08,14,33,5,15,7,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-09,17,36,26,15,7,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-10,17,33,23,1,6,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-11,13,28,13,15,10,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-12,16,35,16,17,7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-13,15,33,8,16,7,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-14,15,31,18,17,6,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-15,16,29,9,23,6,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-16,15,33,27,17,6,-1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-17,19,35,43,14,7,-2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-18,20,32,122,36,-47,7
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-19,18,38,32,7,-26,7
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-20,12,29,4,11,0,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-21,12,29,11,12,-1,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-22,12,27,-5,10,0,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-23,12,32,4,8,0,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-24,6,30,2,-9,6,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-25,5,23,6,2,3,0
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-26,10,28,5,3,-4,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-27,10,27,-2,7,-2,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-28,13,31,4,7,-3,1
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-29,12,32,-1,4,-3,2
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-30,12,36,3,4,-5,3
+QA,Qatar,,,,,,ChIJf-jc_zTFRT4RMkArgc-I-hw,2021-12-31,6,34,-7,-12,5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-01,-9,15,22,-4,-2,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-02,-6,19,15,0,0,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-03,-2,24,15,4,-4,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-04,-5,21,12,4,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-05,-5,20,20,4,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-06,-6,19,9,1,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-07,-5,21,16,6,-4,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-08,-7,18,14,-4,-1,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-09,-7,16,10,-1,1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-10,-2,19,9,0,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-11,-6,16,2,1,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-12,-7,15,9,1,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-13,-8,12,0,-5,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-14,-7,12,4,-2,-9,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-15,-11,8,9,-13,-10,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-16,-12,8,3,-9,-6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-17,-7,12,3,-6,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-18,-9,10,2,-4,-8,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-19,-10,10,7,-4,-8,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-20,-12,8,1,-8,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-21,-12,8,-15,-5,-7,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-22,-15,5,-21,-21,-7,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-23,-13,8,-5,-12,-2,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-24,-9,11,-1,-9,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-25,-11,9,-1,-7,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-26,-11,8,5,-6,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-27,-10,9,-2,-9,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-28,-5,15,3,-2,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-29,-8,13,8,-14,-4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-30,-5,16,7,-6,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-01-31,-1,22,6,-4,-5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-01,-2,20,3,-2,-6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-02,-3,20,10,-1,-7,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-03,-6,17,3,-8,-6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-04,-8,16,-1,-6,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-05,-12,13,-4,-20,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-06,-9,13,1,-12,-2,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-07,-5,16,3,-9,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-08,0,21,6,-3,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-09,-4,27,41,-20,-62,19
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-10,-10,12,-2,-11,-8,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-11,-11,12,1,-9,-9,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-12,-15,10,-3,-24,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-13,-10,13,2,-16,-3,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-14,-3,20,6,-10,-7,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-15,-9,13,1,-10,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-16,-9,14,7,-10,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-17,-11,12,0,-11,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-18,-9,14,3,-8,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-19,-16,9,-15,-22,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-20,-12,10,-2,-15,-3,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-21,-7,17,3,-9,-7,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-22,-10,13,1,-9,-7,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-23,-10,13,6,-11,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-24,-11,11,1,-13,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-25,-9,15,-1,-7,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-26,-13,12,-9,-20,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-27,-10,14,-2,-12,-3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-02-28,-2,24,3,-6,-7,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-01,-4,21,2,-4,-8,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-02,-4,21,7,-5,-9,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-03,-5,20,1,-7,-8,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-04,-4,21,6,-3,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-05,-10,18,-13,-18,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-06,-7,18,-4,-10,-4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-07,-3,23,7,-7,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-08,-5,19,6,-6,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-09,-5,19,10,-5,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-10,-7,17,2,-9,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-11,-6,19,8,-6,-9,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-12,-11,14,-8,-20,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-13,-10,13,-12,-14,-5,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-14,-2,21,11,-8,-11,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-15,-5,17,11,-6,-11,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-16,-6,17,16,-7,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-17,-8,15,8,-10,-11,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-18,-8,16,8,-8,-11,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-19,-13,12,3,-23,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-20,-10,13,0,-13,-4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-21,-4,20,8,-9,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-22,-8,15,4,-8,-9,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-23,-8,14,8,-10,-10,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-24,-9,13,1,-12,-10,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-25,-8,16,3,-9,-10,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-26,-18,8,-14,-27,-8,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-27,-12,11,-3,-15,-5,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-28,-5,20,1,-10,-11,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-29,-6,18,-1,-9,-12,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-30,-5,20,9,-8,-12,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-03-31,-5,21,3,-8,-12,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-01,-6,20,2,-8,-13,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-02,-16,13,-15,-22,-9,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-03,-10,15,-11,-13,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-04,-2,22,1,-8,-14,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-05,-5,19,1,-7,-13,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-06,-5,20,7,-7,-14,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-07,-5,20,2,-9,-14,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-08,-4,21,2,-8,-14,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-09,-26,10,-31,-36,-13,6
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-10,-18,16,-14,-28,-10,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-11,-7,27,-1,-9,-14,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-12,-6,36,-5,-8,-14,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-13,-24,24,-13,-16,-18,11
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-14,-26,16,-15,-17,-18,11
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-15,-27,12,-17,-16,-17,13
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-16,-36,6,-37,-40,-16,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-17,-28,8,-18,-32,-11,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-18,-20,18,-5,-14,-15,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-19,-22,16,-7,-14,-16,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-20,-22,16,-4,-14,-17,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-21,-24,14,-11,-15,-16,11
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-22,-25,12,-15,-15,-16,12
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-23,-35,5,-38,-39,-15,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-24,-27,8,-18,-31,-9,8
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-25,-18,19,-6,-11,-14,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-26,-21,15,-5,-12,-14,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-27,-21,16,-4,-13,-15,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-28,-19,20,-11,-12,-16,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-29,-19,21,-12,-10,-16,11
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-04-30,-28,13,-33,-33,-12,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-01,-21,17,-16,-28,-9,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-02,-13,25,-4,-10,-14,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-03,-13,24,-5,-7,-15,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-04,-14,24,-1,-8,-15,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-05,-15,24,-8,-9,-15,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-06,-17,22,-12,-8,-15,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-07,-25,16,-33,-33,-11,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-08,-19,17,-14,-27,-8,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-09,-7,31,-2,-7,-22,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-10,-8,30,-5,-7,-23,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-11,-6,37,2,-5,-25,9
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-12,-1,52,-3,-4,-33,10
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-13,-21,14,18,-12,-71,22
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-14,-24,12,-14,-35,-27,6
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-15,-21,16,-3,-35,-51,13
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-16,-12,25,-1,-19,-49,15
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-17,-14,19,-3,-12,-27,8
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-18,-15,17,-1,-12,-24,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-19,-18,13,-10,-14,-14,5
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-20,-18,16,-9,-13,-14,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-21,-28,9,-28,-37,-13,7
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-22,-21,12,-12,-25,-5,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-23,-13,18,0,-8,-10,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-24,-15,15,-5,-9,-11,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-25,-15,15,1,-9,-10,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-26,-15,15,-5,-10,-10,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-27,-12,23,-4,-7,-9,5
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-28,-15,18,-19,-24,-6,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-29,-9,21,-8,-11,1,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-30,-3,27,2,-3,-5,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-05-31,-4,26,1,-3,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-01,-4,27,5,-3,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-02,-5,26,-2,-3,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-03,-5,28,0,-4,-6,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-04,-12,23,-17,-21,-5,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-05,-9,22,-9,-9,1,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-06,-3,27,1,-4,-5,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-07,-5,25,-2,-3,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-08,-3,27,4,-3,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-09,-5,24,-2,-5,-6,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-10,-5,26,-1,-5,-6,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-11,-13,22,-14,-20,-5,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-12,-9,20,-4,-8,1,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-13,-3,25,7,-3,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-14,-5,22,4,-1,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-15,-6,21,8,-2,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-16,-8,19,-5,-5,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-17,-10,20,-14,-6,-7,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-18,-10,21,-22,-20,-5,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-19,-8,18,-9,-7,2,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-20,-2,24,2,-2,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-21,-5,21,0,-1,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-22,-5,22,4,-2,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-23,-7,19,-5,-3,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-24,-6,22,-2,-3,-7,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-25,-13,18,-16,-19,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-26,-9,16,-7,-7,2,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-27,-4,22,1,-1,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-28,-2,24,-2,1,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-29,-4,22,-1,-2,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-06-30,-4,23,-7,-2,-9,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-01,-4,27,-6,0,-10,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-02,-10,22,-27,-17,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-03,-7,21,-16,-5,2,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-04,-1,27,-5,1,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-05,-2,24,-8,1,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-06,-3,23,-4,0,-9,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-07,-3,22,-11,0,-10,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-08,-5,25,-11,-1,-9,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-09,-10,22,-26,-24,-3,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-10,-8,19,-17,-5,1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-11,-4,23,-7,0,-9,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-12,-4,22,-8,1,-9,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-13,-5,20,-5,0,-10,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-14,-6,18,-12,1,-10,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-15,-8,19,-16,2,-10,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-16,-15,17,-32,-23,-1,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-17,-9,16,-17,-1,0,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-18,2,29,-5,5,-20,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-19,1,42,-10,3,-29,5
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-20,-10,21,33,-7,-70,15
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-21,-10,21,6,-25,-66,17
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-22,-18,11,-14,-31,-59,19
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-23,-26,-1,-38,-34,-5,5
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-24,-19,3,-22,-20,-3,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-25,-10,13,-13,-3,-19,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-26,-12,10,-15,-2,-12,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-27,-11,12,-9,-2,-13,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-28,-10,14,-17,-4,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-29,-9,18,-16,-2,-11,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-30,-15,14,-33,-25,-1,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-07-31,-11,13,-21,-2,0,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-01,-4,21,-9,4,-11,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-02,-6,19,-12,5,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-03,-6,19,-6,1,-13,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-04,-7,16,-13,3,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-05,-8,20,-16,1,-12,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-06,-14,16,-36,-20,-4,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-07,-12,13,-24,-5,-1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-08,-5,19,-12,2,-11,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-09,-7,16,-15,3,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-10,-7,17,-7,2,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-11,-9,15,-15,-1,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-12,-9,17,-16,0,-12,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-13,-15,13,-32,-26,-4,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-14,-13,11,-21,-5,-1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-15,-4,18,-8,5,-11,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-16,-8,14,-11,1,-11,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-17,-9,14,-10,-1,-12,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-18,-11,13,-17,-3,-9,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-19,-10,16,-17,-2,-8,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-20,-16,13,-33,-29,-2,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-21,-12,11,-21,-4,-2,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-22,-7,16,-10,-2,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-23,-8,14,-13,-1,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-24,-8,13,-11,-1,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-25,-9,14,-16,-3,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-26,-4,20,-15,0,-8,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-27,-9,17,-31,-22,-2,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-28,-6,19,-22,-4,1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-29,-1,24,-10,1,-7,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-30,-2,23,-11,5,-7,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-08-31,-1,24,-6,2,-7,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-01,-2,23,-12,3,-8,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-02,0,26,-9,4,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-03,-5,23,-28,-17,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-04,-4,23,-17,-2,0,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-05,0,26,-7,3,-6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-06,-1,24,-9,3,-6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-07,-1,24,-2,3,-7,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-08,-3,22,-11,0,-6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-09,0,26,-6,4,-6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-10,-3,25,-18,-15,-4,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-11,-4,21,-17,-2,0,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-12,-1,24,-4,5,-5,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-13,-2,22,-5,3,-5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-14,-3,22,0,3,-6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-15,-4,20,-8,2,-6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-16,-1,25,-3,3,-6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-17,-5,22,-16,-16,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-18,-6,18,-13,-1,-1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-19,-2,22,-3,3,-5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-20,-4,19,-5,5,-5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-21,-4,20,3,2,-5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-22,-4,19,-6,-1,-2,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-23,-1,23,3,1,-2,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-24,-5,20,-6,-18,-5,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-25,-6,17,-9,-3,1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-26,-2,22,-1,2,-2,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-27,-1,21,-1,3,-2,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-28,3,25,6,5,-2,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-29,2,25,-3,3,-2,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-09-30,6,31,6,8,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-01,4,30,-6,-11,-4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-02,1,27,-9,2,2,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-03,4,30,3,7,-1,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-04,4,29,-3,6,-1,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-05,4,29,4,7,-2,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-06,3,27,-4,5,-1,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-07,6,30,3,8,-1,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-08,3,29,-6,-10,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-09,1,26,-7,2,2,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-10,4,30,6,8,0,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-11,2,27,3,8,0,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-12,2,27,9,7,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-13,0,25,-1,5,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-14,4,29,11,8,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-15,-1,26,2,-10,-7,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-16,-2,24,-5,0,1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-17,2,28,4,7,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-18,1,25,6,7,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-19,1,24,13,6,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-20,-1,23,5,6,-1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-21,3,27,17,6,-1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-22,0,23,8,-9,-5,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-23,-2,22,4,0,3,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-24,0,24,7,7,1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-25,0,24,9,8,1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-26,2,25,19,7,1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-27,3,27,8,6,1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-28,8,33,21,10,1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-29,3,27,13,-11,-4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-30,4,27,4,4,4,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-10-31,8,34,9,11,3,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-01,7,33,8,12,2,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-02,8,34,14,11,2,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-03,7,32,7,9,2,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-04,11,35,20,14,-1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-05,4,28,15,-3,-6,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-06,4,28,8,7,4,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-07,8,33,12,13,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-08,7,31,13,13,3,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-09,8,31,22,13,2,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-10,6,28,13,11,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-11,9,30,22,14,2,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-12,7,29,20,-1,-4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-13,4,27,10,8,4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-14,8,30,13,15,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-15,6,28,13,15,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-16,7,27,21,13,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-17,5,25,14,9,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-18,8,28,28,14,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-19,4,24,21,-3,-2,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-20,3,24,13,9,6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-21,7,28,16,13,4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-22,5,27,17,15,4,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-23,6,27,23,14,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-24,5,27,13,10,4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-25,11,29,25,9,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-26,12,28,16,-2,-1,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-27,7,26,16,7,6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-28,14,36,19,15,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-29,14,35,25,18,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-11-30,13,34,26,21,1,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-01,15,34,18,19,1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-02,16,36,45,22,1,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-03,14,28,36,16,0,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-04,12,27,18,20,6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-05,15,35,22,18,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-06,14,32,19,16,3,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-07,17,31,28,20,4,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-08,13,33,26,15,5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-09,16,35,55,18,6,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-10,11,29,43,2,3,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-11,13,27,30,15,9,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-12,16,36,31,18,6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-13,14,34,33,16,6,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-14,15,34,48,16,5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-15,16,30,32,24,5,-1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-16,14,33,55,20,4,0
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-17,18,32,71,15,5,-2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-18,15,30,178,37,-48,6
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-19,18,38,44,8,-29,8
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-20,11,30,25,11,-1,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-21,12,32,36,11,-2,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-22,11,28,10,10,-2,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-23,11,32,22,11,-2,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-24,4,27,16,-8,4,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-25,4,22,21,3,1,1
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-26,10,28,15,4,-5,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-27,9,28,16,7,-4,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-28,12,33,26,6,-5,2
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-29,11,33,13,4,-5,3
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-30,11,37,19,6,-7,4
+QA,Qatar,,,Doha Metropolitan Area,,,ChIJZdMPFvvaRT4Rum09e_8wmPA,2021-12-31,4,31,4,-12,3,2

@@ -1,0 +1,577 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-01,34,38,50,-14,-32,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-02,39,56,43,-8,-3,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-03,48,67,37,8,7,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-04,40,60,36,6,6,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-05,43,67,41,6,6,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-06,42,65,42,9,5,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-07,45,61,41,10,13,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-08,38,51,38,0,21,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-09,44,57,41,-6,7,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-10,47,61,34,7,16,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-11,43,58,41,8,14,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-12,38,53,40,0,12,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-13,45,61,43,12,12,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-14,41,55,45,7,19,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-15,45,57,56,7,29,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-16,42,53,54,-6,12,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-17,46,58,48,8,22,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-18,41,52,49,5,18,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-19,49,60,49,7,20,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-20,50,60,53,8,18,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-21,55,66,55,13,28,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-22,60,74,57,13,35,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-23,61,74,60,0,19,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-24,60,71,47,11,29,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-25,54,66,51,10,25,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-26,50,65,49,4,22,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-27,58,70,54,15,23,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-28,55,64,52,8,32,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-29,59,70,57,16,36,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-30,45,58,52,-11,15,12
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-01-31,56,63,51,6,31,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-01,57,68,54,10,29,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-02,59,73,52,13,31,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-03,58,68,53,16,28,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-04,52,60,51,12,34,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-05,54,62,62,10,36,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-06,52,63,57,-6,20,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-07,55,61,50,6,33,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-08,52,59,52,7,31,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-09,55,65,54,9,32,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-10,56,62,54,12,27,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-11,55,60,52,12,37,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-12,58,62,63,9,37,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-13,58,65,62,-3,23,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-14,71,65,49,7,38,6
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-15,51,54,52,4,33,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-16,53,60,53,7,35,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-17,54,58,55,9,31,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-18,53,56,68,11,42,8
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-19,54,57,71,8,42,11
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-20,49,55,69,-8,24,13
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-21,52,52,61,3,39,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-22,53,54,79,8,38,7
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-23,61,65,90,14,39,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-24,69,75,100,22,38,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-25,70,76,99,25,46,11
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-26,75,80,104,22,47,11
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-27,71,82,94,10,38,11
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-02-28,72,77,104,21,45,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-01,70,77,111,23,42,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-02,73,84,117,28,43,10
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-03,76,83,151,33,43,9
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-04,75,81,148,36,54,15
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-05,77,83,153,32,57,15
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-06,77,83,144,18,48,17
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-07,79,79,175,30,51,14
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-08,82,75,205,25,-18,27
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-09,76,84,203,36,54,18
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-10,80,83,226,44,54,19
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-11,78,84,217,44,65,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-12,77,81,209,36,48,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-13,85,92,203,33,66,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-14,74,73,221,34,63,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-15,75,75,228,36,59,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-16,76,81,223,37,60,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-17,80,80,220,43,54,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-18,50,55,199,21,-13,40
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-19,70,74,200,36,68,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-20,78,83,201,30,67,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-21,75,73,223,35,66,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-22,71,73,226,36,60,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-23,77,81,220,38,61,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-24,80,84,225,42,57,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-25,85,91,224,48,67,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-26,91,95,220,43,73,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-27,86,95,207,29,66,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-28,84,84,235,39,66,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-29,80,84,236,40,60,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-30,86,94,237,45,62,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-03-31,88,93,234,49,57,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-01,86,90,228,49,69,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-02,89,92,218,48,72,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-03,92,100,214,39,71,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-04,84,84,233,43,66,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-05,83,87,236,47,62,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-06,87,94,238,49,61,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-07,87,91,231,51,57,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-08,84,90,220,50,67,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-09,86,90,211,48,72,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-10,93,101,201,41,69,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-11,85,85,229,44,66,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-12,85,85,235,47,62,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-13,89,93,230,47,60,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-14,103,99,235,58,54,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-15,72,78,228,41,-12,32
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-16,73,74,224,33,37,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-17,93,91,220,33,58,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-18,71,68,220,28,-20,36
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-19,78,79,232,42,60,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-20,81,86,221,41,57,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-21,80,85,218,44,54,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-22,87,92,227,48,63,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-23,94,98,224,49,73,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-24,101,107,215,44,70,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-25,95,93,236,45,59,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-26,96,95,246,46,54,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-27,107,107,241,53,54,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-28,95,97,237,46,-11,32
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-29,95,101,236,51,56,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-04-30,100,102,233,52,72,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-01,113,112,228,45,70,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-02,88,84,237,36,-17,34
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-03,93,94,232,46,54,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-04,96,103,222,50,56,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-05,93,99,222,52,51,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-06,93,97,214,49,61,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-07,98,99,211,52,72,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-08,111,114,207,45,72,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-09,91,90,220,42,63,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-10,85,88,224,42,59,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-11,88,95,221,44,59,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-12,89,93,240,50,57,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-13,87,91,228,47,68,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-14,89,90,233,46,77,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-15,98,105,221,41,75,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-16,85,85,237,41,65,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-17,82,85,246,41,61,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-18,87,93,243,43,61,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-19,85,89,239,44,57,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-20,84,88,235,44,67,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-21,86,89,231,39,75,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-22,95,104,226,36,75,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-23,87,86,241,38,67,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-24,99,100,252,44,60,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-25,96,104,248,41,-12,33
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-26,95,103,248,52,58,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-27,96,103,245,52,66,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-28,104,106,245,51,76,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-29,105,115,233,43,75,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-30,95,97,253,45,68,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-05-31,93,98,260,46,63,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-01,97,106,251,50,63,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-02,95,103,252,54,59,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-03,91,101,240,53,69,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-04,94,101,236,53,76,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-05,104,115,236,45,77,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-06,93,94,249,45,67,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-07,97,92,249,46,62,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-08,90,100,246,48,62,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-09,90,98,250,52,58,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-10,88,96,238,52,69,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-11,91,97,237,49,77,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-12,99,111,224,41,76,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-13,92,92,251,45,67,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-14,85,89,251,42,64,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-15,91,99,246,46,63,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-16,91,96,245,49,59,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-17,88,94,247,46,70,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-18,92,96,244,45,81,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-19,100,108,228,40,78,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-20,88,88,253,38,69,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-21,85,88,255,39,64,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-22,90,97,251,44,64,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-23,90,97,240,49,60,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-24,97,103,237,46,69,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-25,107,113,241,50,80,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-26,112,123,230,42,77,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-27,100,103,240,44,70,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-28,97,103,247,45,65,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-29,103,112,249,51,65,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-06-30,109,114,245,57,60,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-01,109,115,241,59,67,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-02,111,115,242,58,73,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-03,120,123,237,45,68,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-04,111,97,259,40,-17,32
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-05,96,94,250,41,-17,33
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-06,103,113,244,55,65,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-07,100,107,246,56,62,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-08,95,102,234,53,71,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-09,98,102,240,47,82,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-10,107,114,226,41,82,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-11,96,96,242,46,71,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-12,93,95,250,44,67,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-13,96,102,247,47,68,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-14,93,100,244,51,63,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-15,87,90,243,44,73,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-16,94,97,234,45,84,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-17,101,110,221,40,81,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-18,93,90,258,43,73,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-19,88,89,249,40,67,33
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-20,92,100,245,44,67,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-21,94,98,248,49,64,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-22,95,101,244,47,75,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-23,101,107,244,49,83,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-24,81,85,176,21,58,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-25,95,97,229,40,69,27
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-26,103,108,267,48,70,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-27,109,118,268,55,68,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-28,109,115,270,59,63,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-29,110,116,267,57,71,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-30,118,117,261,56,82,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-07-31,131,124,252,51,81,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-01,114,100,262,40,-11,34
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-02,104,109,273,50,67,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-03,110,117,267,56,65,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-04,109,115,272,59,62,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-05,106,113,261,55,71,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-06,106,111,258,53,80,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-07,116,123,251,46,78,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-08,105,104,267,49,64,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-09,101,104,271,50,60,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-10,104,113,264,53,60,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-11,102,108,264,54,57,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-12,99,106,256,52,68,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-13,104,105,257,48,81,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-14,113,118,256,44,80,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-15,104,102,271,46,66,28
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-16,101,100,266,45,60,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-17,110,113,273,52,62,28
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-18,106,109,274,55,59,28
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-19,104,107,265,54,68,28
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-20,109,107,266,50,83,27
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-21,115,120,254,45,81,28
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-22,105,103,272,47,68,30
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-23,108,105,270,48,63,29
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-24,116,115,268,53,63,29
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-25,116,119,268,60,58,27
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-26,121,126,274,62,69,27
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-27,126,125,275,61,83,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-28,134,138,267,54,84,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-29,119,118,277,54,70,26
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-30,116,119,286,55,67,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-08-31,121,127,275,56,65,25
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-01,120,127,274,61,61,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-02,118,124,270,61,73,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-03,124,127,279,61,86,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-04,135,142,267,54,87,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-05,117,116,277,51,76,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-06,109,112,284,50,72,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-07,112,120,289,56,74,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-08,113,117,286,59,70,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-09,110,114,275,55,81,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-10,114,116,281,53,90,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-11,124,129,266,46,92,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-12,108,107,287,47,81,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-13,104,107,289,49,74,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-14,107,114,283,51,74,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-15,106,111,281,53,70,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-16,105,109,271,50,81,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-17,108,108,267,47,89,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-18,114,123,257,40,88,24
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-19,101,99,273,41,80,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-20,98,99,274,41,75,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-21,103,111,269,44,73,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-22,105,109,272,48,69,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-23,107,110,269,47,80,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-24,112,113,270,45,85,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-25,122,129,256,42,87,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-26,112,112,275,42,81,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-27,115,121,282,49,76,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-28,119,128,277,54,76,21
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-29,120,126,277,56,71,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-09-30,124,129,272,59,83,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-01,130,132,280,61,91,20
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-02,136,147,265,50,91,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-03,120,121,277,52,85,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-04,116,120,290,51,80,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-05,126,129,289,50,72,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-06,114,120,280,54,78,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-07,113,117,275,51,86,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-08,116,114,270,46,89,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-09,124,131,258,41,91,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-10,110,109,268,44,83,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-11,106,106,275,45,79,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-12,111,114,269,48,78,23
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-13,112,112,275,50,73,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-14,109,111,266,49,84,22
+ZM,Zambia,,,,,,ChIJcQv8_KX0QBkRRT5Yfqz5n_E,2022-10-15,112,111,268,46,90,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-01,34,29,145,-24,-37,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-02,39,47,128,-19,1,7
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-03,51,64,134,-2,4,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-04,45,61,126,-3,3,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-05,43,60,105,-4,3,13
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-06,42,60,98,-1,2,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-07,48,60,93,0,13,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-08,42,47,124,-10,25,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-09,44,50,117,-16,9,7
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-10,50,58,105,-2,14,9
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-11,48,60,116,-1,11,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-12,34,41,82,-11,9,16
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-13,49,63,107,2,11,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-14,44,52,98,-3,19,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-15,48,54,149,-4,31,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-16,42,46,127,-14,13,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-17,50,55,113,0,18,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-18,46,54,112,-4,15,13
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-19,49,53,111,-2,17,13
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-20,51,57,118,-1,14,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-21,58,61,115,3,26,13
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-22,63,65,164,1,36,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-23,59,62,153,-13,18,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-24,61,61,122,1,23,9
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-25,57,62,128,0,20,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-26,46,49,99,-9,17,15
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-27,58,61,116,4,20,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-28,55,52,96,-4,31,13
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-29,62,61,162,4,37,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-30,44,44,131,-23,11,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-01-31,59,52,159,-3,26,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-01,62,65,137,2,24,9
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-02,59,62,130,4,27,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-03,59,65,119,7,23,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-04,58,57,100,3,34,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-05,59,54,171,-1,38,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-06,53,55,153,-15,19,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-07,61,57,129,0,29,9
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-08,59,59,135,1,27,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-09,55,55,133,0,28,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-10,58,57,140,3,24,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-11,59,55,127,3,36,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-12,64,57,186,-1,39,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-13,60,56,169,-13,21,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-14,79,63,138,1,33,7
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-15,58,56,133,-3,29,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-16,55,54,120,-1,31,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-17,57,58,133,1,28,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-18,57,52,119,2,40,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-19,60,53,180,-1,42,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-20,52,47,165,-17,22,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-21,57,48,141,-4,34,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-22,59,53,141,1,32,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-23,60,55,127,7,33,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-24,65,64,145,12,31,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-25,68,62,135,13,41,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-26,75,66,203,9,44,12
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-27,68,65,176,-2,30,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-02-28,73,64,143,12,36,10
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-01,73,71,173,15,34,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-02,69,69,145,20,36,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-03,73,72,162,23,34,11
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-04,73,68,169,25,46,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-05,80,71,,21,51,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-06,75,69,212,9,36,15
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-07,79,65,,21,40,14
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-08,81,66,,15,-34,29
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-09,68,63,173,26,41,17
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-10,73,67,188,33,40,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-11,73,67,176,31,51,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-12,72,63,,24,28,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-13,75,67,,19,43,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-14,68,55,,24,46,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-15,72,63,,27,43,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-16,66,58,189,27,44,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-17,74,64,180,32,39,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-18,44,41,181,10,-30,42
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-19,68,57,228,25,54,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-20,68,59,,19,44,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-21,70,56,,25,48,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-22,68,60,,27,43,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-23,68,60,185,27,45,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-24,72,65,201,30,42,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-25,78,69,199,35,54,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-26,84,72,,30,58,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-27,72,64,221,16,42,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-28,77,64,,29,49,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-29,77,70,,30,44,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-30,75,68,,34,46,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-03-31,81,76,,37,43,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-01,82,73,232,37,56,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-02,89,79,,37,60,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-03,84,79,,27,52,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-04,80,68,,34,50,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-05,81,76,,37,47,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-06,78,74,,40,48,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-07,81,77,,39,43,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-08,79,76,207,38,56,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-09,81,73,,38,61,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-10,82,79,,29,51,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-11,81,69,,35,51,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-12,83,76,,38,47,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-13,79,73,,37,48,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-14,96,88,,47,43,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-15,69,68,230,30,-27,32
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-16,69,61,,23,22,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-17,82,70,,22,40,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-18,68,57,,19,-37,35
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-19,77,71,,36,47,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-20,73,71,180,33,46,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-21,72,70,190,33,43,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-22,80,76,196,36,54,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-23,92,82,,36,62,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-24,93,86,,30,52,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-25,93,76,,35,47,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-26,96,84,,37,43,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-27,99,86,,42,44,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-28,89,86,,35,-27,33
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-29,91,86,247,39,47,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-04-30,98,85,,39,61,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-01,101,87,,31,51,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-02,85,72,,26,-34,34
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-03,92,83,,36,42,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-04,87,83,,40,47,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-05,88,85,,40,44,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-06,92,84,236,37,55,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-07,100,86,,39,63,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-08,103,91,,29,55,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-09,86,76,,32,51,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-10,84,78,,33,48,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-11,78,74,,33,49,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-12,82,76,,38,47,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-13,84,76,196,35,60,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-14,88,76,,33,66,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-15,89,83,,28,57,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-16,82,69,,30,52,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-17,80,73,,32,48,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-18,78,73,,33,49,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-19,78,75,,34,45,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-20,80,74,214,32,58,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-21,85,75,,29,66,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-22,87,83,,24,57,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-23,83,71,,29,52,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-24,95,86,,34,46,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-25,84,81,,30,-29,34
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-26,85,85,,39,45,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-27,88,83,241,37,56,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-28,100,87,,36,63,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-29,94,90,,27,58,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-30,90,78,,33,53,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-05-31,90,85,,35,49,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-01,86,83,,37,50,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-02,86,85,,42,46,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-03,84,83,235,41,59,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-04,90,84,,40,66,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-05,94,93,,31,60,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-06,89,79,,36,53,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-07,97,84,,36,49,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-08,80,80,,38,48,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-09,83,84,,40,46,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-10,82,81,225,39,58,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-11,88,81,,37,65,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-12,90,87,,26,58,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-13,88,77,,34,51,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-14,82,81,,32,49,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-15,81,80,,34,49,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-16,83,83,,37,45,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-17,83,80,252,33,58,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-18,89,81,,32,68,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-19,90,86,,25,56,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-20,84,77,,28,53,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-21,82,80,,28,48,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-22,80,78,,32,49,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-23,82,84,,36,46,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-24,90,87,226,31,58,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-25,100,92,,34,68,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-26,99,97,,26,58,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-27,91,84,,31,54,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-28,90,90,,34,49,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-29,87,87,,38,50,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-06-30,95,96,,44,47,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-01,97,97,,42,56,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-02,99,91,,41,62,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-03,100,94,,28,51,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-04,98,78,,27,-34,31
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-05,87,83,,28,-34,34
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-06,90,92,,43,50,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-07,92,94,,44,48,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-08,90,90,248,39,60,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-09,94,87,,34,70,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-10,97,92,,26,63,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-11,91,84,,36,54,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-12,92,88,,33,51,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-13,86,84,,35,53,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-14,86,86,,39,48,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-15,83,77,,31,60,25
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-16,94,85,,34,72,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-17,93,90,,25,60,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-18,91,80,,33,56,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-19,87,85,,29,51,33
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-20,83,84,,33,51,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-21,87,88,,37,50,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-22,90,88,,33,62,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-23,98,92,,34,69,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-24,76,69,,8,42,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-25,92,84,,27,53,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-26,101,100,,34,54,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-27,100,97,,41,52,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-28,104,102,,43,48,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-29,107,103,,41,59,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-30,120,103,,42,69,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-07-31,129,106,,35,65,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-01,120,90,,28,-30,32
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-02,105,102,,36,52,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-03,101,99,,42,52,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-04,102,103,,44,50,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-05,102,101,,38,60,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-06,105,97,,36,69,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-07,106,101,,29,60,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-08,103,92,,36,51,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-09,100,97,,37,47,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-10,94,94,,39,49,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-11,95,96,,39,46,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-12,95,94,,36,59,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-13,104,92,,33,69,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-14,104,98,,27,60,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-15,101,90,,33,53,25
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-16,100,94,,33,49,25
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-17,99,95,,38,51,26
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-18,99,98,,41,48,26
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-19,101,95,,39,60,27
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-20,108,96,,36,71,25
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-21,107,101,,29,63,25
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-22,103,92,,34,56,27
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-23,107,100,,36,52,28
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-24,107,99,,38,52,27
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-25,108,107,,44,49,26
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-26,114,109,,45,62,25
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-27,123,109,,44,72,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-28,122,115,,36,66,22
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-29,115,103,,39,59,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-30,114,113,,39,56,24
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-08-31,111,108,,40,55,23
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-01,113,116,,45,52,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-02,115,113,,44,66,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-03,125,115,,45,77,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-04,126,122,,38,71,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-05,115,106,,38,64,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-06,109,109,,38,61,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-07,104,106,,42,63,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-08,107,110,,44,60,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-09,107,105,,40,74,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-10,115,105,,39,81,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-11,115,110,,30,75,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-12,104,97,,34,68,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-13,103,104,,37,62,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-14,98,99,,38,63,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-15,101,105,,40,60,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-16,103,101,,37,73,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-17,109,100,,34,80,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-18,107,106,,24,73,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-19,99,91,,30,68,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-20,99,97,,29,63,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-21,96,97,,31,63,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-22,100,103,,35,59,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-23,105,103,,32,72,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-24,113,104,,32,77,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-25,115,112,,26,72,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-26,111,103,,29,69,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-27,115,113,,35,64,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-28,109,108,,37,63,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-29,116,115,,39,60,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-09-30,122,117,,41,74,18
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-01,130,119,,45,82,17
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-02,129,126,,34,76,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-03,120,111,,38,72,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-04,117,114,,37,67,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-05,115,109,,37,61,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-06,109,110,,38,66,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-07,111,107,,36,77,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-08,119,104,,34,82,19
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-09,118,112,,26,76,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-10,111,100,,32,70,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-11,108,103,,33,66,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-12,106,99,,35,66,21
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-13,109,105,,36,60,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-14,110,102,,34,75,20
+ZM,Zambia,,,Lusaka Metropolitan Area,,,ChIJL3hQiiWNQBkRwgsdS9A-K_Y,2022-10-15,116,100,,33,81,19

@@ -1,0 +1,1153 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-01,-35,-34,9,-24,-36,-3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-02,-12,-6,9,-6,-16,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-03,-26,-29,17,-14,-67,7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-04,-5,10,2,-2,-28,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-05,-7,4,8,6,-24,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-06,-10,4,6,-13,-25,-3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-07,-8,4,6,-11,-23,-3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-08,-10,-1,4,-18,-14,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-09,-15,-4,-3,-23,-16,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-10,-29,-32,13,-27,-66,9
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-11,-9,6,0,-22,-24,-4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-12,-11,2,-2,-12,-22,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-13,-11,2,10,-20,-21,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-14,-5,5,5,-17,-18,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-15,-8,1,7,-18,-8,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-16,-11,-4,-1,-27,-13,-4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-17,-3,2,10,-23,-18,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-18,-6,2,9,-13,-19,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-19,-6,-1,6,-1,-16,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-20,-6,3,10,-8,-16,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-21,0,5,10,-12,-11,-3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-22,-2,3,6,-16,-5,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-23,-3,2,8,-13,-6,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-24,2,7,22,-18,-11,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-25,0,4,15,0,-11,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-26,-2,3,9,8,-10,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-27,1,8,12,-1,-12,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-28,6,13,12,1,-8,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-29,0,13,-1,-13,-6,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-30,-1,3,11,-10,-7,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-01-31,6,11,21,-6,-9,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-01,3,8,21,-3,-10,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-02,2,4,12,6,-7,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-03,0,8,13,2,-8,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-04,4,10,14,0,-5,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-05,0,7,12,-7,-3,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-06,0,3,16,-10,-4,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-07,5,7,27,-15,-7,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-08,1,4,18,-8,-8,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-09,-2,0,9,1,-7,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-10,1,8,15,-1,-7,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-11,7,11,22,7,-4,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-12,7,11,14,-2,-1,-9
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-13,12,10,23,-4,1,-9
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-14,14,12,24,-7,-7,-9
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-15,2,6,12,2,-9,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-16,0,3,7,8,-7,-6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-17,2,8,17,4,-6,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-18,5,10,18,3,-4,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-19,1,4,16,1,0,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-20,4,5,20,-6,-1,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-21,6,8,34,-2,-6,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-22,4,6,29,5,-6,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-23,4,3,27,20,-5,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-24,7,12,32,15,-6,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-25,11,16,33,14,-9,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-26,5,9,28,14,0,-10
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-27,7,4,31,10,-2,-9
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-02-28,7,10,41,5,-12,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-01,6,12,35,8,-6,-8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-02,2,7,36,12,-4,-7
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-03,0,8,36,5,-4,-5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-04,6,10,34,7,-2,-4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-05,1,6,28,-2,-2,-4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-06,4,2,31,-7,-3,-3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-07,3,7,49,-10,-4,-3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-08,0,3,47,3,-4,-2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-09,0,2,44,14,-3,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-10,0,4,51,9,-4,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-11,4,6,50,6,-1,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-12,1,4,33,1,1,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-13,2,1,38,-1,-2,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-14,0,4,50,0,-5,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-15,3,4,54,7,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-16,2,3,50,14,-2,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-17,2,5,50,8,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-18,8,9,52,9,-1,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-19,4,5,46,5,0,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-20,9,2,45,1,-1,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-21,6,8,61,-1,-2,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-22,5,8,51,8,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-23,2,3,50,12,-1,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-24,3,5,50,8,-2,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-25,-1,2,35,7,-4,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-26,4,4,39,16,2,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-27,8,4,39,-1,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-28,5,9,56,0,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-29,12,10,54,4,-4,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-30,7,9,51,12,-2,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-03-31,10,11,48,11,-1,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-01,10,11,47,10,1,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-02,5,6,38,1,-1,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-03,8,5,40,-4,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-04,6,10,54,6,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-05,6,8,51,8,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-06,6,5,48,16,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-07,6,7,49,6,-2,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-08,7,10,44,19,-1,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-09,6,6,40,11,2,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-10,12,6,40,6,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-11,12,12,54,9,-9,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-12,8,9,52,16,-10,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-13,8,11,48,28,-11,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-14,19,30,56,32,-14,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-15,-37,-27,31,2,-62,19
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-16,0,6,34,7,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-17,9,-4,44,-1,-2,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-18,-18,-27,55,5,-63,16
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-19,7,10,52,27,-11,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-20,4,8,41,25,-8,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-21,0,7,39,14,-7,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-22,5,12,38,24,-5,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-23,5,9,38,13,1,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-24,7,6,34,14,1,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-25,7,13,45,16,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-26,8,10,49,22,-3,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-27,11,11,47,24,-1,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-28,10,15,46,12,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-29,13,17,48,20,-1,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-04-30,6,10,36,9,-1,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-01,12,9,41,8,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-02,10,13,50,10,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-03,9,11,47,16,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-04,1,6,38,15,-2,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-05,7,10,38,16,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-06,9,13,42,19,0,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-07,5,9,29,13,0,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-08,12,3,37,1,-8,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-09,7,8,50,11,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-10,7,10,44,16,-3,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-11,3,6,41,17,-2,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-12,4,10,40,13,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-13,4,10,36,10,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-14,-2,3,21,7,-5,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-15,4,1,30,1,-4,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-16,2,8,43,1,-5,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-17,5,9,40,12,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-18,4,8,38,15,-3,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-19,2,7,32,7,-4,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-20,6,10,32,10,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-21,3,6,26,4,-2,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-22,7,5,32,-1,-1,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-23,8,11,54,2,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-24,9,11,44,11,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-25,4,7,37,16,-4,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-26,6,13,37,14,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-27,13,19,42,13,-3,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-28,3,13,32,9,-2,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-29,6,8,29,-2,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-30,7,13,46,7,-5,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-05-31,6,10,37,17,-6,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-01,6,12,39,22,-4,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-02,17,28,40,31,-6,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-03,-27,-22,12,2,-62,21
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-04,-13,-1,5,-10,-14,8
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-05,-2,-5,19,-5,-9,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-06,-30,-33,26,-5,-64,21
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-07,0,12,28,17,-14,6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-08,3,10,33,24,-5,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-09,3,12,37,14,-5,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-10,8,14,38,8,-3,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-11,2,8,33,5,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-12,11,7,39,-1,-3,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-13,9,12,52,2,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-14,8,10,47,13,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-15,7,10,44,21,-4,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-16,8,13,41,12,-7,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-17,9,18,46,16,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-18,6,17,32,14,-2,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-19,9,10,42,5,-5,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-20,7,10,55,8,-8,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-21,11,13,50,14,-9,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-22,6,10,45,20,-7,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-23,7,14,43,18,-8,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-24,9,15,42,22,-8,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-25,1,6,35,17,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-26,9,7,35,10,-5,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-27,4,10,46,2,-13,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-28,14,16,44,21,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-29,7,11,36,20,-13,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-06-30,11,13,36,24,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-01,10,15,37,12,-10,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-02,7,9,34,15,-3,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-03,10,6,40,4,-2,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-04,11,10,53,4,-12,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-05,12,9,51,15,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-06,7,6,41,21,-12,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-07,10,11,43,19,-13,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-08,11,11,43,18,-12,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-09,5,8,35,20,-7,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-10,17,3,42,2,-5,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-11,-15,-27,49,1,-65,15
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-12,8,13,44,21,-15,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-13,5,7,38,30,-13,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-14,5,7,34,19,-13,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-15,-11,-5,19,4,-16,9
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-16,-4,4,19,13,-6,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-17,6,4,32,7,-3,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-18,13,10,60,9,-13,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-19,9,9,50,22,-14,6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-20,4,5,44,24,-12,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-21,5,6,42,22,-13,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-22,7,9,39,14,-11,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-23,2,7,33,16,-5,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-24,9,-1,37,1,-4,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-25,8,7,43,9,-14,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-26,3,1,36,13,-15,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-27,11,9,40,25,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-28,12,14,42,29,-14,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-29,14,15,43,22,-14,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-30,9,15,32,21,-6,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-07-31,14,10,39,7,-5,-1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-01,-11,-23,47,2,-64,15
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-02,11,11,43,24,-17,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-03,7,7,42,28,-15,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-04,4,7,38,23,-15,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-05,7,7,35,13,-14,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-06,1,9,27,14,-7,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-07,6,5,38,9,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-08,8,4,50,8,-17,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-09,8,2,40,18,-17,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-10,3,0,34,21,-15,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-11,2,3,33,22,-15,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-12,5,6,36,14,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-13,1,4,27,12,-6,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-14,5,5,34,8,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-15,9,5,49,13,-17,6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-16,9,6,46,17,-16,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-17,5,1,40,26,-15,6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-18,7,5,38,23,-15,6
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-19,9,8,40,12,-14,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-20,2,1,30,20,-7,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-21,12,7,41,9,-5,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-22,9,7,46,6,-14,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-23,9,6,48,17,-13,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-24,7,2,42,23,-12,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-25,7,7,39,13,-13,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-26,11,12,38,12,-12,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-27,9,9,31,7,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-28,8,10,35,4,-6,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-29,17,13,52,-1,-12,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-30,13,12,44,6,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-08-31,10,8,45,13,-11,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-01,9,7,40,4,-13,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-02,11,11,43,6,-10,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-03,7,9,29,-1,-8,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-04,9,12,34,-4,-9,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-05,8,10,50,-6,-11,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-06,7,6,47,5,-11,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-07,2,4,38,6,-9,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-08,1,4,35,-4,-10,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-09,5,6,40,-1,-7,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-10,1,5,29,-13,-9,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-11,2,7,31,-20,-10,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-12,2,4,48,-13,-9,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-13,-2,-2,39,-7,-11,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-14,-1,-1,38,1,-9,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-15,-1,3,30,-5,-9,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-16,5,6,37,-1,-6,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-17,0,7,30,-7,-7,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-18,8,6,38,-19,-10,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-19,-25,-27,31,-23,-66,21
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-20,5,9,43,-8,-9,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-21,2,3,36,1,-7,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-22,2,5,33,-4,-8,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-23,4,5,37,-2,-6,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-24,-1,3,27,-11,-8,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-25,0,3,33,-16,-11,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-26,3,3,45,-10,-8,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-27,-5,-1,31,-11,-11,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-28,1,6,32,-16,-13,5
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-29,3,7,33,-14,-11,4
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-09-30,9,10,39,-4,-5,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-01,1,7,24,-14,-9,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-02,5,10,29,-21,-10,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-03,9,8,47,-5,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-04,10,7,47,2,-6,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-05,4,1,40,7,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-06,3,4,31,3,-7,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-07,6,3,39,14,-7,0
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-08,-4,-2,23,-3,-10,2
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-09,3,1,29,-15,-9,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-10,-19,-27,43,-12,-66,17
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-11,1,5,35,5,-9,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-12,1,1,39,8,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-13,0,2,31,-6,-8,3
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-14,7,5,36,1,-6,1
+BS,The Bahamas,,,,,,ChIJPQ9Isjua1ogR5XnHaoO0PhM,2022-10-15,3,5,31,-5,-7,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-01,-40,-54,,,-41,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-02,,,,,-30,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-03,-37,,,,-72,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-04,-6,0,,,-24,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-05,-14,-12,,,-25,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-06,-17,-9,,,-24,-8
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-07,-11,-13,,,-22,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-08,-17,-16,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-09,,,,,-26,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-10,-38,,,,-73,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-11,-11,-4,,,-20,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-12,-13,-10,,,-20,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-13,-17,-16,,,-17,-8
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-14,-5,-15,,,-15,-8
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-15,-13,-15,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-16,,,,,-26,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-17,0,-13,,,-15,-6
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-18,-5,-15,,,-15,-7
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-19,-14,-12,,,-13,-6
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-20,-15,-13,,,-12,-6
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-21,-6,-14,,,-7,-6
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-22,2,-11,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-23,,,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-24,5,-2,,,-6,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-25,-1,-9,,,-4,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-26,-8,-5,,,-8,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-27,-6,-1,,,-16,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-28,10,9,,,-7,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-29,-5,2,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-30,,,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-01-31,8,-1,,,-5,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-01,3,-7,,,-3,-13
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-02,-4,-8,,,-4,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-03,-6,-5,,,-2,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-04,3,-3,,,1,-13
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-05,-3,-8,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-06,,,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-07,5,-6,,,-2,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-08,-4,-11,,,-2,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-09,-9,-10,,,-5,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-10,-5,-3,,,0,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-11,7,0,,,2,-15
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-12,8,3,,,-5,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-13,,,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-14,,0,,,-2,-15
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-15,4,-5,,,-3,-13
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-16,-5,-1,,,-4,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-17,-4,-2,,,-4,-13
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-18,4,-2,,,3,-15
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-19,-5,-9,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-20,,,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-21,5,-7,,,-2,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-22,0,-7,,,0,-13
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-23,-2,-8,,,-2,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-24,-3,-1,,,-4,-12
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-25,5,6,,,-7,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-26,-3,-4,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-27,,,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-02-28,6,-3,,,-12,-7
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-01,0,1,,,-3,-11
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-02,-8,-5,,,-2,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-03,-10,0,,,-1,-9
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-04,0,2,,,3,-7
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-05,-6,-4,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-06,,,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-07,-2,-6,,,-1,-5
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-08,-5,-6,,,-1,-2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-09,-12,-10,,,-4,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-10,-10,-8,,,-1,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-11,-3,-8,,,3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-12,-4,-6,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-13,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-14,-3,-10,,,-3,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-15,0,-10,,,-1,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-16,-3,-3,,,-1,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-17,-8,-10,,,-1,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-18,6,-6,,,3,-1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-19,-4,-9,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-20,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-21,4,-3,,,2,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-22,1,-4,,,1,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-23,-5,-6,,,-1,3
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-24,-6,-7,,,1,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-25,2,3,,,4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-26,4,-8,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-27,,,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-28,1,-6,,,-1,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-29,5,6,,,0,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-30,6,8,,,-1,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-03-31,-6,0,,,0,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-01,6,5,,,3,-1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-02,-5,-2,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-03,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-04,-8,0,,,1,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-05,-3,-4,,,0,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-06,-6,-5,,,0,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-07,-7,-4,,,0,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-08,8,-2,,,2,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-09,2,-5,,,-6,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-10,,,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-11,4,0,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-12,4,-5,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-13,-2,3,,,-15,4
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-14,9,24,,,-16,-1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-15,-50,-65,,,-68,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-16,-1,-2,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-17,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-18,-30,-68,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-19,0,2,,,-9,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-20,-5,3,,,-10,4
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-21,-8,1,,,-6,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-22,4,12,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-23,-2,2,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-24,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-25,4,6,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-26,5,0,,,-1,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-27,-3,-2,,,-2,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-28,-8,0,,,-3,-1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-29,4,0,,,0,-3
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-04-30,-6,-11,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-01,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-02,6,-4,,,-1,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-03,1,-3,,,-1,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-04,-9,-6,,,-4,4
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-05,-7,-4,,,0,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-06,1,-4,,,2,-3
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-07,0,-4,,,-12,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-08,,,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-09,-1,-6,,,-2,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-10,0,-11,,,-1,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-11,-7,-9,,,-3,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-12,-12,-8,,,-5,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-13,-3,-9,,,1,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-14,-5,-11,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-15,,,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-16,-6,-7,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-17,-3,-7,,,-1,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-18,-10,-2,,,-3,3
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-19,-2,0,,,-2,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-20,-4,-4,,,1,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-21,-5,-7,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-22,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-23,4,0,,,-2,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-24,6,-4,,,-5,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-25,-5,-3,,,-3,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-26,-8,0,,,-5,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-27,10,8,,,-3,-2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-28,-2,4,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-29,,,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-30,-3,-6,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-05-31,1,3,,,-1,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-01,-6,4,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-02,14,20,,,-5,-2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-03,-45,-57,,,-68,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-04,-56,-46,,,-41,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-05,,,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-06,-21,,,,-68,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-07,11,15,,,-6,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-08,4,9,,,-6,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-09,-9,3,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-10,5,0,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-11,-6,-5,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-12,,,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-13,8,-3,,,-5,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-14,2,0,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-15,2,1,,,-8,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-16,-7,2,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-17,6,7,,,-5,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-18,4,3,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-19,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-20,4,2,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-21,11,-1,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-22,-1,-1,,,-11,3
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-23,-7,2,,,-8,2
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-24,4,4,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-25,-11,-8,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-26,,,,,-12,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-27,2,0,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-28,5,4,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-29,-3,0,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-06-30,-2,2,,,-16,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-01,5,5,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-02,3,0,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-03,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-04,11,2,,,-12,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-05,10,-4,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-06,0,-1,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-07,-2,-4,,,-13,0
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-08,9,4,,,-12,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-09,0,0,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-10,,,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-11,-27,-67,,,-74,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-12,2,4,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-13,-9,-2,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-14,-10,0,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-15,-5,-6,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-16,-5,-3,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-17,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-18,6,0,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-19,6,-1,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-20,-5,-6,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-21,-10,-4,,,-15,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-22,1,-7,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-23,-8,-14,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-24,,,,,-23,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-25,7,-12,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-26,5,-13,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-27,1,-6,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-28,6,-4,,,-13,-1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-29,5,-2,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-30,2,-8,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-07-31,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-01,-22,-66,,,-69,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-02,11,-4,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-03,1,-10,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-04,-12,-8,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-05,9,-11,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-06,-5,-19,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-07,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-08,6,-12,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-09,3,-12,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-10,-5,-17,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-11,-6,-15,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-12,2,-8,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-13,-3,-16,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-14,,,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-15,15,-11,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-16,7,-10,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-17,3,-13,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-18,-4,-11,,,-16,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-19,9,-10,,,-15,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-20,-4,-22,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-21,,,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-22,4,-15,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-23,2,-10,,,-12,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-24,3,-13,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-25,-3,-12,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-26,5,-1,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-27,5,-8,,,-12,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-28,,,,,-17,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-29,18,-3,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-30,16,-2,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-08-31,4,-11,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-01,-3,-10,,,-12,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-02,9,-9,,,-6,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-03,1,-10,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-04,,,,,-18,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-05,8,-9,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-06,-4,-17,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-07,-6,-11,,,-14,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-08,-8,-6,,,-8,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-09,-2,-8,,,-6,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-10,-3,-12,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-11,,,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-12,3,-12,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-13,-2,-17,,,-10,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-14,-10,-15,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-15,-14,-15,,,-9,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-16,1,-7,,,-3,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-17,-15,-14,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-18,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-19,-40,-66,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-20,4,-1,,,-5,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-21,1,-9,,,-7,1
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-22,-1,-5,,,-5,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-23,-1,-7,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-24,-2,-8,,,-13,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-25,,,,,-25,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-26,2,-11,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-27,-3,-8,,,-8,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-28,-4,4,,,-26,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-29,-10,-6,,,-20,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-09-30,3,-5,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-01,-3,-8,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-02,,,,,-19,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-03,7,-6,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-04,13,-6,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-05,-4,-10,,,-11,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-06,-4,-11,,,-6,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-07,2,-9,,,-4,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-08,-2,-10,,,-14,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-09,,,,,-21,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-10,-26,-58,,,-71,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-11,5,-4,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-12,-5,-14,,,-7,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-13,-10,-16,,,-5,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-14,8,-8,,,1,
+BS,The Bahamas,Freeport,,,BS-FP,,ChIJza5UwhvYJokRJ-JOqh3cDWw,2022-10-15,-2,-7,,,-9,
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-01,-37,-30,13,-30,-39,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-02,-13,-5,26,-12,-19,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-03,-26,-23,36,-20,-70,9
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-04,-4,12,16,-12,-31,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-05,-6,8,29,0,-27,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-06,-11,5,19,-23,-28,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-07,-7,8,22,-20,-26,-2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-08,-10,1,11,-24,-15,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-09,-16,-3,14,-36,-18,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-10,-29,-25,32,-36,-69,10
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-11,-8,9,19,-32,-27,-2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-12,-11,6,21,-19,-25,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-13,-12,5,20,-27,-25,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-14,-5,8,19,-22,-21,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-15,-8,3,10,-26,-11,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-16,-11,-1,20,-37,-12,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-17,-5,4,28,-32,-20,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-18,-6,5,24,-27,-22,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-19,-6,2,25,-8,-19,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-20,-7,6,22,-20,-20,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-21,0,8,20,-20,-15,-2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-22,-4,4,9,-29,-8,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-23,-4,1,26,-28,-7,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-24,-1,7,35,-31,-15,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-25,-1,7,26,-23,-15,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-26,-2,4,29,-7,-13,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-27,0,9,20,-17,-15,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-28,5,13,25,-14,-12,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-29,0,14,11,-29,-8,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-30,-3,4,24,-30,-8,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-01-31,4,12,31,-20,-12,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-01,2,10,32,-20,-14,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-02,0,5,30,-10,-11,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-03,-2,8,27,-15,-12,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-04,3,10,25,-13,-9,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-05,-2,7,15,-19,-5,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-06,-2,3,26,-25,-7,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-07,2,6,39,-26,-11,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-08,1,6,29,-25,-12,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-09,-3,0,27,-9,-10,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-10,-2,7,28,-18,-11,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-11,5,11,30,-6,-8,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-12,4,10,17,-14,-4,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-13,10,9,40,-20,-2,-8
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-14,10,11,37,-23,-11,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-15,1,7,27,-14,-12,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-16,-1,4,28,-2,-10,-5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-17,0,6,31,-11,-10,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-18,3,10,30,-9,-8,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-19,-1,3,21,-10,-3,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-20,3,4,33,-18,-3,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-21,3,6,43,-16,-10,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-22,4,8,39,-13,-10,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-23,3,4,46,7,-8,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-24,5,12,44,-1,-11,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-25,10,16,46,1,-13,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-26,3,7,31,-6,-4,-9
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-27,6,4,48,-7,-3,-8
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-02-28,4,8,54,-11,-16,-6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-01,6,14,48,-10,-10,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-02,0,8,55,-4,-8,-7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-03,-2,7,49,-12,-9,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-04,6,8,50,-9,-7,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-05,-1,5,34,-12,-6,-4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-06,1,0,47,-19,-5,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-07,0,5,63,-22,-8,-3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-08,-1,3,61,-11,-8,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-09,-1,2,70,-1,-7,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-10,-3,2,69,-9,-9,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-11,2,4,65,-9,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-12,-2,2,44,-11,-3,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-13,-1,-2,54,-16,-3,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-14,-3,1,68,-17,-9,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-15,1,4,69,-13,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-16,0,2,72,-7,-6,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-17,-1,3,70,-8,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-18,7,8,69,-7,-5,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-19,2,5,49,-9,-4,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-20,7,2,63,-15,-3,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-21,2,4,76,-18,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-22,3,7,68,-12,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-23,0,2,71,-4,-5,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-24,0,3,64,-6,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-25,-5,-4,48,-6,-10,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-26,1,2,45,0,-2,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-27,6,1,61,-18,-5,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-28,1,6,72,-14,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-29,11,8,72,-18,-8,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-30,4,7,69,-6,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-03-31,9,8,71,-8,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-01,8,8,63,1,-4,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-02,3,3,50,-11,-5,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-03,4,4,57,-18,-3,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-04,4,8,75,-6,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-05,5,8,69,-8,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-06,5,5,77,8,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-07,3,4,69,-4,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-08,4,8,60,6,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-09,2,5,49,0,-2,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-10,8,4,61,-9,-4,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-11,9,8,82,-5,-13,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-12,7,8,70,0,-14,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-13,6,9,75,22,-14,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-14,14,24,75,17,-18,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-15,-41,-22,43,-7,-65,20
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-16,-6,0,31,-6,-11,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-17,2,-6,59,-15,-5,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-18,-22,-25,70,-8,-66,16
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-19,4,6,66,10,-15,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-20,2,4,66,15,-12,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-21,-3,2,52,-1,-12,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-22,2,8,53,9,-10,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-23,2,6,45,-3,-3,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-24,3,4,55,-6,-1,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-25,4,9,74,-2,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-26,7,8,66,-1,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-27,10,11,72,10,-5,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-28,9,13,68,1,-7,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-29,11,17,66,11,-5,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-04-30,5,10,44,-2,-4,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-01,8,9,58,-7,-3,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-02,7,12,69,-3,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-03,8,12,67,-3,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-04,0,5,62,2,-6,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-05,5,7,62,4,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-06,7,13,58,8,-5,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-07,1,7,37,0,-4,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-08,7,3,55,-14,-11,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-09,4,7,71,-2,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-10,6,11,68,-2,-8,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-11,2,7,68,4,-6,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-12,2,9,63,0,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-13,2,10,51,4,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-14,-5,2,25,-2,-8,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-15,1,0,46,-13,-6,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-16,0,8,62,-7,-9,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-17,4,8,63,-5,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-18,3,8,65,7,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-19,-2,5,55,1,-9,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-20,4,10,57,6,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-21,1,4,44,-2,-6,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-22,5,3,54,-10,-3,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-23,5,10,75,-8,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-24,8,11,68,-3,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-25,2,8,64,8,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-26,5,12,62,7,-9,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-27,11,19,60,9,-7,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-28,1,11,37,3,-6,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-29,4,8,49,-11,-3,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-30,5,13,63,-5,-9,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-05-31,5,9,58,6,-11,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-01,4,12,68,18,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-02,12,24,65,18,-11,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-03,-28,-17,32,-5,-65,21
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-04,-10,4,19,-11,-12,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-05,-10,-11,31,-20,-10,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-06,-36,-31,33,-15,-67,23
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-07,-4,8,44,5,-19,7
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-08,-1,9,57,14,-9,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-09,1,10,57,0,-9,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-10,7,13,58,4,-8,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-11,0,7,39,-3,-5,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-12,9,7,61,-12,-5,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-13,6,11,76,-8,-9,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-14,6,10,69,1,-9,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-15,5,11,67,16,-8,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-16,5,12,66,0,-10,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-17,7,19,63,11,-9,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-18,2,17,42,4,-5,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-19,7,10,61,-4,-8,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-20,4,7,72,0,-12,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-21,9,15,71,6,-12,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-22,5,11,69,13,-10,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-23,4,13,64,6,-13,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-24,7,14,63,21,-12,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-25,-2,4,38,9,-9,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-26,6,6,54,-1,-7,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-27,1,9,66,-5,-17,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-28,15,18,69,15,-16,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-29,5,11,65,14,-16,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-06-30,9,13,67,14,-16,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-01,9,14,64,8,-13,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-02,5,8,48,3,-6,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-03,8,4,64,-5,-5,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-04,8,7,76,-4,-15,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-05,11,9,74,5,-15,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-06,6,5,70,15,-14,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-07,7,10,66,9,-17,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-08,8,10,61,14,-15,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-09,1,6,41,8,-10,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-10,14,1,68,-8,-7,-2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-11,-18,-23,75,-3,-68,16
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-12,6,11,66,15,-17,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-13,4,5,68,24,-15,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-14,3,5,63,5,-16,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-15,-16,-10,34,-1,-19,10
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-16,-7,1,29,7,-9,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-17,5,2,62,-3,-6,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-18,11,8,87,1,-16,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-19,7,9,74,15,-17,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-20,2,5,69,21,-15,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-21,3,4,70,8,-16,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-22,5,8,61,12,-15,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-23,-1,8,42,10,-10,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-24,6,-2,63,-7,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-25,5,6,72,3,-17,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-26,0,0,57,5,-19,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-27,9,11,71,24,-16,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-28,8,13,66,21,-18,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-29,9,13,61,17,-17,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-30,3,14,43,9,-9,-2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-07-31,8,6,54,-1,-8,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-01,-15,-18,75,-3,-67,15
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-02,8,10,67,21,-20,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-03,5,7,69,26,-18,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-04,1,6,59,10,-19,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-05,3,7,54,9,-18,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-06,-2,13,40,6,-11,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-07,2,6,59,-1,-6,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-08,5,3,75,3,-20,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-09,7,2,67,11,-19,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-10,2,1,66,21,-18,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-11,-1,2,63,11,-18,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-12,2,6,62,16,-16,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-13,-1,4,42,7,-9,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-14,4,6,61,1,-6,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-15,5,4,72,7,-19,6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-16,8,7,75,11,-19,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-17,3,1,68,23,-17,6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-18,5,5,68,13,-18,6
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-19,6,10,61,12,-17,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-20,0,3,45,12,-10,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-21,9,7,73,2,-7,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-22,7,7,74,0,-18,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-23,9,9,73,11,-16,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-24,6,4,79,19,-15,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-25,5,8,75,4,-17,5
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-26,9,10,65,10,-15,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-27,7,9,54,1,-8,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-28,5,9,59,-2,-7,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-29,14,11,84,-5,-16,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-30,11,13,75,-2,-16,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-08-31,9,10,78,8,-14,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-01,7,8,70,-4,-15,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-02,9,11,63,2,-13,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-03,6,11,45,-9,-11,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-04,6,14,63,-12,-10,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-05,5,10,77,-9,-14,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-06,7,8,77,-6,-13,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-07,1,5,73,6,-12,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-08,-1,3,66,-9,-13,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-09,3,7,64,-6,-10,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-10,-1,6,45,-17,-11,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-11,-1,8,58,-25,-11,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-12,-1,4,76,-19,-12,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-13,-3,0,59,-18,-13,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-14,-2,0,69,-1,-12,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-15,-2,2,64,-11,-13,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-16,3,5,59,-3,-10,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-17,-1,8,43,-13,-9,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-18,4,5,59,-27,-11,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-19,-27,-22,61,-26,-69,21
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-20,3,10,68,-15,-12,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-21,1,4,72,-4,-10,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-22,0,4,65,-9,-12,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-23,2,4,61,-9,-9,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-24,-3,2,44,-13,-10,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-25,-3,3,54,-22,-11,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-26,2,2,71,-15,-11,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-27,-5,-3,53,-23,-13,4
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-28,1,5,62,-19,-12,3
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-29,3,7,67,-20,-12,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-09-30,8,10,67,-9,-9,-1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-01,0,7,40,-17,-11,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-02,3,11,56,-27,-11,2
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-03,6,8,75,-12,-9,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-04,8,9,71,-8,-9,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-05,3,1,72,4,-8,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-06,1,3,61,-1,-11,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-07,3,2,62,12,-10,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-08,-8,-6,32,-7,-12,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-09,0,-1,52,-24,-9,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-10,-23,-23,66,-17,-68,17
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-11,-1,4,59,-6,-12,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-12,-1,2,67,1,-9,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-13,-1,1,65,-13,-12,1
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-14,3,3,61,-4,-10,0
+BS,The Bahamas,New Providence,,,,,ChIJGakt4XeAL4kR2Y2b1FRA-9I,2022-10-15,0,4,40,-8,-11,0
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-01,,,8,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-02,,,0,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-03,,,8,,-71,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-04,,,-1,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-05,,,3,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-06,,,-6,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-07,,,3,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-08,,,2,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-09,,,-1,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-10,,,2,,-72,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-11,,,-1,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-12,,,7,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-13,,,4,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-14,,,4,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-15,,,0,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-16,,,-3,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-17,,,15,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-18,,,9,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-19,,,17,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-20,,,12,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-21,,,5,,-18,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-22,,,3,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-23,,,8,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-24,,,18,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-25,,,17,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-26,,,13,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-27,,,21,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-28,,,30,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-29,,,12,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-30,,,26,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-01-31,,,31,,-18,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-01,,,19,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-02,,,21,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-03,,,10,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-04,,,20,,-9,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-05,,,17,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-06,,,24,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-07,,,21,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-08,,,17,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-09,,,6,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-10,,,12,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-11,,,24,,-7,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-12,,,22,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-13,,,29,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-14,,,25,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-15,,,17,,-13,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-16,,,11,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-17,,,6,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-18,,,21,,-10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-19,,,13,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-20,,,13,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-21,,,22,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-22,,,28,,-11,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-23,,,30,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-24,,,36,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-25,,,31,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-26,,,36,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-27,,,39,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-02-28,,,50,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-01,,,45,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-02,,,42,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-03,,,34,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-04,,,41,,-5,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-05,,,33,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-06,,,39,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-07,,,59,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-08,,,57,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-09,,,54,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-10,,,48,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-11,,,64,,-8,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-12,,,45,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-13,,,49,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-14,,,72,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-15,,,59,,-8,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-16,,,57,,-18,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-17,,,31,,-11,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-18,,,45,,-9,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-19,,,49,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-20,,,35,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-21,,,57,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-22,,,43,,-12,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-23,,,45,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-24,,,29,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-25,,,37,,-9,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-26,,,34,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-27,,,32,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-28,,,47,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-29,,,48,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-30,,,48,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-03-31,,,32,,-7,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-01,,,44,,-7,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-02,,,25,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-03,,,29,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-04,,,46,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-05,,,43,,-13,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-06,,,39,,-12,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-07,,,29,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-08,,,36,,-10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-09,,,29,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-10,,,27,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-11,,,41,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-12,,,42,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-13,,,35,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-14,,,27,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-15,,,18,,-65,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-16,,,27,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-17,,,30,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-18,,,38,,-69,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-19,,,36,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-20,,,33,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-21,,,29,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-22,,,28,,-10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-23,,,21,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-24,,,24,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-25,,,39,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-26,,,43,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-27,,,35,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-28,,,27,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-29,,,37,,-13,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-04-30,,,22,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-01,,,25,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-02,,,44,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-03,,,31,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-04,,,39,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-05,,,27,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-06,,,35,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-07,,,26,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-08,,,37,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-09,,,37,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-10,,,35,,-12,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-11,,,36,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-12,,,19,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-13,,,25,,-10,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-14,,,13,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-15,,,20,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-16,,,37,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-17,,,26,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-18,,,23,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-19,,,18,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-20,,,13,,-13,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-21,,,11,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-22,,,10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-23,,,29,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-24,,,30,,-18,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-25,,,22,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-26,,,13,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-27,,,20,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-28,,,15,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-29,,,10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-30,,,29,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-05-31,,,19,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-01,,,19,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-02,,,25,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-03,,,-2,,-69,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-04,,,-23,,-60,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-05,,,19,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-06,,,31,,-62,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-07,,,32,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-08,,,29,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-09,,,18,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-10,,,22,,-15,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-11,,,11,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-12,,,22,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-13,,,43,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-14,,,31,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-15,,,33,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-16,,,26,,-25,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-17,,,28,,-22,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-18,,,24,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-19,,,36,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-20,,,40,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-21,,,33,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-22,,,25,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-23,,,12,,-21,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-24,,,23,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-25,,,8,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-26,,,11,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-27,,,25,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-28,,,20,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-29,,,14,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-06-30,,,12,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-01,,,14,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-02,,,7,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-03,,,6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-04,,,25,,-34,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-05,,,31,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-06,,,19,,-32,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-07,,,14,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-08,,,19,,-34,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-09,,,14,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-10,,,12,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-11,,,31,,-70,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-12,,,15,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-13,,,13,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-14,,,11,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-15,,,2,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-16,,,1,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-17,,,-4,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-18,,,27,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-19,,,24,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-20,,,25,,-33,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-21,,,18,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-22,,,17,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-23,,,6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-24,,,1,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-25,,,20,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-26,,,15,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-27,,,11,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-28,,,7,,-34,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-29,,,13,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-30,,,6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-07-31,,,6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-01,,,15,,-70,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-02,,,27,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-03,,,26,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-04,,,16,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-05,,,19,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-06,,,8,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-07,,,1,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-08,,,19,,-36,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-09,,,16,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-10,,,9,,-32,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-11,,,2,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-12,,,8,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-13,,,3,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-14,,,3,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-15,,,25,,-35,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-16,,,26,,-32,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-17,,,27,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-18,,,9,,-37,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-19,,,9,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-20,,,3,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-21,,,9,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-22,,,20,,-31,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-23,,,19,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-24,,,16,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-25,,,6,,-32,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-26,,,11,,-25,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-27,,,8,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-28,,,7,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-29,,,26,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-30,,,30,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-08-31,,,31,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-01,,,15,,-29,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-02,,,27,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-03,,,12,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-04,,,11,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-05,,,30,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-06,,,18,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-07,,,11,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-08,,,9,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-09,,,10,,-14,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-10,,,5,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-11,,,4,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-12,,,17,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-13,,,20,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-14,,,23,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-15,,,0,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-16,,,9,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-17,,,-10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-18,,,10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-19,,,4,,-68,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-20,,,19,,-28,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-21,,,20,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-22,,,9,,-25,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-23,,,6,,-26,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-24,,,4,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-25,,,7,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-26,,,16,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-27,,,19,,-27,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-28,,,14,,-41,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-29,,,2,,-34,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-09-30,,,16,,-16,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-01,,,6,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-02,,,10,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-03,,,20,,-24,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-04,,,17,,-19,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-05,,,15,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-06,,,6,,-30,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-07,,,5,,-17,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-08,,,-2,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-09,,,-2,,,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-10,,,16,,-68,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-11,,,23,,-25,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-12,,,24,,-23,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-13,,,15,,-20,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-14,,,20,,-18,
+BS,The Bahamas,West Grand Bahama,,,BS-WG,,ChIJrQFAGuLUJokRJCZ56vZZ_Jk,2022-10-15,,,12,,,

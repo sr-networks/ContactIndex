@@ -1,0 +1,577 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-01,-43,-12,26,-25,-60,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-02,-20,16,35,-17,-36,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-03,-7,22,21,-22,-48,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-04,0,33,17,-17,-35,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-05,5,42,31,-10,-30,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-06,14,57,46,-7,-31,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-07,-10,30,39,-22,-56,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-08,2,38,38,-11,-5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-09,4,46,38,-5,9,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-10,0,40,15,-12,-14,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-11,6,47,20,-8,-12,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-12,1,47,21,-8,-12,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-13,-3,53,9,-14,-16,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-14,-14,28,7,-19,-14,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-15,-10,27,5,-17,1,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-16,-6,36,15,-12,7,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-17,-6,34,5,-14,-8,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-18,-2,40,6,-12,-7,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-19,-10,31,3,-13,-44,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-20,-7,38,2,-4,-11,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-21,-3,48,8,-1,-1,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-22,-2,42,13,-2,5,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-23,1,45,26,0,10,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-24,-3,39,6,-2,-8,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-25,-2,43,3,-3,-9,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-26,-6,40,3,-5,-12,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-27,-6,38,1,-8,-15,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-28,-7,44,3,-7,-6,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-29,-3,39,13,-6,3,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-30,-4,42,16,-6,7,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-01-31,-4,38,7,-8,-15,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-01,-1,43,5,-7,-17,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-02,-3,42,14,-5,-18,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-03,1,45,17,-5,-19,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-04,-6,44,4,-8,-12,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-05,-8,35,-3,-13,-3,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-06,-5,41,10,-10,3,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-07,-4,38,3,-11,-18,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-08,1,44,10,-6,-17,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-09,-4,41,10,-6,-18,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-10,-4,42,1,-10,-19,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-11,1,51,15,-2,-9,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-12,6,47,30,0,4,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-13,2,46,18,-2,7,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-14,6,43,10,-5,-12,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-15,4,46,11,-2,-11,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-16,0,45,15,-1,-10,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-17,6,51,23,0,-10,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-18,5,53,27,3,1,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-19,6,44,28,2,9,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-20,12,53,48,7,14,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-21,3,43,14,0,-5,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-22,12,54,30,6,-3,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-23,8,50,36,7,-3,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-24,11,51,43,8,-3,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-25,5,56,25,7,7,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-26,0,40,22,1,11,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-27,7,49,33,5,18,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-02-28,4,44,24,4,-1,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-01,9,52,23,9,0,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-02,6,53,26,9,0,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-03,14,59,28,4,-35,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-04,-4,45,14,0,5,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-05,5,48,23,4,14,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-06,10,54,35,8,19,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-07,13,53,36,9,-3,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-08,20,58,29,5,-36,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-09,-3,48,17,1,-5,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-10,8,55,33,6,-3,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-11,-5,42,19,-1,4,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-12,1,41,23,1,14,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-13,-3,42,27,-1,16,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-14,2,40,22,3,-2,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-15,4,45,20,6,4,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-16,0,41,23,7,5,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-17,4,47,27,6,4,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-18,2,48,24,7,14,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-19,-3,35,17,-2,12,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-20,0,43,24,-1,16,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-21,1,42,25,2,2,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-22,8,50,27,9,5,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-23,-1,44,26,4,5,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-24,4,48,24,4,4,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-25,12,58,36,12,17,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-26,12,52,34,10,18,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-27,14,56,42,12,23,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-28,1,38,21,3,6,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-29,16,53,43,14,8,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-30,11,51,47,14,9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-03-31,20,62,58,18,9,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-01,17,65,57,18,21,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-02,24,59,71,17,19,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-03,26,67,81,21,24,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-04,8,47,37,10,9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-05,14,55,36,14,10,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-06,8,52,35,11,10,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-07,9,54,35,8,7,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-08,14,60,42,16,21,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-09,21,60,51,12,13,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-10,31,71,85,25,26,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-11,21,58,63,20,12,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-12,3,42,23,7,9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-13,4,48,28,8,10,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-14,21,62,48,17,11,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-15,24,70,57,22,23,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-16,28,65,74,21,22,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-17,34,75,97,28,25,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-18,19,55,58,17,11,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-19,20,61,54,19,12,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-20,16,66,47,16,11,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-21,31,87,68,23,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-22,20,87,79,6,-36,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-23,13,69,99,2,-11,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-24,-16,27,128,-9,-28,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-25,-13,21,100,-13,-67,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-26,21,55,67,13,2,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-27,19,57,67,18,10,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-28,23,62,67,18,10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-29,21,65,55,19,23,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-04-30,29,65,73,23,26,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-01,28,72,69,23,25,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-02,19,54,52,15,9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-03,35,66,71,25,14,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-04,24,63,66,24,16,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-05,20,59,44,16,12,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-06,25,68,56,20,23,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-07,21,58,42,10,19,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-08,24,65,52,10,25,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-09,22,51,49,6,-32,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-10,27,66,54,23,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-11,27,67,65,25,16,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-12,32,67,71,14,-28,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-13,29,74,78,26,24,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-14,32,66,87,23,24,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-15,35,76,98,28,30,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-16,15,54,46,13,13,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-17,31,68,68,25,17,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-18,26,67,78,26,17,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-19,20,60,51,19,14,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-20,21,68,48,19,25,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-21,33,73,79,23,25,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-22,36,78,104,28,31,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-23,12,49,40,14,14,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-24,24,65,46,22,15,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-25,28,72,66,27,16,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-26,47,74,115,22,-32,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-27,30,76,83,26,22,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-28,32,69,92,24,25,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-29,32,73,101,26,31,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-30,25,62,73,23,16,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-05-31,29,69,68,25,17,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-01,40,75,93,27,16,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-02,37,76,82,28,14,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-03,33,80,85,29,27,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-04,34,73,89,24,24,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-05,39,81,108,28,30,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-06,29,67,78,25,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-07,31,68,69,25,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-08,29,72,83,27,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-09,31,72,76,24,13,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-10,35,82,91,30,25,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-11,38,73,107,28,24,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-12,43,77,108,32,28,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-13,30,64,80,24,12,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-14,35,71,84,27,12,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-15,28,67,87,25,10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-16,39,77,96,26,7,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-17,36,77,100,29,18,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-18,38,71,108,24,23,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-19,39,78,124,28,30,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-20,39,67,106,30,9,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-21,36,70,92,25,8,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-22,28,66,80,24,7,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-23,38,75,92,26,7,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-24,38,78,94,31,17,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-25,36,70,91,24,25,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-26,31,74,77,20,26,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-27,32,64,85,22,8,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-28,37,70,96,26,9,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-29,34,71,101,27,9,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-06-30,41,79,107,28,7,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-01,39,82,104,28,17,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-02,36,74,105,27,24,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-03,43,85,130,31,31,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-04,40,71,112,27,4,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-05,45,80,113,30,4,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-06,38,76,125,28,3,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-07,45,83,125,28,2,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-08,43,85,129,27,11,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-09,40,76,143,24,17,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-10,45,88,155,27,26,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-11,40,72,109,24,0,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-12,47,78,120,26,1,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-13,42,77,125,25,1,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-14,44,81,120,25,0,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-15,40,81,133,24,10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-16,40,79,137,21,19,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-17,43,86,159,24,27,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-18,39,70,130,21,-2,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-19,44,76,127,23,0,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-20,41,78,133,23,-1,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-21,44,83,121,24,-2,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-22,43,87,131,25,9,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-23,40,82,141,24,21,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-24,35,80,146,21,25,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-25,40,75,136,20,-3,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-26,44,80,139,23,-2,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-27,39,78,145,22,-2,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-28,46,85,153,21,-3,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-29,42,88,152,22,6,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-30,38,80,154,20,19,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-07-31,41,91,171,24,29,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-01,40,77,143,19,-6,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-02,44,82,145,19,-5,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-03,38,81,152,18,-6,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-04,44,86,160,20,-7,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-05,42,90,156,19,2,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-06,40,84,168,20,13,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-07,45,93,186,24,24,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-08,43,78,158,17,-10,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-09,46,80,157,17,-9,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-10,40,81,161,17,-9,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-11,47,87,164,18,-10,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-12,42,85,162,18,0,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-13,38,79,170,15,15,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-14,40,89,192,19,27,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-15,43,78,169,17,-9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-16,45,80,164,16,-10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-17,40,80,171,16,-10,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-18,47,89,179,15,-11,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-19,41,88,169,16,-3,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-20,38,80,175,15,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-21,43,90,194,20,28,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-22,42,78,164,16,-9,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-23,46,82,160,16,-9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-24,41,80,167,15,-9,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-25,44,86,162,16,-10,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-26,39,86,158,16,0,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-27,36,82,159,14,17,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-28,34,84,178,14,18,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-29,34,70,136,13,-9,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-30,39,77,129,14,-6,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-08-31,34,79,129,16,-5,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-01,43,84,132,18,-5,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-02,38,86,130,18,5,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-03,37,79,134,18,18,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-04,40,88,123,23,30,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-05,40,76,100,22,-1,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-06,49,87,106,28,0,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-07,45,88,115,27,0,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-08,53,94,131,29,0,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-09,48,95,131,30,11,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-10,49,91,135,27,23,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-11,52,102,144,34,36,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-12,50,85,125,32,4,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-13,51,90,101,35,4,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-14,47,95,104,35,4,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-15,53,99,133,37,3,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-16,45,95,125,35,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-17,42,85,128,29,23,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-18,45,95,138,34,35,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-19,42,81,111,37,6,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-20,45,86,110,38,6,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-21,37,86,103,37,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-22,44,91,104,35,5,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-23,42,89,85,37,16,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-24,34,80,73,28,22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-25,49,101,109,38,34,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-26,42,85,101,41,10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-27,46,89,101,41,10,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-28,39,88,104,40,10,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-29,45,93,106,39,10,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-09-30,45,99,108,44,22,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-01,51,93,123,40,23,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-02,51,101,129,42,34,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-03,40,84,81,42,13,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-04,44,91,82,41,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-05,39,90,85,43,15,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-06,45,96,89,41,17,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-07,44,98,92,42,28,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-08,44,88,102,35,25,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-09,37,89,80,29,29,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-10,35,79,66,35,14,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-11,43,85,73,38,17,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-12,38,85,87,39,18,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-13,44,92,88,41,15,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-14,39,90,84,21,-22,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2022-10-15,35,80,78,25,22,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-01,-52,-23,20,-22,-63,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-02,-24,3,28,-17,-35,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-03,-20,2,-8,-26,-49,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-04,-8,16,7,-18,-35,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-05,-5,22,16,-13,-33,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-06,0,30,34,-11,-32,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-07,-23,11,27,-24,-63,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-08,-10,16,35,-12,-8,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-09,-4,25,31,-7,12,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-10,-9,21,13,-13,-12,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-11,-3,29,26,-10,-12,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-12,-7,28,24,-8,-15,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-13,-13,28,-2,-17,-17,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-14,-20,15,-3,-19,-15,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-15,-14,16,3,-16,2,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-16,-8,24,15,-12,12,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-17,-13,20,6,-15,-8,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-18,-9,26,12,-12,-8,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-19,-15,20,0,-10,-50,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-20,-13,22,-2,-4,-11,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-21,-11,32,7,2,-4,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-22,-9,27,19,2,5,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-23,-6,29,37,2,12,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-24,-11,23,13,0,-9,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-25,-11,27,6,-2,-12,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-26,-14,25,6,-2,-18,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-27,-14,20,3,-9,-18,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-28,-14,30,2,-4,-10,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-29,-10,25,19,-3,1,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-30,-10,27,22,-4,7,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-01-31,-13,23,14,-6,-16,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-01,-10,27,16,-6,-18,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-02,-12,28,22,-3,-22,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-03,-9,26,24,-6,-21,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-04,-12,31,12,-6,-15,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-05,-13,23,-3,-10,-4,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-06,-10,27,13,-8,5,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-07,-14,22,5,-10,-18,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-08,-9,28,21,-5,-19,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-09,-11,27,22,-3,-22,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-10,-12,24,1,-10,-21,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-11,-8,34,18,0,-13,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-12,-3,32,41,3,1,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-13,-3,32,24,0,11,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-14,-6,25,9,-5,-14,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-15,-8,29,14,-2,-13,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-16,-9,29,18,1,-15,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-17,-5,31,28,-1,-12,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-18,-5,34,30,4,-4,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-19,-3,27,36,5,6,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-20,3,33,64,9,15,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-21,-7,24,15,1,-7,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-22,0,33,35,7,-6,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-23,-3,31,40,10,-9,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-24,-1,28,51,7,-7,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-25,-5,37,21,9,1,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-26,-5,27,29,6,10,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-27,1,32,33,8,20,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-02-28,-7,25,17,6,-3,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-01,0,35,37,12,-3,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-02,-3,35,20,13,-7,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-03,7,41,29,4,-41,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-04,-14,28,-3,3,-1,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-05,-4,32,8,7,11,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-06,1,34,15,11,19,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-07,-1,32,13,10,-5,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-08,13,44,30,8,-41,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-09,-14,28,-12,3,-10,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-10,-4,32,10,5,-6,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-11,-16,24,-12,0,-1,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-12,-5,28,6,5,10,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-13,-10,26,13,0,14,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-14,-10,22,-5,4,-2,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-15,-7,27,-3,7,-1,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-16,-7,28,1,11,-2,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-17,-6,29,3,6,0,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-18,-7,32,1,10,8,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-19,-13,20,-7,0,7,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-20,-10,25,-5,0,12,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-21,-14,21,-10,3,-2,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-22,-6,29,-2,10,1,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-23,-13,26,-8,6,-3,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-24,-10,26,-6,3,-1,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-25,-1,40,8,15,10,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-26,5,39,19,15,14,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-27,5,39,19,14,21,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-28,-12,20,-8,5,4,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-29,1,35,22,16,5,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-30,-1,34,27,18,1,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-03-31,6,39,42,17,4,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-01,4,45,37,21,14,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-02,12,42,65,21,15,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-03,17,47,80,23,23,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-04,-7,26,5,11,6,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-05,3,38,23,17,6,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-06,-4,32,9,14,2,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-07,-8,29,-7,6,2,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-08,1,41,15,19,14,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-09,9,41,28,17,7,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-10,20,49,80,27,24,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-11,6,36,48,22,9,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-12,-8,24,-1,10,7,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-13,-6,30,-3,11,3,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-14,6,37,20,16,6,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-15,9,48,32,25,16,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-16,16,45,65,25,16,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-17,22,54,94,29,23,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-18,3,34,35,17,9,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-19,6,39,37,20,8,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-20,3,43,13,18,3,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-21,13,54,31,20,0,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-22,-3,48,25,1,-49,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-23,-15,23,33,-5,-24,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-24,-45,-13,28,-18,-38,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-25,-39,-14,34,-21,-75,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-26,-1,25,32,10,-5,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-27,3,33,44,20,1,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-28,6,35,45,16,5,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-29,5,42,25,21,15,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-04-30,14,43,63,27,20,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-01,17,49,52,24,24,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-02,4,33,22,17,9,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-03,17,42,55,27,10,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-04,10,41,50,28,8,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-05,6,34,19,15,8,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-06,8,43,15,22,15,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-07,5,36,4,13,14,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-08,8,38,5,8,22,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-09,9,32,29,6,-38,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-10,10,40,35,25,11,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-11,13,44,45,28,7,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-12,17,42,51,12,-36,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-13,12,49,59,28,16,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-14,16,41,73,26,19,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-15,21,49,87,28,28,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-16,-4,27,5,12,10,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-17,13,43,56,26,13,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-18,11,44,59,29,9,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-19,5,35,26,18,10,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-20,4,43,15,20,17,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-21,14,47,51,25,19,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-22,20,51,89,28,28,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-23,-5,25,5,15,12,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-24,8,41,24,24,12,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-25,10,46,38,31,8,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-26,28,44,119,20,-42,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-27,11,49,60,28,14,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-28,13,43,70,26,20,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-29,15,46,81,25,29,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-30,6,37,52,24,14,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-05-31,10,44,47,25,13,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-01,24,50,77,31,8,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-02,22,47,60,26,10,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-03,15,53,62,31,19,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-04,15,47,59,27,17,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-05,18,49,69,26,26,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-06,9,41,51,25,13,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-07,10,41,33,24,11,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-08,12,46,55,30,7,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-09,9,40,34,21,9,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-10,13,54,51,31,18,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-11,17,46,73,30,18,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-12,27,49,73,32,25,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-13,7,35,39,23,11,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-14,12,43,56,26,10,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-15,8,41,39,27,4,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-16,15,43,52,23,4,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-17,12,47,59,29,13,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-18,13,42,63,24,17,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-19,14,44,81,26,26,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-20,14,36,65,29,7,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-21,11,41,52,23,6,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-22,7,38,30,25,1,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-23,12,38,36,21,4,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-24,14,48,49,31,11,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-25,10,39,31,24,17,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-26,12,43,22,17,22,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-27,6,33,32,20,6,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-28,11,39,50,23,6,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-29,9,42,54,27,2,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-06-30,16,46,61,23,3,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-01,14,50,57,27,10,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-02,13,43,55,26,17,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-03,14,46,60,27,26,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-04,12,39,52,25,2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-05,17,45,56,27,2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-06,11,42,59,27,-3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-07,16,43,58,21,-1,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-08,12,48,57,25,5,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-09,9,38,63,20,12,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-10,10,43,74,21,22,-7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-11,9,35,48,20,-2,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-12,12,41,58,21,-2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-13,9,41,54,23,-6,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-14,11,40,48,18,-4,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-15,7,44,53,20,4,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-16,3,37,55,16,11,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-17,5,39,64,16,22,-7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-18,4,32,46,15,-4,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-19,6,36,45,17,-3,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-20,6,40,44,19,-8,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-21,9,38,38,15,-7,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-22,7,45,43,20,1,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-23,2,37,47,19,12,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-24,-2,31,49,13,19,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-25,2,32,49,13,-6,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-26,4,35,50,15,-7,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-27,2,34,47,18,-10,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-28,4,35,54,11,-9,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-29,3,42,55,16,-3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-30,-3,32,52,13,8,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-07-31,-1,35,58,14,22,-8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-01,1,31,48,12,-10,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-02,2,34,51,11,-11,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-03,0,33,48,12,-14,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-04,2,31,53,9,-13,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-05,-1,37,40,11,-8,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-06,-5,29,47,10,2,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-07,-2,31,55,11,15,-8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-08,-2,25,43,8,-15,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-09,-1,26,45,8,-15,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-10,-2,28,47,10,-19,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-11,0,26,47,6,-18,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-12,-3,30,43,9,-10,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-13,-9,24,41,6,2,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-14,-9,26,51,6,17,-8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-15,-6,23,40,6,-16,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-16,-5,23,41,5,-17,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-17,-6,24,43,6,-21,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-18,-4,25,43,2,-20,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-19,-7,29,44,6,-14,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-20,-12,20,39,4,1,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-21,-9,25,49,6,17,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-22,-5,23,39,5,-17,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-23,-3,26,46,5,-17,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-24,-3,26,44,7,-20,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-25,-2,27,42,4,-19,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-26,-5,31,42,7,-13,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-27,-9,24,38,4,1,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-28,-13,23,46,3,5,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-29,-5,21,36,5,-18,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-30,-1,27,41,7,-16,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-08-31,-1,33,43,12,-17,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-01,6,32,44,9,-15,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-02,3,38,48,13,-8,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-03,2,32,47,13,2,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-04,6,37,42,17,16,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-05,9,35,35,18,-9,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-06,17,43,42,23,-9,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-07,15,46,41,26,-12,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-08,18,45,54,23,-11,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-09,14,49,51,26,-3,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-10,14,46,62,25,6,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-11,19,53,65,29,19,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-12,17,44,60,29,-4,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-13,21,48,56,32,-6,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-14,18,54,48,35,-9,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-15,20,54,78,33,-9,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-16,15,56,69,35,1,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-17,13,48,73,29,6,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-18,19,54,82,32,18,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-19,14,44,68,37,-3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-20,16,48,72,38,-4,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-21,14,51,70,40,-8,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-22,16,50,62,33,-6,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-23,24,57,49,41,2,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-24,15,50,42,32,8,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-25,25,62,68,38,18,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-26,19,52,68,42,1,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-27,22,55,80,43,-1,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-28,19,57,81,45,-4,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-29,22,55,77,38,-2,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-09-30,25,66,88,48,8,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-01,32,60,120,45,8,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-02,34,64,126,44,18,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-03,19,53,63,45,5,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-04,25,59,72,44,4,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-05,23,59,76,50,1,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-06,24,60,73,41,6,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-07,23,64,69,46,14,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-08,24,56,76,40,12,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-09,19,55,42,30,16,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-10,21,51,52,40,7,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-11,24,54,58,44,7,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-12,22,56,65,46,4,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-13,24,56,63,43,5,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-14,19,57,49,25,-37,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2022-10-15,13,46,33,31,10,0

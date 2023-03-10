@@ -1,0 +1,553 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-15,4,8,2,4,4,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-16,7,10,8,6,8,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-17,1,3,-1,1,4,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-18,9,10,2,4,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-19,4,7,6,6,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-20,7,10,6,5,4,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-21,11,18,14,8,12,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-22,6,9,8,6,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-23,6,9,4,5,8,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-24,4,7,7,5,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-25,1,5,-9,-2,3,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-26,6,12,8,7,6,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-27,7,14,10,4,5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-28,6,13,6,5,12,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-02-29,1,11,0,3,8,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-01,-4,5,-8,-1,7,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-02,2,5,4,-1,-7,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-03,13,11,14,-1,-35,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-04,4,10,13,4,-6,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-05,7,11,17,2,-7,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-06,4,12,13,2,-1,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-07,1,9,10,1,3,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-08,16,16,32,7,8,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-09,-2,0,13,-4,-11,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-10,2,6,12,-2,-10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-11,-6,6,10,-4,-11,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-12,-9,5,7,-9,-13,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-13,-14,7,1,-11,-10,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-14,-21,8,-11,-12,-5,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-15,-20,5,3,-12,1,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-16,-30,-10,-22,-25,-24,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-17,-34,-7,-23,-28,-30,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-18,-43,-11,-26,-33,-37,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-19,-41,-12,-16,-33,-37,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-20,-45,-4,-13,-32,-37,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-21,-55,-13,-20,-39,-33,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-22,-61,-29,-14,-45,-32,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-23,-59,-32,-12,-47,-52,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-24,-59,-30,-20,-49,-55,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-25,-60,-29,-18,-48,-55,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-26,-60,-31,-18,-50,-55,19
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-27,-60,-28,-14,-49,-51,19
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-28,-63,-32,-16,-48,-41,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-29,-67,-36,-24,-53,-38,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-30,-65,-36,-32,-56,-58,21
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-03-31,-67,-39,-33,-61,-62,22
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-01,-68,-39,-30,-59,-62,22
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-02,-70,-42,-34,-63,-64,24
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-03,-67,-37,-26,-59,-60,23
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-04,-71,-40,-33,-61,-52,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-05,-68,-36,-23,-56,-43,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-06,-68,-41,-29,-61,-62,23
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-07,-69,-40,-34,-63,-64,23
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-08,-70,-43,-29,-62,-63,23
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-09,-69,-43,-26,-62,-70,24
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-10,-65,-36,-21,-57,-59,22
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-11,-68,-39,-25,-57,-50,16
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-12,-69,-38,-27,-56,-45,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-13,-65,-40,-18,-58,-60,21
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-14,-62,-34,-17,-55,-60,19
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-15,-61,-26,-14,-52,-60,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-16,-67,-35,-26,-60,-63,22
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-17,-74,-40,-28,-64,-73,28
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-18,-81,-61,-38,-72,-65,23
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-19,-84,-71,-37,-74,-59,19
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-20,-85,-72,-37,-78,-81,31
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-21,-84,-68,-50,-78,-75,29
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-22,-83,-64,-50,-77,-73,29
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-23,-81,-61,-45,-75,-72,29
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-24,-80,-60,-41,-76,-69,29
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-25,-81,-60,-42,-73,-60,22
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-26,-78,-59,-33,-70,-51,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-27,-57,-29,-13,-51,-58,17
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-28,-58,-31,-18,-53,-59,15
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-29,-64,-39,-21,-57,-59,19
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-04-30,-62,-39,-17,-56,-59,19
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-01,-64,-39,-23,-58,-56,20
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-02,-64,-38,-22,-54,-44,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-03,-63,-37,-15,-52,-36,11
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-04,-64,-43,-24,-58,-57,20
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-05,-61,-39,-27,-58,-57,18
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-06,-66,-40,-35,-58,-58,20
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-07,-63,-38,-25,-60,-57,20
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-08,-62,-35,-28,-56,-53,20
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-09,-66,-41,-33,-59,-44,15
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-10,-67,-41,-32,-59,-36,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-11,-51,-29,-14,-48,-51,16
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-12,-48,-25,-7,-47,-58,15
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-13,-54,-30,-18,-49,-50,15
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-14,-50,-27,-8,-47,-49,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-15,-51,-25,-9,-47,-45,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-16,-52,-27,-7,-44,-32,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-17,-53,-27,-10,-45,-23,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-05-18,-49,-28,-14,-47,-45,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-03,-5,10,30,-8,-20,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-04,-8,7,37,-9,-9,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-05,-8,6,42,-8,0,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-06,-7,3,31,-11,-26,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-07,-3,8,29,-9,-27,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-08,-12,2,14,-12,-26,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-09,-6,5,19,-11,-25,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-10,-6,9,21,-9,-19,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-11,-10,5,18,-12,-7,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-12,-5,6,34,-8,2,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-13,-12,-2,8,-14,-24,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-14,-2,7,19,-10,-24,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-15,-6,7,27,-9,-22,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-16,-3,7,31,-10,-22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-17,-6,8,21,-11,-18,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-18,-6,7,40,-9,-5,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-19,-6,5,48,-9,2,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-20,-7,4,33,-12,-23,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-21,-4,7,13,-12,-24,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-22,-5,7,26,-10,-22,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-23,-2,7,35,-11,-22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-24,-3,10,38,-11,-17,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-25,-6,7,43,-11,-7,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-26,-6,5,48,-12,0,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-27,-7,2,37,-14,-25,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-28,-5,3,24,-16,-25,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-29,-6,5,30,-12,-25,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-30,-4,7,40,-12,-25,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-07-31,-4,9,40,-12,-22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-01,-8,6,33,-11,-11,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-02,-8,4,34,-12,-3,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-03,-2,4,40,-12,-26,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-04,2,9,45,-11,-27,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-05,-3,9,52,-12,-27,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-06,1,8,57,-12,-28,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-07,0,9,66,-13,-23,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-08,-3,5,72,-13,-12,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-09,-1,5,84,-13,-4,-8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-10,-4,3,60,-14,-29,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-11,-1,5,47,-15,-30,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-12,-3,6,63,-13,-29,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-13,-1,6,65,-13,-29,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-14,-1,12,64,-12,-24,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-15,-1,9,74,-11,-11,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-16,0,8,82,-11,-4,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-17,-2,2,71,-13,-29,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-18,2,5,69,-13,-28,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-19,-4,3,74,-13,-29,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-20,-2,2,76,-15,-29,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-21,-4,3,59,-14,-25,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-22,-10,-2,45,-16,-13,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-23,-8,0,54,-9,-3,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-24,-2,2,64,-11,-27,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-25,4,4,63,-9,-27,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-26,-2,3,68,-9,-27,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-27,3,9,70,-9,-28,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-28,-7,-1,73,-21,-50,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-29,-6,-5,69,-15,-14,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-30,0,1,72,-9,-1,-8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-08-31,0,2,51,-7,-25,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-01,5,7,52,-4,-24,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-02,-3,4,50,-6,-24,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-03,2,7,53,-6,-25,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-04,2,10,53,-2,-18,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-05,3,8,55,0,-8,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-06,7,13,56,3,0,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-07,3,6,46,2,-23,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-08,5,6,40,2,-23,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-09,1,8,47,4,-21,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-10,6,10,53,3,-23,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-11,3,12,51,6,-16,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-12,-2,8,52,2,-6,-5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-13,-1,10,57,4,2,-6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-14,-3,5,43,2,-20,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-15,-1,5,43,-1,-20,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-16,-7,3,44,-1,-21,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-17,-6,3,40,-5,-23,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-18,-7,5,42,-3,-16,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-19,-9,3,36,-3,-7,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-20,-7,6,47,-1,2,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-21,-12,-1,28,-6,-24,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-22,-9,2,25,-3,-22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-23,-17,0,22,-3,-21,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-24,-14,0,24,-6,-22,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-25,-14,3,23,-1,-16,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-26,-14,1,24,-1,-7,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-27,-12,3,35,2,0,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-28,-19,-6,15,-5,-22,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-29,-14,-3,11,-4,-22,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-09-30,-17,3,12,-1,-23,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-01,-14,2,6,-4,-22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-02,-18,3,5,3,-15,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-03,-11,6,23,4,-10,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-04,-14,5,16,3,-5,-4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-05,-21,-4,-5,-1,-23,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-06,-15,3,0,1,-22,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-07,-18,3,11,3,-20,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-08,-14,4,15,0,-21,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-09,-14,6,15,0,-13,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-10,-15,2,18,-2,-8,-2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-11,-13,5,21,0,-2,-3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-12,-18,0,7,-1,-20,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-13,-13,4,8,1,-20,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-14,-18,3,12,-6,-44,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-15,-18,6,6,-2,-21,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-16,-19,9,7,0,-16,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-17,-20,3,9,-3,-10,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-18,-20,4,15,-2,-5,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-19,-26,-3,-7,-5,-25,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-20,-25,-1,-13,-9,-26,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-21,-25,5,-2,-6,-25,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-22,-21,6,6,-8,-26,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-23,-20,10,9,-5,-20,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-24,-20,6,13,-4,-9,1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-25,-18,9,20,-4,-4,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-26,-23,1,2,-9,-27,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-27,-20,4,1,-8,-27,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-28,-26,0,-4,-9,-28,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-29,-22,1,-1,-9,-30,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-30,-21,7,-2,-5,-23,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-10-31,-25,4,5,-6,-20,-1
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-01,-22,1,7,-8,-7,0
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-02,-29,-6,-21,-13,-30,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-03,-25,-2,-23,-12,-30,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-04,-28,0,-13,-11,-29,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-05,-25,0,-9,-12,-30,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-06,-33,-5,-27,-18,-26,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-07,-30,-5,-22,-15,-15,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-08,-25,-2,-12,-9,-11,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-09,-33,-11,-20,-17,-33,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-10,-30,-7,-24,-17,-33,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-11,-35,-8,-24,-18,-33,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-12,-31,-5,-21,-19,-34,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-13,-32,-3,-19,-17,-27,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-14,-30,-6,-16,-14,-16,5
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-15,-27,-3,-12,-14,-12,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-16,-35,-13,-24,-20,-34,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-17,-32,-9,-27,-19,-34,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-18,-38,-12,-30,-22,-34,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-19,-36,-12,-33,-27,-37,11
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-20,-30,-1,-27,-18,-30,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-21,-22,7,-21,-9,-18,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-22,-20,6,-13,-7,-12,3
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-23,-35,-13,-30,-29,-57,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-24,-30,-6,-24,-19,-34,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-25,-36,-8,-28,-21,-35,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-26,-27,-1,-23,-18,-35,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-27,-12,16,-19,-2,-28,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-28,-49,-13,-20,-36,-23,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-29,-51,-13,-16,-36,-22,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-11-30,-51,-18,-27,-40,-42,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-01,-48,-12,-27,-37,-43,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-02,-51,-11,-20,-36,-41,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-03,-50,-12,-21,-39,-43,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-04,-50,-10,-22,-37,-36,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-05,-51,-13,-24,-37,-26,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-06,-53,-14,-24,-39,-25,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-07,-53,-18,-29,-42,-43,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-08,-50,-13,-29,-39,-41,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-09,-54,-18,-27,-39,-42,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-10,-50,-13,-18,-38,-43,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-11,-52,-12,-20,-37,-38,14
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-12,-50,-12,-16,-34,-26,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-13,-49,-8,-2,-28,-22,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-14,-50,-16,-18,-36,-41,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-15,-48,-11,-19,-35,-41,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-16,-51,-11,-21,-33,-40,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-17,-51,-15,-20,-36,-42,13
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-18,-48,-9,-14,-32,-34,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-19,-48,-9,-11,-30,-22,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-20,-48,-6,-4,-27,-19,6
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-21,-49,-12,-18,-33,-39,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-22,-48,-11,-21,-34,-39,11
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-23,-51,-12,-25,-35,-38,12
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-24,-35,0,-16,-26,-37,10
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-25,-32,8,-8,-19,-29,9
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-26,-29,11,-5,-15,-14,4
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-27,-23,20,9,-7,-4,2
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-28,-28,7,-6,-17,-34,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-29,-22,18,-4,-14,-36,7
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-30,-22,30,1,-12,-38,8
+GE,Georgia,,,,,,ChIJa2JP5tcMREARwkotEmR5kE8,2020-12-31,-19,40,11,-13,-51,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-15,2,5,-3,4,3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-16,4,7,9,6,6,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-17,-2,-1,-15,1,2,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-18,3,4,-3,2,3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-19,3,3,5,5,3,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-20,3,4,3,4,2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-21,7,13,14,8,9,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-22,2,4,6,6,3,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-23,5,4,9,6,5,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-24,3,5,3,5,4,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-25,-3,1,-16,-3,1,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-26,6,9,7,7,3,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-27,2,8,8,3,2,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-28,5,10,11,5,9,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-02-29,-3,5,-4,3,5,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-01,-6,2,-11,-1,3,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-02,-1,2,-10,-1,-8,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-03,8,7,16,-2,-43,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-04,2,4,9,3,-8,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-05,2,5,13,1,-9,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-06,-1,6,6,0,-3,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-07,-5,1,6,-1,0,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-08,9,9,41,5,3,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-09,-5,-3,0,-5,-11,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-10,-6,-1,3,-7,-13,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-11,-10,0,3,-7,-15,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-12,-15,-1,-3,-12,-16,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-13,-21,2,-18,-14,-14,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-14,-27,1,-25,-14,-9,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-15,-26,-5,-2,-14,-5,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-16,-34,-13,-46,-26,-27,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-17,-41,-15,-46,-32,-36,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-18,-49,-18,-52,-36,-43,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-19,-48,-18,-38,-36,-44,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-20,-53,-12,-39,-37,-44,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-21,-64,-24,-53,-44,-40,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-22,-71,-40,-51,-51,-40,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-23,-67,-39,-48,-52,-59,22
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-24,-69,-39,-56,-55,-62,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-25,-68,-38,-54,-53,-63,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-26,-69,-39,-54,-55,-62,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-27,-68,-36,-53,-54,-59,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-28,-70,-41,-54,-52,-48,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-29,-74,-45,-64,-58,-44,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-30,-70,-40,-67,-59,-63,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-03-31,-75,-48,-72,-66,-68,28
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-01,-75,-46,-66,-64,-68,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-02,-76,-48,-70,-67,-69,29
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-03,-74,-43,-63,-63,-66,28
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-04,-78,-49,-71,-66,-57,21
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-05,-75,-43,-58,-61,-50,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-06,-75,-46,-68,-65,-67,27
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-07,-77,-48,-72,-68,-71,29
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-08,-76,-50,-70,-67,-69,28
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-09,-76,-49,-66,-67,-76,30
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-10,-72,-42,-54,-61,-65,27
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-11,-75,-47,-63,-62,-55,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-12,-75,-44,-59,-60,-50,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-13,-72,-45,-58,-62,-66,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-14,-71,-43,-55,-61,-67,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-15,-70,-38,-52,-57,-66,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-16,-75,-45,-65,-65,-69,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-17,-82,-49,-67,-69,-81,34
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-18,-87,-62,-68,-74,-72,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-19,-89,-72,-68,-76,-67,23
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-20,-90,-72,-74,-81,-87,38
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-21,-89,-68,-80,-80,-82,36
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-22,-89,-66,-85,-80,-80,35
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-23,-86,-62,-79,-78,-79,35
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-24,-88,-64,-81,-80,-77,37
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-25,-86,-62,-76,-76,-68,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-26,-85,-62,-65,-74,-61,22
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-27,-67,-36,-52,-54,-64,20
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-28,-68,-38,-54,-57,-66,22
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-29,-71,-43,-57,-60,-66,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-04-30,-69,-43,-43,-59,-65,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-01,-71,-42,-51,-60,-62,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-02,-71,-43,-44,-56,-50,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-03,-70,-41,-34,-54,-43,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-04,-70,-46,-53,-60,-63,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-05,-70,-44,-56,-62,-64,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-06,-71,-45,-63,-61,-65,24
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-07,-73,-47,-64,-64,-65,26
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-08,-69,-39,-50,-59,-60,25
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-09,-74,-47,-65,-62,-52,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-10,-75,-47,-63,-62,-46,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-11,-60,-34,-43,-52,-59,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-12,-58,-32,-28,-51,-67,20
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-13,-62,-38,-44,-53,-59,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-14,-60,-34,-34,-51,-58,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-15,-61,-31,-34,-50,-54,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-16,-61,-34,-29,-48,-41,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-17,-63,-35,-38,-48,-35,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-05-18,-58,-36,-40,-50,-54,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-03,-15,1,12,-11,-33,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-04,-20,-6,8,-12,-22,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-05,-21,-7,11,-12,-16,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-06,-18,-6,3,-14,-36,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-07,-16,-5,6,-14,-37,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-08,-20,-8,-6,-15,-36,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-09,-17,-6,-1,-15,-35,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-10,-17,-1,3,-13,-31,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-11,-24,-9,-17,-16,-19,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-12,-18,-8,11,-12,-12,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-13,-20,-11,-16,-17,-34,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-14,-15,-6,0,-15,-34,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-15,-17,-6,8,-12,-32,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-16,-17,-5,10,-14,-32,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-17,-20,-4,-14,-16,-28,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-18,-21,-9,2,-14,-15,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-19,-24,-11,11,-14,-11,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-20,-21,-8,-5,-16,-29,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-21,-17,-7,-7,-17,-31,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-22,-17,-7,-3,-14,-31,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-23,-17,-7,3,-15,-31,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-24,-18,-2,3,-15,-27,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-25,-24,-11,5,-16,-17,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-26,-25,-13,9,-17,-12,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-27,-22,-10,-7,-19,-33,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-28,-24,-12,-18,-22,-33,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-29,-20,-8,-7,-17,-33,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-30,-21,-9,1,-17,-34,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-07-31,-19,-3,4,-16,-30,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-01,-24,-11,-5,-15,-19,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-02,-26,-15,-11,-18,-14,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-03,-20,-11,-15,-17,-34,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-04,-19,-10,-5,-18,-36,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-05,-23,-9,-5,-18,-36,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-06,-22,-11,0,-19,-36,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-07,-23,-8,4,-19,-32,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-08,-30,-17,-3,-21,-21,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-09,-30,-19,6,-22,-15,-8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-10,-27,-15,-13,-22,-37,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-11,-26,-15,-19,-24,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-12,-26,-14,-12,-21,-38,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-13,-26,-15,-9,-22,-38,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-14,-26,-9,-11,-20,-34,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-15,-31,-16,-12,-21,-22,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-16,-31,-17,-8,-21,-16,-7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-17,-28,-18,-15,-22,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-18,-28,-18,-10,-23,-37,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-19,-30,-18,-11,-22,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-20,-30,-20,-11,-24,-39,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-21,-33,-19,-26,-23,-36,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-22,-37,-23,-33,-25,-24,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-23,-33,-21,-24,-20,-16,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-24,-27,-17,-14,-19,-37,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-25,-25,-17,-9,-19,-38,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-26,-27,-17,-8,-17,-37,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-27,-24,-14,-10,-18,-38,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-28,-36,-21,-16,-30,-62,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-29,-35,-28,-13,-25,-27,-4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-30,-28,-20,0,-18,-15,-9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-08-31,-20,-12,-4,-14,-35,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-01,-17,-8,5,-11,-34,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-02,-20,-10,1,-11,-35,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-03,-16,-7,4,-12,-34,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-04,-15,-1,7,-7,-30,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-05,-13,-5,14,-5,-20,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-06,-8,0,19,-2,-15,-6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-07,-11,-3,4,-3,-32,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-08,-12,-5,-7,-4,-32,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-09,-10,0,7,0,-32,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-10,-8,-1,20,-2,-31,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-11,-10,4,17,3,-26,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-12,-14,-1,22,0,-18,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-13,-12,1,28,1,-12,-5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-14,-14,-3,14,-2,-28,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-15,-14,-3,13,-5,-29,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-16,-17,-4,16,-3,-31,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-17,-18,-5,9,-9,-30,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-18,-17,-1,15,-4,-26,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-19,-19,-5,7,-4,-18,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-20,-16,-2,26,-3,-11,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-21,-22,-9,-9,-9,-31,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-22,-20,-5,0,-6,-29,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-23,-24,-8,-2,-3,-30,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-24,-22,-8,6,-7,-29,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-25,-20,-2,6,0,-24,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-26,-20,-6,6,1,-14,-1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-27,-16,-3,27,4,-7,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-28,-24,-11,-3,-5,-27,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-29,-21,-8,-2,-4,-28,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-09-30,-20,-2,-2,1,-30,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-01,-20,-5,-6,-4,-27,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-02,-22,-2,-6,5,-21,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-03,-15,-3,26,7,-15,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-04,-17,-2,5,5,-11,-3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-05,-26,-11,-20,-1,-27,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-06,-22,-4,-12,0,-28,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-07,-22,-3,1,5,-28,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-08,-20,-4,5,-1,-26,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-09,-19,1,6,3,-22,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-10,-19,-4,12,1,-14,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-11,-17,-1,13,1,-8,-2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-12,-24,-7,-3,0,-26,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-13,-20,-4,4,1,-26,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-14,-22,-3,12,-4,-54,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-15,-26,-5,-1,-2,-27,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-16,-25,3,0,2,-24,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-17,-26,-4,7,0,-16,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-18,-24,-3,13,1,-10,0
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-19,-31,-10,-10,-4,-31,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-20,-31,-8,-20,-9,-32,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-21,-31,-3,-8,-4,-33,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-22,-28,-4,-4,-8,-33,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-23,-26,4,3,-2,-28,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-24,-25,-1,10,-1,-15,3
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-25,-22,1,18,-2,-8,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-26,-30,-7,-5,-9,-32,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-27,-28,-4,-1,-8,-32,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-28,-32,-7,-10,-8,-35,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-29,-29,-8,5,-9,-34,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-30,-27,0,-5,-4,-29,9
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-10-31,-32,-4,0,-4,-25,2
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-01,-27,-6,14,-7,-10,1
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-02,-34,-13,-28,-13,-34,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-03,-31,-9,-28,-12,-33,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-04,-33,-7,-12,-9,-35,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-05,-31,-8,-11,-13,-34,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-06,-36,-9,-38,-16,-31,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-07,-32,-9,-29,-11,-16,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-08,-26,-7,-15,-6,-10,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-09,-38,-18,-24,-17,-36,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-10,-35,-14,-30,-17,-36,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-11,-37,-13,-30,-16,-38,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-12,-37,-14,-30,-19,-37,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-13,-37,-9,-28,-15,-32,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-14,-33,-12,-22,-11,-17,7
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-15,-29,-8,-15,-11,-12,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-16,-40,-19,-31,-19,-36,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-17,-37,-15,-29,-20,-37,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-18,-43,-20,-41,-21,-39,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-19,-42,-20,-47,-27,-39,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-20,-35,-7,-41,-17,-35,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-21,-24,2,-28,-5,-18,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-22,-19,1,-13,-4,-10,5
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-23,-39,-19,-45,-29,-62,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-24,-37,-14,-29,-20,-37,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-25,-40,-14,-36,-20,-38,15
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-26,-31,-8,-30,-18,-37,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-27,-13,12,-25,1,-31,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-28,-57,-19,-24,-35,-26,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-29,-58,-19,-19,-36,-24,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-11-30,-59,-24,-38,-42,-45,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-01,-57,-18,-35,-40,-47,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-02,-58,-17,-23,-37,-47,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-03,-59,-20,-32,-42,-46,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-04,-59,-16,-32,-38,-42,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-05,-59,-20,-37,-37,-29,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-06,-62,-22,-45,-40,-27,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-07,-61,-25,-45,-44,-47,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-08,-59,-20,-40,-42,-45,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-09,-61,-24,-42,-40,-47,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-10,-59,-22,-38,-40,-46,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-11,-60,-18,-40,-38,-43,19
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-12,-58,-19,-32,-34,-28,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-13,-56,-14,-9,-29,-23,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-14,-59,-23,-34,-38,-44,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-15,-58,-20,-36,-38,-45,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-16,-57,-18,-33,-34,-45,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-17,-58,-22,-33,-38,-44,18
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-18,-57,-15,-28,-33,-39,17
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-19,-56,-17,-22,-30,-24,10
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-20,-54,-12,-7,-27,-19,8
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-21,-56,-19,-27,-34,-41,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-22,-56,-19,-35,-36,-42,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-23,-58,-19,-44,-36,-43,16
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-24,-42,-9,-30,-28,-39,14
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-25,-39,1,-19,-19,-34,13
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-26,-35,3,-16,-14,-15,6
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-27,-29,11,-1,-7,-2,4
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-28,-36,-2,-19,-19,-37,11
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-29,-32,8,-20,-17,-39,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-30,-33,15,-25,-15,-43,12
+GE,Georgia,,,Tbilisi Metropolitan Area,,,ChIJp3PBzzQMREARiY2UO_1wMlc,2020-12-31,-34,20,-18,-18,-55,14

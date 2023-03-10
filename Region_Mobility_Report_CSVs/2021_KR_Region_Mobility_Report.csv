@@ -1,0 +1,731 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-01,-42,0,12,-46,-75,31
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-02,-34,1,-17,-34,-32,15
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-03,-35,3,-18,-32,-23,11
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-04,-18,7,3,-14,-10,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-05,-20,1,-12,-16,-11,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-06,-25,2,-5,-16,-12,10
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-07,-36,-15,-39,-21,-16,13
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-08,-33,-6,-41,-25,-15,14
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-09,-32,4,-42,-33,-17,14
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-10,-32,-8,-25,-35,-23,12
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-11,-19,9,-5,-17,-10,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-12,-20,3,-5,-14,-11,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-13,-21,5,11,-15,-12,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-14,-19,5,8,-18,-11,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-15,-23,4,-6,-19,-12,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-16,-25,7,-17,-26,-14,10
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-17,-28,11,-16,-29,-20,10
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-18,-20,0,-11,-17,-12,10
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-19,-16,2,-3,-16,-10,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-20,-15,8,18,-14,-10,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-21,-21,-4,-11,-19,-9,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-22,-20,3,-12,-18,-10,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-23,-20,8,-12,-23,-12,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-24,-17,-1,21,-21,-17,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-25,-8,15,34,-9,-8,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-26,-16,0,-16,-16,-9,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-27,-12,9,24,-12,-9,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-28,-22,-4,-20,-21,-9,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-29,-20,3,-23,-21,-9,10
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-30,-17,12,-9,-23,-10,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-01-31,-14,22,13,-23,-13,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-01,-7,16,5,-12,-7,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-02,-9,10,-6,-12,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-03,-12,13,7,-13,-7,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-04,-14,6,-6,-14,-7,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-05,-13,12,-4,-13,-7,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-06,-14,16,0,-18,-7,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-07,-11,28,6,-19,-10,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-08,-2,24,6,-8,-7,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-09,2,32,9,-4,-7,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-10,3,63,22,-1,-14,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-11,-17,66,36,-26,-72,18
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-12,-47,-18,63,-38,-82,19
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-13,-26,-6,35,-26,-51,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-14,-18,-10,1,-22,-18,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-15,-3,14,1,-13,-10,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-16,-8,4,-10,-13,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-17,-15,1,-20,-19,-8,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-18,-11,4,-15,-18,-7,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-19,-8,12,0,-12,-6,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-20,-7,16,18,-13,-5,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-21,-2,24,43,-10,-9,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-22,3,20,36,-5,-5,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-23,0,14,15,-7,-6,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-24,-3,16,28,-8,-7,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-25,-6,15,2,-11,-6,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-26,-5,16,11,-9,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-27,-4,19,19,-8,-6,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-02-28,5,15,51,-1,-12,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-01,-10,13,-23,-36,-61,22
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-02,0,21,4,-5,-4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-03,-2,23,26,-6,-4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-04,-7,10,5,-10,-3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-05,-5,17,16,-6,-3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-06,-6,16,1,-15,-5,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-07,0,28,28,-11,-8,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-08,3,22,38,-2,-3,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-09,2,17,27,-2,-3,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-10,-1,18,41,-4,-3,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-11,-3,15,23,-7,-2,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-12,-9,12,-14,-10,-4,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-13,-2,24,27,-8,-5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-14,2,14,41,-6,-8,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-15,3,26,39,-1,-2,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-16,3,18,26,-2,-2,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-17,-1,21,42,-3,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-18,-3,16,29,-5,0,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-19,-2,20,27,-3,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-20,-11,12,-24,-19,-7,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-21,-1,27,17,-10,-7,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-22,3,23,36,-2,0,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-23,5,20,37,0,0,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-24,0,19,50,-2,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-25,0,18,43,-3,0,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-26,-1,21,39,-1,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-27,-10,12,-13,-15,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-28,-2,10,25,-11,-10,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-29,3,25,32,-1,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-30,5,23,48,2,1,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-03-31,4,25,74,0,0,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-01,0,19,51,-3,1,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-02,-1,24,47,-1,0,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-03,-14,10,-26,-20,-9,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-04,1,33,30,-9,-9,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-05,8,29,68,3,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-06,5,22,54,2,1,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-07,1,25,64,-1,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-08,-2,18,44,-4,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-09,-2,22,35,-2,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-10,-1,25,52,-3,-7,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-11,5,18,74,2,-8,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-12,-6,14,-5,-7,0,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-13,3,23,28,-2,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-14,-1,21,47,-3,-1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-15,0,20,43,-3,1,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-16,-5,20,15,-6,0,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-17,-4,21,17,-9,-6,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-18,3,34,58,-3,-7,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-19,6,28,62,2,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-20,6,24,51,3,1,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-21,2,25,61,0,0,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-22,-1,19,41,-3,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-23,-3,23,29,-2,0,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-24,-1,27,45,-4,-6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-25,4,19,67,1,-8,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-26,7,33,62,3,2,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-27,3,23,39,2,2,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-28,1,24,53,-1,0,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-29,-1,20,33,-3,2,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-04-30,-2,24,18,-2,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-01,-5,22,3,-12,-19,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-02,6,38,65,1,-9,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-03,11,34,74,5,0,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-04,3,22,6,1,-2,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-05,19,50,167,-12,-57,14
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-06,1,24,51,-1,-1,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-07,-3,25,18,-1,-2,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-08,-2,29,12,-5,-10,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-09,4,18,63,4,-9,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-10,2,27,31,0,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-11,7,27,48,4,2,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-12,3,27,64,3,0,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-13,2,24,49,1,1,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-14,0,27,41,2,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-15,-8,18,-3,-11,-10,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-16,-16,13,-36,-23,-14,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-17,2,27,21,0,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-18,13,36,64,11,2,-3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-19,15,41,171,-9,-55,13
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-20,-8,12,4,-8,2,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-21,-1,20,25,-1,2,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-22,3,26,63,0,-5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-23,4,16,70,3,-7,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-24,11,32,65,6,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-25,10,25,44,5,4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-26,5,23,64,4,3,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-27,2,19,32,-2,4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-28,0,20,22,-1,3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-29,2,24,42,-2,-4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-30,9,36,68,4,-4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-05-31,15,32,68,6,6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-01,13,27,56,7,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-02,9,29,71,4,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-03,-4,8,-1,-6,5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-04,7,29,53,5,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-05,5,29,57,2,-4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-06,8,39,66,4,-6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-07,15,33,69,7,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-08,13,27,56,7,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-09,8,26,62,4,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-10,5,21,33,1,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-11,3,23,25,-2,3,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-12,3,27,38,-3,-5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-13,8,20,53,2,-7,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-14,15,36,66,7,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-15,9,23,32,4,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-16,9,29,63,4,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-17,6,20,42,1,4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-18,3,22,27,0,3,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-19,6,27,51,1,-5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-20,8,36,56,3,-6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-21,17,32,71,7,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-22,14,24,52,7,5,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-23,8,23,62,3,4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-24,9,22,55,2,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-25,8,26,49,5,4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-26,5,26,40,-2,-5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-27,9,17,54,3,-6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-28,15,32,60,6,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-29,13,24,50,6,6,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-06-30,7,23,56,0,2,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-01,10,23,50,1,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-02,8,27,46,4,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-03,-5,15,-2,-11,-8,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-04,0,28,7,-11,-9,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-05,14,29,53,5,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-06,10,20,32,2,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-07,3,20,33,-2,3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-08,4,20,32,-3,5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-09,2,24,31,-1,4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-10,-1,27,24,-9,-6,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-11,-1,16,26,-9,-10,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-12,7,31,52,-1,1,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-13,7,25,42,-1,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-14,2,24,49,-5,-1,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-15,-1,20,31,-8,0,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-16,-2,22,24,-7,-2,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-17,-5,25,26,-13,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-18,-3,32,32,-11,-11,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-19,8,29,52,-3,-3,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-20,8,27,45,-2,-3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-21,3,29,50,-5,-5,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-22,-1,20,36,-9,-4,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-23,-3,24,30,-8,-5,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-24,-8,24,20,-15,-7,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-25,-7,12,26,-14,-12,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-26,9,35,56,-4,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-27,6,26,43,-4,-7,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-28,0,24,51,-7,-9,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-29,0,24,44,-9,-10,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-30,-2,26,37,-8,-12,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-07-31,-9,24,23,-14,-16,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-01,-8,30,24,-12,-16,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-02,14,41,86,-3,-23,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-03,12,33,74,-3,-22,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-04,5,32,72,-7,-21,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-05,3,26,53,-9,-16,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-06,-2,25,40,-9,-16,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-07,-8,23,27,-14,-13,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-08,-10,9,22,-14,-13,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-09,10,37,64,-2,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-10,9,29,48,-2,-6,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-11,3,25,61,-5,-8,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-12,0,21,43,-7,-7,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-13,-2,25,40,-6,-8,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-14,-7,26,32,-11,-10,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-15,1,40,65,-4,-13,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-16,15,40,116,-13,-49,14
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-17,3,22,37,-2,-4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-18,0,24,51,-5,-3,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-19,0,21,46,-6,-2,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-20,-2,23,39,-5,-2,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-21,-18,12,-20,-26,-9,10
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-22,0,17,46,-9,-8,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-23,-1,21,9,-7,0,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-24,-1,18,4,-9,-1,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-25,0,23,34,-5,-1,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-26,2,24,40,-5,1,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-27,-4,21,15,-7,-1,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-28,-1,27,36,-9,-5,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-29,-1,33,36,-8,-7,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-30,11,31,60,1,2,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-08-31,1,15,11,-5,2,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-01,1,25,33,-6,0,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-02,2,24,35,-5,1,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-03,1,27,39,-2,0,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-04,2,29,46,-5,-5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-05,4,37,48,-2,-6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-06,8,27,32,0,2,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-07,3,20,4,-5,1,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-08,8,30,63,1,2,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-09,6,27,49,-1,3,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-10,5,30,41,0,2,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-11,6,33,41,-2,-3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-12,11,29,52,2,-4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-13,17,43,62,6,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-14,14,36,42,5,3,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-15,12,41,60,4,2,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-16,9,37,41,2,3,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-17,8,43,24,1,0,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-18,7,52,41,2,-11,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-19,17,94,74,15,-12,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-20,13,88,167,-9,-76,12
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-21,-23,0,108,-16,-83,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-22,0,17,134,-19,-72,16
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-23,7,23,61,-4,-4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-24,5,23,50,-3,-1,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-25,0,19,42,-8,-1,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-26,5,14,62,-5,-2,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-27,14,32,61,4,6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-28,12,23,42,3,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-29,0,16,19,-6,2,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-09-30,8,24,52,0,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-01,6,25,46,1,3,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-02,5,26,56,-2,-4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-03,15,42,91,6,-7,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-04,20,35,106,-11,-45,13
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-05,12,26,49,5,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-06,6,24,50,0,4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-07,6,21,44,-2,5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-08,3,21,25,0,3,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-09,4,25,63,-1,-15,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-10,10,18,60,1,-9,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-11,23,39,94,-11,-47,14
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-12,12,26,38,4,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-13,11,26,73,3,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-14,10,24,61,1,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-15,5,21,37,1,4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-16,4,19,10,-8,-4,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-17,11,33,34,-3,-4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-18,17,29,54,4,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-19,16,25,40,3,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-20,12,26,61,3,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-21,10,20,43,0,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-22,9,24,41,2,3,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-23,10,25,50,1,-4,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-24,15,19,66,5,-5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-25,21,35,70,7,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-26,18,27,60,7,6,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-27,13,26,69,4,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-28,13,25,57,2,5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-29,10,26,52,3,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-30,8,27,55,2,-5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-10-31,16,41,75,7,-4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-01,20,32,71,7,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-02,18,26,60,7,7,-1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-03,15,26,72,5,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-04,12,21,53,2,6,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-05,11,24,54,5,4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-06,12,24,63,5,-5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-07,17,35,76,9,-5,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-08,7,17,2,-3,4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-09,13,20,14,1,6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-10,12,25,32,1,5,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-11,12,24,30,-1,3,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-12,9,22,27,1,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-13,10,24,41,1,-7,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-14,15,17,54,7,-8,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-15,20,33,62,5,3,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-16,19,26,50,5,4,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-17,15,29,59,4,3,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-18,13,22,45,1,1,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-19,10,25,42,4,1,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-20,7,22,34,1,-6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-21,9,30,28,2,-6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-22,15,24,24,2,6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-23,14,19,16,2,7,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-24,11,22,39,1,6,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-25,11,22,33,1,7,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-26,8,22,24,2,4,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-27,7,22,24,-1,-6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-28,11,14,36,3,-7,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-29,18,31,52,5,7,1
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-11-30,5,11,-14,-5,6,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-01,7,21,16,-3,5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-02,7,17,17,-4,6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-03,5,20,12,-1,5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-04,3,20,10,-7,-6,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-05,7,30,25,-4,-7,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-06,15,26,47,2,6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-07,13,22,36,3,7,0
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-08,8,20,47,-1,5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-09,6,18,30,-4,7,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-10,3,19,16,-3,5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-11,2,21,16,-9,-5,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-12,3,10,10,-9,-8,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-13,11,25,25,-3,5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-14,9,19,20,-2,6,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-15,8,23,33,-3,4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-16,5,16,16,-6,5,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-17,0,13,-9,-8,2,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-18,-9,14,-16,-17,-9,9
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-19,-3,25,-4,-14,-10,7
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-20,11,29,36,-1,4,4
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-21,10,24,29,0,5,2
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-22,7,24,40,-2,3,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-23,6,23,27,-4,4,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-24,7,36,10,-3,0,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-25,-9,14,-21,-26,-30,11
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-26,-11,-4,-27,-23,-16,8
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-27,8,24,11,-7,-1,6
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-28,9,21,18,-3,1,3
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-29,6,24,28,-4,-2,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-30,7,22,12,-8,-3,5
+KR,South Korea,,,,,,ChIJm7oRy-tVZDURS9uIugCbJJE,2021-12-31,8,45,8,-7,-12,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-01,-50,-6,10,-55,-79,34
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-02,-40,-1,-11,-36,-35,16
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-03,-40,3,-5,-34,-26,12
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-04,-26,5,9,-17,-13,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-05,-24,1,-5,-16,-14,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-06,-32,0,1,-16,-15,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-07,-41,-17,-32,-18,-20,15
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-08,-37,-7,-34,-24,-18,16
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-09,-36,7,-35,-31,-20,15
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-10,-36,-9,-18,-34,-26,13
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-11,-25,9,-3,-18,-14,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-12,-26,0,-2,-12,-15,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-13,-28,4,6,-17,-15,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-14,-25,4,12,-19,-14,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-15,-29,3,-3,-19,-15,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-16,-30,9,-13,-24,-17,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-17,-33,12,-9,-29,-22,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-18,-26,-1,-11,-17,-14,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-19,-19,1,-1,-15,-13,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-20,-21,6,15,-15,-12,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-21,-27,-9,-15,-20,-12,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-22,-24,3,1,-17,-12,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-23,-22,12,15,-18,-13,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-24,-20,-1,49,-19,-19,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-25,-14,15,42,-11,-10,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-26,-18,0,-9,-12,-11,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-27,-18,6,19,-14,-10,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-28,-28,-7,-22,-21,-12,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-29,-24,1,-17,-20,-11,11
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-30,-20,14,0,-20,-12,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-01-31,-17,23,27,-22,-16,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-01,-11,15,16,-11,-9,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-02,-11,9,-3,-11,-9,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-03,-18,11,2,-13,-9,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-04,-20,2,-7,-14,-10,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-05,-18,10,4,-12,-9,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-06,-19,16,5,-16,-9,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-07,-16,27,12,-20,-13,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-08,-9,21,5,-10,-9,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-09,-1,30,13,-4,-9,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-10,-4,58,14,-8,-17,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-11,-26,60,23,-39,-76,21
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-12,-56,-28,39,-53,-84,23
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-13,-33,-11,28,-32,-52,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-14,-21,-10,21,-21,-19,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-15,-10,12,-1,-14,-11,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-16,-12,2,-14,-11,-9,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-17,-20,0,-22,-18,-9,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-18,-16,3,-8,-16,-8,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-19,-14,8,8,-12,-8,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-20,-13,15,28,-11,-7,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-21,-9,22,59,-11,-11,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-22,-6,16,30,-8,-7,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-23,-4,11,12,-6,-7,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-24,-10,12,24,-9,-8,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-25,-11,13,12,-11,-7,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-26,-10,13,30,-8,-8,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-27,-11,16,39,-6,-8,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-02-28,-5,7,51,-5,-14,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-01,-20,9,-43,-45,-66,25
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-02,-2,22,18,-2,-6,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-03,-9,21,28,-7,-6,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-04,-10,11,26,-8,-6,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-05,-10,14,34,-5,-5,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-06,-10,17,22,-10,-7,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-07,-4,29,59,-8,-9,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-08,-5,21,47,-4,-6,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-09,-2,16,35,-1,-5,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-10,-8,15,42,-5,-5,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-11,-9,12,29,-7,-5,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-12,-12,13,11,-7,-6,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-13,-8,22,37,-5,-7,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-14,-4,10,49,-6,-10,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-15,-5,23,39,-3,-4,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-16,-1,17,28,-1,-4,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-17,-8,18,40,-5,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-18,-9,13,39,-6,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-19,-7,18,47,-2,-4,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-20,-16,10,-20,-14,-9,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-21,-7,26,23,-9,-9,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-22,-5,21,41,-3,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-23,1,19,43,1,-3,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-24,-7,15,48,-4,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-25,-7,15,47,-4,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-26,-8,17,42,-2,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-27,-18,8,-21,-13,-9,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-28,-12,3,2,-14,-12,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-29,-4,23,34,-3,-2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-30,2,22,61,3,-2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-03-31,-3,23,81,-1,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-01,-5,18,79,-3,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-02,-7,20,71,-1,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-03,-22,5,-32,-18,-11,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-04,0,37,92,-2,-9,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-05,0,27,81,1,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-06,2,22,69,4,-2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-07,-6,22,67,-2,-4,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-08,-8,15,56,-4,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-09,-8,19,56,-2,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-10,-9,20,66,-1,-9,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-11,-3,12,96,1,-10,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-12,-14,10,-5,-7,-3,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-13,-1,22,34,0,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-14,-8,17,44,-4,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-15,-7,18,55,-4,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-16,-13,15,15,-7,-3,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-17,-13,16,16,-8,-9,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-18,-4,31,84,-2,-9,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-19,-3,26,69,0,-2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-20,2,22,63,5,-2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-21,-5,21,63,-1,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-22,-8,15,53,-4,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-23,-9,19,46,-2,-3,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-24,-9,23,59,-2,-9,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-25,-2,14,101,1,-10,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-26,-1,30,71,1,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-27,-1,19,42,3,-1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-28,-7,19,51,-2,-2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-29,-8,17,41,-4,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-04-30,-9,18,19,-3,-2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-01,-13,15,-4,-12,-21,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-02,-1,35,93,1,-11,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-03,2,30,77,2,-4,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-04,-2,16,-8,0,-6,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-05,9,45,148,-22,-62,17
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-06,-7,19,55,-3,-4,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-07,-11,17,11,-4,-6,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-08,-13,20,4,-7,-12,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-09,-3,11,88,2,-12,0
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-10,-7,23,28,-2,-2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-11,4,27,72,7,-1,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-12,-5,22,67,2,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-13,-5,20,58,0,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-14,-6,22,54,2,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-15,-16,11,-7,-8,-11,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-16,-22,9,-41,-21,-15,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-17,-6,25,25,-1,-2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-18,10,35,77,12,-1,-2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-19,6,37,153,-18,-60,16
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-20,-13,9,15,-7,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-21,-8,14,27,-3,-2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-22,-5,21,77,1,-7,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-23,-3,10,93,2,-10,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-24,3,29,71,3,0,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-25,6,23,48,6,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-26,-2,19,66,2,0,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-27,-6,13,31,-4,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-28,-5,16,33,-2,0,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-29,-7,17,28,-3,-6,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-30,2,31,86,3,-7,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-05-31,7,29,77,3,3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-01,9,25,64,7,3,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-02,1,25,71,2,2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-03,-10,3,2,-6,1,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-04,1,25,71,4,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-05,-2,24,68,2,-7,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-06,1,35,85,3,-8,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-07,5,29,74,4,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-08,9,24,66,8,2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-09,1,20,61,1,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-10,-2,15,32,-1,2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-11,-1,22,54,0,0,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-12,-3,22,53,-1,-8,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-13,1,13,67,1,-9,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-14,6,32,70,4,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-15,7,23,54,6,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-16,3,25,74,2,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-17,-1,15,50,-1,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-18,-5,15,30,-2,-1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-19,-2,20,58,0,-7,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-20,1,30,69,2,-8,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-21,8,28,80,4,1,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-22,10,21,59,7,2,0
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-23,1,17,57,1,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-24,2,17,64,1,2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-25,1,20,62,3,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-26,-4,20,43,-2,-8,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-27,0,8,59,2,-9,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-28,5,26,53,2,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-29,9,20,54,6,2,0
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-06-30,-2,18,51,-2,0,0
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-01,2,18,58,0,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-02,0,21,57,2,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-03,-13,10,4,-9,-10,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-04,-9,22,-3,-12,-12,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-05,8,29,79,5,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-06,12,24,69,8,2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-07,-2,20,50,-1,0,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-08,-4,15,48,-4,1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-09,-7,19,50,-3,0,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-10,-13,21,27,-11,-10,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-11,-14,7,30,-13,-14,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-12,-7,25,54,-7,-5,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-13,-3,20,46,-4,-6,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-14,-11,16,40,-11,-8,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-15,-13,12,28,-13,-7,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-16,-15,13,21,-12,-9,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-17,-17,18,22,-17,-10,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-18,-15,25,31,-17,-15,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-19,-6,21,43,-8,-8,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-20,-1,22,42,-4,-7,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-21,-9,21,34,-11,-9,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-22,-12,12,29,-14,-8,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-23,-13,15,25,-12,-9,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-24,-18,16,9,-19,-10,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-25,-18,1,15,-20,-16,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-26,-3,26,42,-9,-10,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-27,-2,19,32,-7,-10,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-28,-11,14,28,-13,-12,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-29,-10,15,30,-14,-13,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-30,-12,15,26,-13,-15,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-07-31,-20,13,6,-20,-17,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-01,-20,15,-4,-22,-19,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-02,-2,27,49,-12,-24,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-03,1,21,43,-9,-23,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-04,-8,20,40,-14,-21,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-05,-9,14,34,-14,-16,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-06,-12,14,31,-14,-17,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-07,-16,16,22,-17,-13,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-08,-18,-1,18,-18,-17,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-09,-1,30,56,-7,-10,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-10,4,25,49,-3,-9,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-11,-7,16,46,-9,-11,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-12,-9,14,38,-11,-10,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-13,-10,18,43,-9,-12,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-14,-14,19,38,-13,-13,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-15,-10,28,54,-11,-17,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-16,3,33,86,-25,-54,17
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-17,-3,14,27,-3,-7,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-18,-8,19,47,-8,-7,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-19,-7,16,55,-8,-5,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-20,-10,16,46,-8,-6,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-21,-22,10,-9,-22,-11,10
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-22,-8,10,64,-10,-11,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-23,-9,17,14,-8,-4,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-24,-5,14,7,-6,-4,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-25,-6,21,49,-6,-4,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-26,-7,17,46,-7,-3,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-27,-11,15,25,-8,-5,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-28,-9,22,49,-8,-8,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-29,-6,29,60,-7,-10,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-30,2,27,72,-1,-3,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-08-31,-9,3,-7,-6,-3,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-01,-5,25,51,-6,-4,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-02,-4,21,58,-6,-3,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-03,-5,23,60,-3,-4,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-04,-6,23,58,-5,-7,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-05,-2,33,75,-3,-9,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-06,0,21,34,-2,-2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-07,-5,13,-8,-6,-3,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-08,0,26,67,-2,-2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-09,-1,23,60,-3,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-10,-2,25,59,-1,-3,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-11,-3,27,52,-2,-6,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-12,4,23,71,1,-7,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-13,8,39,74,3,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-14,11,34,66,6,-1,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-15,3,35,67,1,-2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-16,3,32,63,1,-1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-17,4,42,62,2,-4,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-18,-5,42,49,-4,-15,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-19,-1,70,63,1,-17,-1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-20,-7,64,107,-32,-80,15
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-21,-33,-14,80,-38,-86,12
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-22,-10,10,108,-34,-75,20
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-23,-2,16,68,-8,-8,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-24,-3,17,66,-5,-5,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-25,-7,16,61,-7,-4,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-26,-3,10,89,-5,-5,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-27,4,27,64,1,1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-28,7,18,40,3,0,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-29,-8,13,16,-8,-1,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-09-30,1,21,69,-1,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-01,-1,20,59,0,-1,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-02,-4,20,59,-3,-6,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-03,4,33,91,2,-9,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-04,6,29,68,-23,-51,17
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-05,6,22,54,5,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-06,-4,18,37,-4,0,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-07,-1,16,50,-4,1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-08,-7,13,20,-3,-2,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-09,-6,18,61,-4,-18,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-10,-7,-1,10,-9,-13,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-11,17,42,121,-18,-52,15
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-12,9,25,62,6,2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-13,3,21,75,1,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-14,2,19,69,-1,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-15,-1,18,52,-1,0,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-16,-3,15,18,-6,-6,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-17,3,29,34,-5,-7,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-18,6,24,44,0,0,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-19,12,22,44,4,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-20,4,22,54,0,0,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-21,3,17,50,-2,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-22,2,19,51,0,-1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-23,1,20,52,0,-7,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-24,6,13,76,3,-8,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-25,11,31,70,3,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-26,13,24,65,7,2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-27,4,20,61,1,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-28,5,20,64,0,1,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-29,2,21,62,1,0,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-30,0,23,60,2,-7,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-10-31,7,38,86,5,-7,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-01,11,28,72,4,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-02,14,23,67,7,3,0
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-03,6,22,66,2,2,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-04,4,16,51,0,2,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-05,4,19,61,3,0,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-06,3,19,69,4,-8,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-07,9,31,93,8,-7,0
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-08,-3,12,-7,-5,0,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-09,6,14,1,1,2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-10,4,21,30,0,2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-11,5,21,34,-1,0,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-12,2,18,33,0,-2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-13,1,20,42,2,-9,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-14,6,11,63,6,-10,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-15,11,30,62,3,-1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-16,15,24,54,6,1,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-17,6,25,52,1,0,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-18,5,18,47,-1,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-19,3,20,48,2,-3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-20,-2,17,26,1,-9,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-21,1,25,23,1,-9,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-22,7,21,27,0,3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-23,10,17,21,4,4,1
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-24,3,16,34,0,3,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-25,4,17,37,0,3,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-26,1,17,29,1,1,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-27,-1,17,27,0,-9,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-28,4,9,46,3,-10,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-29,10,27,55,3,3,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-11-30,1,9,-11,-1,3,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-01,-1,17,15,-3,3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-02,-1,13,20,-4,3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-03,-1,15,20,-2,1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-04,-4,17,16,-5,-8,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-05,1,27,36,-3,-9,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-06,6,23,52,0,2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-07,10,20,45,4,3,2
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-08,0,15,47,-3,2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-09,-1,14,38,-5,3,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-10,-4,13,19,-4,1,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-11,-5,17,19,-7,-8,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-12,-4,4,16,-9,-11,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-13,2,21,27,-5,1,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-14,5,15,23,0,2,3
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-15,1,19,27,-4,1,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-16,0,14,30,-5,2,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-17,-6,8,-2,-8,-1,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-18,-15,10,-9,-12,-12,9
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-19,-7,24,5,-10,-13,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-20,4,26,40,-2,0,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-21,8,22,34,2,1,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-22,0,20,36,-3,0,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-23,1,21,35,-4,0,4
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-24,3,34,13,-4,-4,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-25,-15,10,-24,-26,-35,12
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-26,-15,-9,-24,-21,-19,8
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-27,0,19,9,-9,-4,7
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-28,6,18,16,-2,-3,5
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-29,-1,19,16,-6,-4,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-30,1,19,11,-9,-6,6
+KR,South Korea,,,Seoul Metropolitan Area,,,ChIJVSiAivKifDURLEc3lh_DYRE,2021-12-31,2,40,5,-10,-16,10

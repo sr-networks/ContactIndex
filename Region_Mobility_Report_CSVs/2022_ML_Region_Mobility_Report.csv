@@ -1,0 +1,577 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-01,30,52,141,14,-14,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-02,32,15,106,49,8,-2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-03,45,44,112,50,19,-5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-04,44,91,120,58,23,-6
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-05,39,96,119,62,25,-4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-06,41,93,112,59,20,-4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-07,38,80,101,47,24,-3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-08,46,85,108,44,30,-3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-09,26,14,100,48,13,1
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-10,44,41,121,46,26,-4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-11,40,82,118,47,28,-3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-12,35,85,116,40,30,-1
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-13,38,88,109,50,25,-2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-14,42,73,221,47,23,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-15,46,82,122,41,35,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-16,29,14,103,30,22,6
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-17,45,41,125,46,34,1
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-18,42,85,134,56,36,0
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-19,46,95,145,50,41,1
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-20,26,71,112,34,-17,14
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-21,41,81,115,45,36,4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-22,47,80,137,41,44,4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-23,32,15,125,38,27,8
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-24,48,41,146,49,40,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-25,45,82,147,52,37,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-26,35,80,130,44,33,6
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-27,43,91,132,57,28,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-28,41,82,133,49,32,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-29,50,84,157,41,41,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-30,40,19,148,45,26,6
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-01-31,49,42,143,58,40,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-01,46,85,154,65,41,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-02,44,94,135,56,44,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-03,45,92,134,63,38,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-04,46,85,125,53,39,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-05,55,89,138,47,45,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-06,33,17,124,52,30,7
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-07,51,45,139,57,42,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-08,48,87,154,63,42,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-09,44,92,134,48,42,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-10,46,93,136,59,37,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-11,46,84,130,47,40,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-12,54,90,142,46,44,4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-13,39,21,124,47,30,7
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-14,59,49,148,60,43,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-15,48,89,153,61,43,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-16,42,94,153,52,46,4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-17,45,92,151,56,40,4
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-18,46,80,180,55,44,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-19,53,86,236,45,49,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-20,40,19,177,47,34,7
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-21,47,42,143,54,42,3
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-22,47,83,162,60,42,2
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-23,43,88,156,57,44,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-24,48,92,160,68,39,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-25,48,87,147,66,45,8
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-26,55,88,161,56,48,6
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-27,47,27,148,58,38,8
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-02-28,57,49,177,64,47,5
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-01,56,94,182,74,48,6
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-02,56,102,183,67,51,7
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-03,62,105,197,85,50,8
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-04,64,99,193,72,57,13
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-05,75,107,199,61,64,13
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-06,62,36,178,67,56,14
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-07,73,57,226,80,59,11
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-08,77,107,257,91,58,15
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-09,76,117,257,89,70,16
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-10,79,115,257,91,65,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-11,76,103,230,87,70,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-12,85,114,249,75,80,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-13,82,47,233,85,79,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-14,86,62,272,94,72,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-15,84,110,279,99,72,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-16,78,118,268,95,73,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-17,78,113,254,94,63,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-18,74,102,231,88,67,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-19,83,108,238,80,78,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-20,83,49,242,92,72,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-21,85,61,279,101,70,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-22,84,110,280,109,70,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-23,79,116,268,102,72,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-24,79,111,262,104,61,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-25,88,97,238,82,59,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-26,80,101,265,81,63,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-27,79,47,247,90,73,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-28,85,62,279,104,67,18
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-29,82,106,291,112,67,18
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-30,79,117,265,102,70,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-03-31,82,118,269,111,63,18
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-01,83,113,261,96,68,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-02,58,95,216,72,74,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-03,47,32,191,77,85,29
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-04,65,47,247,86,68,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-05,60,86,245,85,65,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-06,56,95,241,82,66,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-07,57,95,235,86,61,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-08,54,82,215,75,62,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-09,57,88,219,66,74,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-10,50,34,196,69,84,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-11,69,52,263,83,69,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-12,60,85,262,82,66,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-13,57,96,242,81,67,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-14,56,95,231,80,60,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-15,50,79,208,73,57,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-16,60,91,227,71,74,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-17,55,35,208,67,84,27
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-18,54,41,231,68,7,35
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-19,62,88,262,85,67,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-20,56,92,240,79,66,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-21,56,92,233,77,59,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-22,56,88,208,77,63,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-23,58,89,213,67,76,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-24,53,39,182,75,95,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-25,70,54,237,87,63,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-26,70,97,256,90,60,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-27,67,101,245,102,54,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-28,55,81,215,97,6,33
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-29,72,92,224,103,48,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-04-30,89,124,266,108,73,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-01,77,40,223,55,28,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-02,55,26,265,34,-41,37
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-03,70,85,279,77,22,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-04,73,100,255,88,50,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-05,72,103,245,94,50,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-06,68,89,226,76,56,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-07,71,91,242,72,65,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-08,70,40,223,81,74,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-09,86,52,275,97,67,18
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-10,81,99,279,100,64,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-11,74,103,273,89,65,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-12,70,97,261,96,58,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-13,68,81,261,82,59,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-14,76,92,263,77,71,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-15,71,40,244,83,74,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-16,82,49,283,96,65,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-17,75,93,283,95,65,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-18,70,100,274,84,63,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-19,68,96,264,85,50,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-20,64,84,247,82,58,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-21,72,89,257,77,67,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-22,70,40,242,82,71,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-23,80,47,282,94,64,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-24,81,98,301,98,63,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-25,61,86,261,80,11,30
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-26,71,99,267,95,55,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-27,70,88,249,84,60,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-28,79,92,270,73,72,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-29,74,40,254,81,71,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-30,81,50,281,94,64,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-05-31,82,99,290,101,66,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-01,73,98,277,96,66,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-02,76,103,268,93,59,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-03,74,92,249,87,63,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-04,87,95,265,78,70,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-05,74,43,243,81,73,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-06,86,54,283,94,66,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-07,83,100,304,98,65,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-08,77,105,285,89,66,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-09,76,99,272,89,57,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-10,75,93,255,80,62,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-11,77,91,259,66,72,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-12,72,41,254,75,71,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-13,85,51,287,87,64,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-14,67,79,262,85,60,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-15,77,104,285,90,63,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-16,74,99,262,93,54,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-17,68,84,239,75,59,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-18,79,95,262,70,71,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-19,70,40,241,74,75,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-20,78,46,286,89,61,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-21,77,93,290,91,55,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-22,61,88,251,79,57,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-23,80,105,282,103,53,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-24,75,90,251,84,58,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-25,82,95,252,69,70,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-26,81,45,250,82,77,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-27,84,48,281,91,58,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-28,82,96,292,98,56,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-29,80,104,281,90,59,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-06-30,68,92,252,87,50,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-01,80,96,249,76,56,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-02,75,94,242,67,67,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-03,84,50,240,85,88,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-04,96,62,302,101,56,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-05,93,117,312,118,52,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-06,90,128,291,112,51,19
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-07,92,143,282,132,34,17
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-08,78,135,268,85,-8,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-09,36,48,221,4,-33,32
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-10,64,28,244,43,21,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-11,50,27,262,47,-7,32
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-12,67,96,285,82,23,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-13,67,104,272,79,33,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-14,64,102,248,84,32,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-15,57,82,233,66,36,27
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-16,63,89,251,60,54,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-17,51,26,201,71,55,27
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-18,80,58,295,85,46,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-19,70,98,273,82,44,29
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-20,57,93,261,70,44,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-21,67,106,265,82,39,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-22,66,97,256,68,46,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-23,61,90,253,51,59,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-24,36,17,178,44,32,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-25,74,54,273,70,46,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-26,73,101,309,88,48,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-27,73,110,303,79,51,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-28,73,111,297,91,43,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-29,57,84,247,60,39,29
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-30,74,102,282,60,64,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-07-31,76,47,269,75,68,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-01,73,55,292,75,49,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-02,75,105,302,95,49,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-03,72,115,300,79,51,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-04,72,113,280,87,44,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-05,65,94,256,73,48,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-06,76,102,282,60,62,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-07,75,52,268,74,67,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-08,55,41,256,57,0,35
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-09,77,109,319,88,51,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-10,71,112,291,78,51,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-11,65,103,270,77,42,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-12,49,78,230,56,44,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-13,67,99,255,52,65,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-14,59,32,240,57,66,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-15,81,60,306,82,50,26
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-16,64,91,283,73,46,29
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-17,75,116,298,78,51,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-18,73,111,287,89,46,29
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-19,67,97,266,69,50,30
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-20,57,80,242,44,60,32
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-21,71,44,256,73,74,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-22,83,63,307,76,54,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-23,71,100,312,82,50,30
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-24,73,113,304,78,53,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-25,73,111,289,90,48,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-26,67,95,260,68,52,30
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-27,72,96,273,50,68,29
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-28,70,42,265,73,74,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-29,81,60,302,78,55,27
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-30,76,105,308,88,53,27
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-08-31,64,103,286,70,51,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-01,57,93,261,71,44,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-02,69,99,272,70,53,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-03,69,94,274,60,67,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-04,70,42,262,71,75,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-05,80,60,300,79,54,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-06,75,103,305,87,52,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-07,67,104,302,72,54,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-08,66,103,279,84,47,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-09,52,77,244,62,48,28
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-10,70,95,272,57,67,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-11,69,40,261,73,79,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-12,79,57,298,78,56,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-13,67,92,303,83,52,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-14,69,102,298,78,54,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-15,66,100,290,86,47,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-16,63,86,253,69,52,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-17,61,84,254,49,68,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-18,69,40,255,66,77,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-19,79,55,308,79,54,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-20,67,89,295,72,49,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-21,75,106,303,83,53,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-22,56,86,290,64,-3,33
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-23,59,78,245,53,12,33
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-24,70,92,277,51,66,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-25,67,40,262,80,71,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-26,80,55,303,87,52,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-27,79,104,344,100,53,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-28,73,109,305,89,53,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-29,74,105,295,103,46,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-09-30,60,85,254,81,51,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-01,81,106,294,83,71,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-02,73,48,264,82,77,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-03,86,64,312,92,55,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-04,80,105,317,95,55,20
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-05,67,100,291,82,54,23
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-06,73,109,297,100,52,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-07,69,96,266,83,54,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-08,77,100,276,64,67,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-09,64,36,244,74,72,25
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-10,78,56,302,77,51,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-11,73,98,313,89,54,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-12,69,100,301,78,56,22
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-13,67,99,282,83,48,21
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-14,70,92,266,73,49,24
+ML,Mali,,,,,,ChIJz3MQG4g-FA4RgM-9oOJbOrs,2022-10-15,71,80,276,53,53,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-01,12,35,303,-3,-17,3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-02,16,38,202,40,17,-1
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-03,27,81,238,44,20,-4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-04,27,71,244,49,22,-5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-05,24,78,259,56,24,-3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-06,24,82,233,50,26,-2
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-07,20,65,214,39,26,-2
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-08,28,67,212,31,29,-2
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-09,10,36,191,42,23,1
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-10,25,78,256,41,27,-2
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-11,22,63,230,34,27,-1
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-12,19,66,248,30,29,1
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-13,20,75,234,37,30,0
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-14,20,54,,33,24,3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-15,28,64,225,24,34,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-16,11,35,184,17,29,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-17,25,74,248,35,32,2
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-18,23,64,262,42,32,2
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-19,29,77,306,36,37,3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-20,8,60,237,15,-18,16
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-21,22,65,230,30,36,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-22,28,62,258,25,41,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-23,13,36,224,28,34,8
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-24,27,74,296,37,38,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-25,26,63,291,36,33,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-26,17,61,274,31,30,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-27,24,78,286,41,31,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-28,21,65,272,37,32,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-29,30,66,295,23,37,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-30,19,41,274,27,34,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-01-31,28,76,282,46,38,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-01,26,66,297,52,37,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-02,26,75,269,42,41,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-03,25,79,270,45,41,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-04,23,68,258,38,39,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-05,33,68,243,23,42,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-06,10,36,220,34,37,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-07,30,80,281,47,40,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-08,28,68,291,50,37,3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-09,27,73,279,39,39,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-10,27,80,285,46,40,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-11,26,68,268,36,40,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-12,35,72,252,32,40,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-13,19,43,214,38,36,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-14,38,85,293,51,41,3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-15,29,68,290,45,38,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-16,25,74,316,41,42,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-17,25,76,319,41,42,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-18,24,62,370,43,43,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-19,32,66,485,29,44,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-20,19,40,332,33,39,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-21,25,74,269,41,39,4
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-22,26,62,268,43,36,3
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-23,23,65,290,41,37,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-24,25,74,281,47,39,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-25,24,66,257,45,40,8
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-26,31,64,254,30,40,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-27,22,45,234,40,38,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-02-28,30,78,296,47,41,5
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-01,32,69,292,50,40,6
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-02,31,77,308,42,42,7
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-03,33,85,304,52,47,8
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-04,34,74,302,43,48,12
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-05,44,81,290,28,51,12
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-06,30,54,258,37,49,13
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-07,40,86,328,54,48,11
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-08,43,76,350,56,42,15
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-09,42,84,,53,53,16
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-10,42,88,352,52,55,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-11,38,71,303,47,54,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-12,47,81,311,35,57,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-13,41,59,289,48,60,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-14,46,85,,60,55,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-15,45,76,,63,52,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-16,41,82,,53,54,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-17,41,87,362,50,53,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-18,35,71,320,50,51,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-19,45,75,305,37,55,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-20,42,60,311,51,55,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-21,44,81,,60,52,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-22,46,74,,63,49,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-23,43,80,,65,52,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-24,41,83,364,62,49,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-25,48,65,335,47,43,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-26,43,67,346,40,40,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-27,37,58,320,46,53,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-28,44,82,,68,50,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-29,43,72,,69,47,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-30,43,83,,66,51,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-03-31,43,92,,70,51,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-01,44,82,384,55,51,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-02,23,65,271,34,52,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-03,11,38,220,35,66,29
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-04,27,65,323,56,50,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-05,25,56,312,47,44,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-06,23,64,334,48,46,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-07,23,70,316,45,49,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-08,19,54,288,40,46,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-09,25,57,268,28,51,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-10,14,43,222,31,66,28
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-11,32,72,,49,51,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-12,25,53,331,41,45,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-13,26,66,339,49,47,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-14,24,70,308,44,49,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-15,17,52,279,37,41,26
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-16,27,61,277,35,50,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-17,20,45,249,29,69,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-18,18,56,306,35,-10,35
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-19,28,58,332,49,46,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-20,24,62,336,50,47,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-21,22,68,306,44,47,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-22,21,58,264,46,45,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-23,25,58,244,31,52,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-24,18,48,192,46,80,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-25,31,69,289,53,45,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-26,32,62,298,49,39,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-27,33,66,324,65,35,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-28,21,55,277,54,-8,34
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-29,37,61,291,71,34,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-04-30,52,88,326,68,53,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-01,38,51,299,16,14,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-02,16,40,,-5,-57,38
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-03,29,48,358,31,3,26
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-04,37,63,,51,33,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-05,36,72,338,57,40,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-06,32,57,304,44,42,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-07,38,59,320,35,44,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-08,32,52,287,45,58,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-09,46,76,,66,50,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-10,44,65,,60,46,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-11,39,67,,48,48,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-12,36,70,367,53,48,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-13,33,52,371,46,45,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-14,42,61,349,37,50,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-15,34,51,322,43,57,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-16,44,70,,61,49,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-17,40,58,356,53,45,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-18,37,67,,48,45,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-19,34,67,356,46,40,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-20,31,54,321,48,44,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-21,40,57,316,45,45,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-22,34,51,308,51,56,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-23,43,67,,59,48,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-24,46,63,,62,44,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-25,29,54,,41,-7,30
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-26,37,69,,51,46,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-27,35,59,342,45,46,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-28,45,60,336,33,52,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-29,37,49,316,41,55,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-30,44,70,,60,49,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-05-31,46,65,,61,46,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-01,39,66,,57,48,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-02,41,76,370,50,49,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-03,40,64,335,53,49,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-04,52,64,353,40,49,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-05,37,54,313,41,56,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-06,49,75,,59,50,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-07,48,67,,60,47,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-08,44,71,,54,48,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-09,40,73,,45,48,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-10,39,62,338,46,48,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-11,43,60,333,32,52,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-12,37,53,321,42,56,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-13,49,74,,51,50,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-14,33,48,337,48,43,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-15,45,73,,55,46,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-16,42,74,372,57,46,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-17,34,57,325,44,46,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-18,48,65,348,38,51,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-19,36,54,301,40,60,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-20,43,67,,60,46,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-21,43,62,,59,38,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-22,30,59,,51,41,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-23,46,79,,70,44,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-24,42,62,359,51,44,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-25,50,65,341,37,49,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-26,46,60,331,49,64,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-27,49,70,,58,43,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-28,48,64,,64,39,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-29,49,73,,57,42,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-06-30,36,64,361,47,41,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-01,46,69,351,41,43,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-02,46,64,344,38,46,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-03,51,65,315,55,78,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-04,61,87,,69,42,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-05,60,82,,82,35,18
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-06,59,94,,80,35,17
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-07,58,117,,87,26,16
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-08,41,100,341,38,-22,28
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-09,1,17,280,-38,-50,31
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-10,26,36,323,5,10,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-11,12,40,,2,-20,33
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-12,31,61,,36,8,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-13,34,70,,35,19,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-14,31,76,354,42,25,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-15,23,55,327,26,24,26
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-16,30,58,330,17,34,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-17,15,33,241,34,38,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-18,44,83,,48,32,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-19,38,70,,52,28,28
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-20,26,63,,38,29,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-21,34,83,,45,30,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-22,32,70,358,35,32,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-23,31,61,340,18,40,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-24,11,34,261,31,25,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-25,41,81,,42,34,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-26,39,69,,56,32,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-27,40,79,,44,35,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-28,40,89,,58,35,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-29,24,57,339,29,26,29
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-30,42,74,379,27,44,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-07-31,41,62,361,46,54,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-01,39,80,,41,35,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-02,42,76,,61,32,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-03,42,86,,48,34,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-04,39,90,,52,35,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-05,32,66,342,38,34,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-06,44,76,371,25,43,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-07,39,70,346,49,54,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-08,21,61,340,27,-15,36
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-09,44,78,,55,34,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-10,40,81,,47,35,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-11,33,79,,48,33,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-12,17,51,316,26,30,28
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-13,37,72,333,23,45,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-14,25,46,308,28,50,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-15,44,86,,49,35,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-16,31,62,,38,29,28
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-17,42,85,,43,35,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-18,39,86,,47,36,28
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-19,33,70,359,34,36,29
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-20,25,53,292,10,40,32
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-21,34,59,322,43,57,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-22,45,88,,41,38,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-23,38,71,,46,32,29
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-24,41,82,,41,36,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-25,39,86,,48,38,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-26,32,68,352,35,38,29
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-27,39,68,357,14,48,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-28,34,54,333,42,59,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-29,43,84,,45,40,26
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-30,43,74,,49,35,25
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-08-31,34,75,,34,34,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-01,28,73,,38,35,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-02,37,75,376,37,39,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-03,38,68,372,25,48,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-04,35,57,337,43,60,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-05,44,87,,47,39,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-06,41,74,,53,35,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-07,35,74,,37,37,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-08,33,80,,46,37,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-09,20,53,322,30,34,27
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-10,40,71,350,24,46,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-11,35,52,335,52,63,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-12,44,84,,47,41,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-13,34,63,,45,34,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-14,39,76,,43,38,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-15,36,79,,50,38,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-16,33,63,344,38,39,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-17,31,58,321,16,46,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-18,36,54,327,37,62,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-19,43,78,,48,39,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-20,35,64,,37,32,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-21,44,77,,48,36,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-22,23,65,,26,-15,33
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-23,27,55,316,19,-3,32
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-24,38,66,344,13,45,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-25,33,56,326,48,54,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-26,45,77,,59,37,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-27,45,76,,62,35,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-28,42,81,,51,36,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-29,42,83,,67,36,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-09-30,28,59,346,47,37,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-01,48,77,399,46,49,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-02,39,60,347,52,63,22
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-03,49,88,,59,40,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-04,46,74,,55,36,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-05,35,71,,45,36,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-06,40,87,,59,42,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-07,35,69,373,48,40,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-08,42,71,342,26,46,21
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-09,28,47,315,33,59,24
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-10,42,79,,44,37,19
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-11,39,69,,48,36,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-12,37,72,,39,39,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-13,34,78,,40,38,20
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-14,36,67,362,31,35,23
+ML,Mali,,,Bamako Metropolitan Area,,,ChIJaf_bnsLNUQ4RUNiQnsuXQg8,2022-10-15,39,54,355,15,31,24

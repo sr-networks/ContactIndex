@@ -1,0 +1,1153 @@
+country_region_code,country_region,sub_region_1,sub_region_2,metro_area,iso_3166_2_code,census_fips_code,place_id,date,retail_and_recreation_percent_change_from_baseline,grocery_and_pharmacy_percent_change_from_baseline,parks_percent_change_from_baseline,transit_stations_percent_change_from_baseline,workplaces_percent_change_from_baseline,residential_percent_change_from_baseline
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-01,7,72,3,-5,-17,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-02,9,66,-2,-2,-1,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-03,8,81,-11,-2,9,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-04,7,82,-13,-5,10,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-05,9,85,-11,-4,10,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-06,7,84,-16,-8,10,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-07,7,92,-11,-11,13,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-08,7,77,-8,-13,14,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-09,6,63,-3,-19,-1,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-10,8,75,-14,-13,4,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-11,4,71,-9,-25,-41,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-12,4,74,-16,-15,7,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-13,4,78,-15,-15,6,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-14,3,75,-18,-18,10,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-15,2,65,-13,-19,14,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-16,3,52,-7,-23,0,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-17,2,68,-16,-16,6,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-18,4,66,-19,-19,7,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-19,5,71,-14,-17,7,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-20,6,70,-16,-17,8,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-21,4,79,-14,-16,12,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-22,4,64,-12,-18,14,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-23,4,49,-9,-24,2,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-24,4,65,-17,-17,9,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-25,7,62,-20,-21,9,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-26,4,64,-17,-20,7,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-27,6,73,-15,-18,9,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-28,5,77,-15,-18,14,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-29,6,65,-15,-19,16,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-30,7,44,-17,-25,5,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-01-31,7,72,-13,-12,10,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-01,10,78,-8,-12,11,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-02,13,79,-7,-10,10,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-03,13,79,-10,-10,9,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-04,9,82,-10,-9,11,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-05,7,66,-8,-11,9,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-06,14,56,3,-12,2,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-07,15,77,4,0,-5,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-08,17,80,6,-2,-6,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-09,18,80,9,0,-6,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-10,21,87,13,3,-7,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-11,17,88,8,1,-3,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-12,15,73,8,1,2,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-13,16,63,8,1,2,4
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-14,14,76,-7,-2,13,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-15,15,74,-7,-6,14,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-16,14,78,-5,-6,13,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-17,14,81,-5,-3,15,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-18,15,90,-1,-1,20,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-19,12,75,-4,-3,19,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-20,14,63,5,-6,6,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-21,14,79,-2,0,16,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-22,14,80,-1,-2,16,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-23,15,81,1,-1,15,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-24,12,81,-5,-1,17,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-25,15,93,0,2,22,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-26,14,80,0,1,21,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-27,15,71,4,-2,8,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-02-28,16,86,4,5,16,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-01,19,92,8,6,16,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-02,20,96,13,8,15,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-03,18,98,11,8,16,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-04,17,102,9,10,21,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-05,18,92,12,9,21,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-06,15,76,5,3,8,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-07,17,91,11,10,19,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-08,19,96,16,8,20,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-09,20,94,16,7,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-10,17,97,17,9,20,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-11,14,99,14,9,23,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-12,15,92,17,8,23,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-13,15,86,20,8,12,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-14,6,75,3,4,19,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-15,14,91,11,6,21,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-16,13,92,12,6,20,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-17,14,94,12,7,21,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-18,15,102,16,10,24,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-19,15,93,20,10,24,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-20,16,83,18,8,13,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-21,15,91,20,12,22,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-22,14,92,19,9,22,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-23,9,82,6,4,20,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-24,14,94,10,9,22,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-25,15,97,11,9,25,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-26,14,93,20,12,25,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-27,16,89,25,11,13,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-28,14,90,17,12,23,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-29,14,80,7,8,22,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-30,14,96,11,11,21,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-03-31,19,109,17,17,23,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-01,19,120,21,19,27,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-02,18,119,14,15,25,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-03,-14,85,-7,-10,1,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-04,-15,73,-4,-6,-2,17
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-05,-15,73,-2,-9,-2,17
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-06,-7,85,7,-5,-1,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-07,-5,90,13,-2,-1,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-08,-5,96,11,-2,3,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-09,-7,81,2,-5,5,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-10,-10,77,0,-8,5,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-11,-6,79,10,0,15,13
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-12,-6,83,9,-5,15,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-13,-5,83,9,-5,14,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-14,-4,85,10,-2,15,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-15,-4,92,14,-2,19,16
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-16,-6,77,6,-5,18,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-17,-8,75,8,-7,7,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-18,-4,79,16,2,15,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-19,-4,82,13,-2,16,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-20,-4,84,9,-2,16,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-21,-1,92,15,0,17,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-22,-1,95,8,-2,22,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-23,-3,86,5,-3,20,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-24,-3,87,9,-3,12,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-25,0,86,19,4,17,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-26,0,91,19,2,16,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-27,3,98,20,5,15,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-28,2,104,19,9,14,13
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-29,9,118,26,13,14,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-04-30,7,109,22,15,10,13
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-01,15,133,35,16,8,13
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-02,11,79,72,9,-69,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-03,9,67,42,2,-63,12
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-04,18,87,35,12,-6,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-05,19,99,37,13,2,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-06,17,101,35,9,8,12
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-07,14,84,31,11,10,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-08,15,78,33,17,6,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-09,18,91,26,18,18,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-10,18,93,27,14,18,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-11,19,93,27,14,17,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-12,19,97,26,15,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-13,19,100,27,13,23,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-14,16,87,27,14,22,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-15,16,80,35,12,8,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-16,16,88,24,15,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-17,16,89,25,11,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-18,17,89,26,12,18,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-19,18,93,24,12,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-20,18,98,24,13,23,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-21,15,87,27,12,21,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-22,16,81,34,8,8,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-23,15,87,23,13,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-24,16,88,23,10,18,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-25,18,89,26,10,17,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-26,18,93,25,12,16,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-27,17,97,27,12,21,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-28,16,80,21,6,21,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-29,16,81,34,7,9,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-30,19,81,21,11,17,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-05-31,18,91,25,11,17,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-01,21,96,28,14,16,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-02,21,101,28,14,16,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-03,20,104,32,14,20,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-04,18,92,34,12,20,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-05,18,85,43,11,9,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-06,19,91,28,16,14,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-07,18,91,27,11,13,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-08,19,92,28,9,12,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-09,19,91,24,10,13,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-10,17,99,29,11,18,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-11,14,84,31,9,18,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-12,14,78,40,7,9,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-13,17,84,24,12,13,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-14,15,89,25,9,12,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-15,17,89,26,9,11,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-16,19,92,26,9,12,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-17,17,97,29,9,16,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-18,15,85,32,8,17,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-19,14,78,37,5,9,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-20,18,89,27,14,11,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-21,18,90,27,11,10,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-22,18,89,28,11,9,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-23,19,95,30,12,10,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-24,18,98,30,10,13,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-25,13,82,28,6,13,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-26,12,77,32,5,8,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-27,19,89,28,14,9,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-28,19,91,31,11,7,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-29,21,93,31,12,7,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-06-30,24,103,34,16,7,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-01,24,113,36,17,13,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-02,20,99,33,16,15,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-03,22,100,42,17,15,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-04,29,110,42,25,7,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-05,33,121,49,27,7,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-06,36,129,54,32,4,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-07,40,144,57,39,0,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-08,32,155,56,36,-9,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-09,21,142,50,24,-25,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-10,-21,35,25,-22,-41,13
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-11,1,52,78,-9,-69,14
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-12,15,72,89,9,-40,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-13,23,84,93,15,-28,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-14,28,95,97,19,-23,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-15,22,95,86,14,-17,12
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-16,18,83,81,18,-11,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-17,22,86,85,22,-2,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-18,39,108,97,35,-7,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-19,35,107,93,28,-8,15
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-20,37,111,96,29,-7,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-21,39,116,100,30,-6,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-22,35,121,94,27,-1,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-23,27,98,84,23,2,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-24,16,79,76,12,-4,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-25,38,110,91,30,-5,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-26,43,121,104,31,-4,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-27,44,126,100,32,-4,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-28,48,130,100,34,-3,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-29,44,138,96,33,0,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-30,32,110,90,27,-7,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-07-31,36,110,98,29,7,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-01,52,135,111,43,-7,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-02,50,133,113,36,-8,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-03,52,137,118,36,-8,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-04,54,142,121,38,-8,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-05,48,145,113,34,-5,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-06,38,120,104,33,1,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-07,40,120,114,33,5,5
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-08,51,135,122,41,-13,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-09,52,138,127,37,-12,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-10,52,135,125,36,-11,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-11,51,137,126,35,-11,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-12,44,136,115,30,-7,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-13,34,111,102,29,4,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-14,39,113,113,31,11,6
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-15,53,134,125,40,-12,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-16,50,134,124,32,-11,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-17,50,135,122,33,-10,11
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-18,51,137,123,35,-9,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-19,43,137,110,28,-6,12
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-20,33,112,100,25,-3,11
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-21,35,108,105,26,14,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-22,46,124,108,35,-8,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-23,45,127,108,29,-7,11
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-24,43,125,100,27,-7,11
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-25,43,127,98,28,-6,11
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-26,36,125,86,22,-1,12
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-27,28,105,72,21,10,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-28,29,100,73,19,18,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-29,38,115,72,28,-2,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-30,37,116,63,21,-1,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-08-31,39,117,65,22,0,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-01,42,127,63,28,2,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-02,36,128,57,23,8,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-03,31,110,48,20,17,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-04,32,107,48,19,22,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-05,38,120,51,27,6,7
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-06,36,118,48,21,6,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-07,36,116,49,20,7,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-08,35,116,48,20,8,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-09,30,116,46,17,13,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-10,25,97,38,13,20,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-11,25,95,40,12,24,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-12,30,106,40,21,10,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-13,32,106,37,16,9,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-14,30,104,39,15,9,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-15,28,106,37,16,10,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-16,25,108,35,13,17,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-17,22,93,33,11,22,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-18,23,87,32,8,23,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-19,26,99,36,19,12,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-20,26,100,35,13,12,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-21,25,99,34,13,11,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-22,26,101,33,13,12,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-23,23,99,28,10,19,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-24,19,89,29,8,22,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-25,18,84,24,5,21,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-26,24,96,31,16,16,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-27,24,91,25,10,15,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-28,24,98,30,12,15,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-29,26,103,29,13,16,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-09-30,26,109,28,15,24,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-01,25,101,30,13,27,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-02,24,95,30,9,23,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-03,27,101,34,21,20,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-04,28,102,32,16,20,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-05,29,105,33,17,20,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-06,28,107,31,18,23,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-07,26,112,31,21,26,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-08,24,102,30,17,22,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-09,17,71,39,3,4,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-10,22,85,40,10,-33,12
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-11,22,93,26,14,19,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-12,24,93,26,12,19,9
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-13,24,101,30,14,20,8
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-14,22,102,28,11,26,10
+MA,Morocco,,,,,,ChIJjcVRlmGICw0Rw_8sxIGT09k,2022-10-15,19,89,25,8,27,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-01,7,44,-3,-12,-21,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-02,10,37,-6,-7,3,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-03,14,62,-7,-5,7,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-04,15,69,-11,-3,6,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-05,16,68,-8,-5,5,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-06,11,66,-20,-12,4,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-07,12,74,-10,-26,6,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-08,12,59,-1,-32,14,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-09,8,36,-3,-40,4,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-10,12,57,-10,-31,-3,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-11,10,50,-10,-43,-52,20
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-12,9,57,-15,-30,1,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-13,9,60,-15,-29,-1,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-14,7,57,-17,-32,3,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-15,10,49,-4,-36,15,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-16,8,29,-3,-40,5,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-17,10,51,-9,-31,4,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-18,11,52,-15,-30,3,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-19,14,58,-8,-29,3,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-20,13,57,-14,-27,4,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-21,13,66,-10,-26,8,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-22,14,54,0,-30,18,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-23,11,32,2,-36,8,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-24,14,53,-5,-29,8,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-25,17,51,-15,-30,7,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-26,14,52,-11,-30,6,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-27,16,60,-11,-26,7,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-28,16,67,-10,-26,11,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-29,17,55,-3,-29,20,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-30,12,28,-9,-37,10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-01-31,18,59,-2,-25,9,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-01,23,70,2,-22,9,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-02,24,69,-1,-22,8,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-03,22,68,-6,-20,7,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-04,19,71,-4,-19,9,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-05,16,52,-4,-25,14,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-06,21,36,10,-27,6,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-07,23,61,9,-11,-1,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-08,26,65,8,-10,-3,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-09,25,64,4,-11,-3,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-10,26,67,4,-6,-4,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-11,23,68,-1,-9,-1,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-12,22,55,7,-12,8,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-13,22,42,11,-11,6,3
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-14,25,63,2,-12,12,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-15,24,62,-4,-13,11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-16,24,65,1,-15,11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-17,23,67,-3,-10,11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-18,24,75,0,-9,15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-19,19,58,-3,-14,21,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-20,22,45,15,-15,11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-21,24,65,6,-10,14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-22,25,67,4,-9,13,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-23,23,64,-1,-11,12,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-24,16,61,-15,-8,12,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-25,24,76,1,-4,16,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-26,25,63,7,-8,23,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-27,20,47,7,-11,12,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-02-28,24,67,9,-7,13,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-01,30,75,8,-2,11,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-02,28,78,11,-4,11,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-03,25,80,5,0,11,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-04,25,84,4,2,15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-05,26,70,11,-2,21,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-06,20,51,0,-6,11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-07,25,70,10,-2,16,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-08,28,77,10,0,15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-09,25,74,6,-4,15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-10,21,74,2,1,15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-11,19,77,1,1,18,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-12,21,69,10,-4,24,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-13,19,56,13,-2,13,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-14,11,53,-8,-8,16,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-15,21,72,3,-2,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-16,19,70,-2,-4,16,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-17,18,72,1,1,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-18,19,77,4,1,19,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-19,20,67,13,-1,25,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-20,19,53,4,-1,14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-21,20,68,12,0,18,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-22,20,71,7,0,17,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-23,13,59,-12,-5,15,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-24,21,76,3,3,17,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-25,16,72,-7,2,18,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-26,20,68,10,2,25,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-27,19,58,12,3,15,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-28,21,68,7,2,19,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-29,25,62,-7,2,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-30,23,77,0,3,17,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-03-31,25,87,3,10,17,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-01,27,98,11,10,20,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-02,27,97,7,4,23,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-03,-10,60,-18,-19,4,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-04,-11,57,-11,-14,0,15
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-05,-17,47,-25,-17,-2,17
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-06,-5,66,-8,-15,-1,15
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-07,-3,70,-3,-10,0,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-08,-2,76,2,-9,3,16
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-09,-1,65,-5,-15,9,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-10,-6,52,-12,-17,7,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-11,-3,59,0,-11,12,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-12,-1,65,-1,-10,10,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-13,-1,65,-3,-13,10,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-14,-1,65,-3,-8,10,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-15,0,74,2,-6,14,15
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-16,0,61,-3,-13,17,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-17,-2,52,-4,-13,9,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-18,1,60,5,-8,10,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-19,1,65,1,-7,11,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-20,2,67,-2,-8,11,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-21,3,73,0,-4,12,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-22,7,76,-5,-6,14,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-23,6,68,-3,-8,18,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-24,2,61,-1,-7,13,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-25,6,65,5,-5,11,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-26,5,72,4,-5,10,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-27,8,78,4,-3,9,13
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-28,6,83,1,4,8,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-29,14,96,7,5,7,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-04-30,7,82,1,3,9,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-01,9,81,-3,-1,8,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-02,0,31,22,-12,-79,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-03,-2,30,-3,-19,-74,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-04,10,52,-4,-6,-14,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-05,12,63,-4,-2,-6,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-06,14,65,0,-4,-2,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-07,11,51,10,-3,4,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-08,13,43,19,8,5,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-09,20,66,15,5,14,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-10,22,70,16,6,12,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-11,22,69,12,4,12,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-12,20,70,7,6,13,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-13,25,75,12,6,17,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-14,20,64,23,3,21,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-15,17,49,30,2,9,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-16,20,66,14,3,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-17,21,69,15,4,14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-18,21,66,11,3,13,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-19,21,70,12,5,13,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-20,21,75,11,6,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-21,18,63,25,1,20,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-22,18,48,29,-2,8,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-23,19,63,16,1,15,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-24,20,68,13,1,13,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-25,22,68,15,2,12,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-26,22,71,15,5,11,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-27,22,78,17,6,16,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-28,20,59,17,-2,20,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-29,19,51,34,-2,9,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-30,28,60,25,2,13,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-05-31,24,73,17,6,12,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-01,26,75,18,5,12,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-02,24,78,15,9,12,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-03,23,82,20,9,15,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-04,22,70,29,3,20,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-05,19,55,40,1,9,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-06,24,72,25,6,12,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-07,24,74,20,6,11,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-08,24,72,21,3,10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-09,23,71,13,5,10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-10,21,78,27,6,14,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-11,17,63,34,1,20,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-12,14,48,44,1,10,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-13,22,63,18,2,11,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-14,21,70,22,4,10,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-15,21,68,16,2,9,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-16,22,68,11,3,9,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-17,21,77,18,4,12,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-18,19,64,30,0,18,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-19,16,46,33,-2,10,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-20,22,67,22,4,10,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-21,23,70,23,5,9,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-22,22,66,17,2,8,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-23,22,72,17,7,7,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-24,22,75,22,6,10,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-25,18,59,30,0,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-26,13,47,29,1,9,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-27,24,66,24,6,8,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-28,25,71,25,8,6,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-29,25,67,20,5,6,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-06-30,27,78,22,13,6,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-01,28,89,33,13,10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-02,24,76,35,11,18,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-03,25,67,41,12,18,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-04,35,85,29,17,7,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-05,38,100,29,23,6,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-06,39,101,28,23,4,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-07,38,112,25,30,-1,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-08,23,116,14,23,-12,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-09,0,82,-6,0,-34,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-10,-38,-18,-29,-33,-45,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-11,-21,4,7,-30,-78,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-12,-7,24,14,-12,-46,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-13,0,32,16,-8,-34,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-14,5,42,19,0,-30,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-15,1,43,12,-5,-25,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-16,-2,32,27,-6,-20,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-17,3,30,33,3,-6,3
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-18,22,58,36,13,-10,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-19,22,61,36,11,-11,14
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-20,22,60,30,8,-10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-21,24,67,35,14,-9,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-22,22,71,36,12,-5,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-23,13,51,45,5,0,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-24,3,30,44,-2,-4,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-25,29,65,48,12,-5,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-26,34,74,49,18,-5,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-27,34,77,39,16,-5,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-28,35,79,36,21,-5,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-29,34,89,40,20,-3,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-30,22,63,47,10,-14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-07-31,23,55,57,13,9,2
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-01,41,83,53,22,-7,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-02,40,85,53,21,-9,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-03,40,85,47,17,-8,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-04,40,89,48,22,-9,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-05,34,91,45,17,-8,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-06,25,70,50,14,3,4
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-07,23,59,56,15,7,2
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-08,35,77,49,18,-15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-09,36,81,51,18,-15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-10,36,76,45,13,-14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-11,33,78,44,17,-15,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-12,27,79,40,14,-12,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-13,19,58,44,8,3,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-14,20,49,59,9,10,3
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-15,37,77,58,17,-17,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-16,35,78,52,17,-16,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-17,33,76,45,13,-15,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-18,33,80,44,17,-15,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-19,26,79,43,11,-13,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-20,16,56,50,6,-11,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-21,18,48,57,9,12,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-22,34,74,50,15,-12,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-23,33,78,50,14,-12,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-24,31,76,40,10,-11,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-25,30,77,39,14,-10,10
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-26,24,78,32,8,-7,11
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-27,19,62,37,5,8,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-28,19,51,40,5,17,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-29,32,74,35,13,-5,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-30,33,80,25,12,-4,9
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-08-31,36,81,29,12,-3,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-01,37,89,32,19,-2,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-02,32,92,28,12,3,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-03,30,78,40,10,16,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-04,31,67,30,9,20,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-05,38,86,34,14,3,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-06,36,87,30,14,2,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-07,35,84,28,12,3,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-08,33,83,22,14,3,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-09,29,83,23,11,7,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-10,25,68,30,5,20,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-11,24,59,32,5,21,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-12,31,75,30,11,6,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-13,33,78,23,11,5,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-14,31,75,24,8,5,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-15,28,76,21,12,5,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-16,26,80,23,10,10,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-17,23,67,34,7,22,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-18,23,53,26,4,21,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-19,28,70,29,11,8,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-20,28,74,25,10,7,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-21,26,71,22,7,7,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-22,26,74,18,10,7,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-23,23,74,17,7,12,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-24,20,64,30,2,22,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-25,19,54,26,3,19,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-26,25,69,23,8,12,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-27,27,68,17,8,10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-28,28,75,20,6,10,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-29,29,77,18,11,11,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-09-30,30,85,18,15,17,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-01,30,77,31,10,26,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-02,27,63,28,6,22,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-03,31,76,30,12,16,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-04,32,80,25,13,16,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-05,34,81,24,10,14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-06,32,84,22,16,17,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-07,31,90,21,21,19,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-08,24,77,20,9,18,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-09,6,22,17,-2,-4,5
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-10,17,47,18,-6,-49,12
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-11,24,68,16,9,12,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-12,26,68,16,5,13,7
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-13,25,72,18,10,14,6
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-14,24,76,18,8,19,8
+MA,Morocco,,,Casablanca Metropolitan Area,,,ChIJsSpoj4Azpg0RdqFGLh2Vh80,2022-10-15,23,63,27,4,25,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-01,15,77,5,4,-17,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-02,12,60,-2,18,-7,4
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-03,12,88,-2,7,8,5
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-04,12,82,-8,-3,11,4
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-05,11,81,-2,2,10,5
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-06,6,75,-15,-6,7,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-07,8,77,-8,1,13,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-08,10,73,-4,-5,14,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-09,6,53,-4,-7,-8,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-10,13,81,-4,-4,5,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-11,8,78,-9,-14,-34,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-12,6,69,-7,-4,6,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-13,2,77,-10,-11,4,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-14,4,63,-17,-10,9,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-15,5,58,-11,-12,12,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-16,2,41,-11,-15,-8,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-17,5,69,-8,-8,2,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-18,7,65,-15,-12,6,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-19,5,66,-11,-11,4,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-20,5,69,-15,-11,2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-21,4,69,-14,-6,6,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-22,4,55,-11,-14,9,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-23,0,31,-19,-17,-6,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-24,5,61,-13,-11,0,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-25,9,53,-20,-19,2,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-26,3,60,-13,-15,0,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-27,7,70,-12,-14,0,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-28,3,63,-15,-10,4,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-29,7,54,-14,-15,10,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-30,7,27,-23,-17,-5,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-01-31,10,74,-8,-6,1,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-01,12,75,-7,-4,5,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-02,14,77,-3,-1,3,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-03,12,73,-8,1,1,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-04,9,67,-10,7,3,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-05,11,60,-8,2,5,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-06,12,43,-6,0,-7,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-07,18,81,8,18,-15,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-08,19,79,6,12,-13,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-09,18,78,12,17,-14,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-10,20,84,11,16,-17,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-11,16,75,2,20,-14,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-12,15,65,6,17,-6,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-13,14,45,-2,26,-6,4
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-14,15,76,-1,14,5,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-15,17,67,-3,2,9,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-16,12,68,0,12,7,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-17,12,74,-3,10,4,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-18,12,71,-4,17,11,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-19,15,64,-4,12,14,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-20,8,41,-5,11,-4,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-21,16,77,3,16,7,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-22,16,74,-1,8,10,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-23,16,76,3,19,9,5
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-24,11,75,-6,12,8,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-25,13,71,-7,22,14,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-26,17,74,-4,14,16,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-27,15,56,-2,22,-1,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-02-28,17,82,5,22,10,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-01,19,87,8,22,13,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-02,18,88,14,23,11,5
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-03,17,94,5,23,9,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-04,12,77,-8,34,13,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-05,19,81,6,28,15,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-06,6,46,-15,30,-4,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-07,20,87,11,33,11,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-08,19,88,9,25,14,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-09,17,80,7,25,12,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-10,15,84,7,27,11,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-11,9,74,-3,33,16,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-12,14,78,7,28,16,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-13,11,64,5,38,0,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-14,9,73,1,27,10,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-15,13,82,4,23,14,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-16,4,66,-4,22,11,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-17,9,83,2,21,11,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-18,10,81,2,42,16,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-19,16,78,13,33,16,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-20,13,60,7,40,1,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-21,14,84,12,35,14,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-22,13,81,10,25,16,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-23,6,71,-3,22,13,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-24,8,74,-5,23,11,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-25,12,73,-6,38,16,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-26,16,83,12,36,18,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-27,12,66,14,43,2,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-28,13,82,13,40,14,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-29,9,65,-5,25,15,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-30,6,77,-2,37,12,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-03-31,14,95,8,37,13,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-01,16,95,11,46,17,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-02,18,97,13,37,18,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-03,-20,55,-14,22,-10,17
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-04,-15,67,-11,17,-12,17
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-05,-9,75,-6,9,-10,16
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-06,-9,71,-9,16,-11,16
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-07,-4,83,2,14,-12,16
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-08,-4,77,-2,19,-7,17
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-09,-6,72,-3,18,-1,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-10,-12,59,-8,22,-5,14
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-11,-3,78,4,24,7,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-12,-5,76,-3,6,8,14
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-13,-6,75,0,18,5,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-14,-4,80,0,19,5,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-15,-5,67,2,22,10,16
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-16,-5,65,0,14,11,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-17,-10,56,1,15,-3,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-18,-1,77,8,25,6,14
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-19,-3,76,4,11,9,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-20,-8,70,-6,14,6,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-21,-4,88,2,13,6,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-22,-2,80,2,17,13,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-23,-3,74,-1,12,13,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-24,-7,73,7,16,2,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-25,2,90,10,20,9,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-26,0,90,12,16,9,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-27,2,93,15,29,8,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-28,-1,101,9,33,4,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-29,9,104,21,43,8,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-04-30,14,109,22,52,4,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-01,22,123,35,50,-1,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-02,26,105,34,60,-71,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-03,14,73,-6,47,-62,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-04,24,89,13,67,-14,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-05,24,102,17,50,-8,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-06,17,87,6,41,-2,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-07,16,81,8,39,2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-08,11,64,1,68,-7,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-09,19,93,12,52,7,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-10,18,88,6,38,10,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-11,16,85,8,42,9,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-12,16,89,3,35,9,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-13,15,77,0,36,13,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-14,12,73,1,35,14,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-15,8,59,-2,38,-4,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-16,15,86,9,36,10,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-17,16,82,7,28,12,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-18,20,74,3,38,7,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-19,14,83,4,34,7,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-20,11,73,-2,31,12,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-21,10,72,-3,30,14,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-22,10,64,3,35,-3,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-23,16,86,8,38,10,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-24,16,81,1,30,10,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-25,14,79,8,37,9,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-26,14,89,8,36,5,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-27,10,70,-2,32,10,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-28,14,65,-5,22,12,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-29,7,61,1,33,-3,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-30,16,77,5,32,7,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-05-31,16,85,5,24,8,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-01,16,87,8,38,6,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-02,16,92,7,30,3,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-03,13,81,4,36,8,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-04,12,75,6,27,12,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-05,7,56,5,33,-3,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-06,16,82,9,37,3,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-07,14,81,4,27,5,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-08,13,77,3,29,3,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-09,12,77,4,25,1,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-10,10,72,0,30,5,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-11,7,60,-2,22,10,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-12,-1,46,-6,29,-4,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-13,15,75,3,32,3,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-14,7,72,-9,21,3,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-15,15,76,-3,29,2,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-16,12,80,0,23,0,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-17,11,76,-4,25,5,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-18,7,64,-6,17,9,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-19,3,54,-8,24,-4,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-20,15,84,7,28,-1,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-21,14,80,1,23,0,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-22,12,78,3,33,-1,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-23,11,78,2,24,-4,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-24,10,74,-1,27,0,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-25,6,65,-5,16,5,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-26,2,50,-10,25,-4,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-27,14,80,3,33,-3,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-28,12,76,2,22,-2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-29,12,77,3,33,-4,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-06-30,15,85,3,26,-5,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-01,14,85,0,30,0,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-02,12,72,0,23,6,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-03,7,68,-1,34,5,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-04,18,93,12,42,-4,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-05,23,104,15,37,-1,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-06,23,103,17,51,-6,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-07,27,125,21,61,-11,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-08,22,116,15,61,-16,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-09,20,125,16,51,-28,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-10,-15,26,-22,6,-47,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-11,5,62,-8,29,-69,15
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-12,11,73,-2,52,-42,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-13,11,75,1,58,-33,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-14,13,84,4,53,-32,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-15,4,66,-6,46,-27,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-16,3,60,-7,45,-19,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-17,0,47,-9,60,-16,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-18,23,93,15,73,-19,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-19,22,89,12,53,-17,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-20,24,89,14,59,-18,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-21,18,91,11,51,-18,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-22,13,77,-3,48,-14,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-23,6,64,-9,35,-9,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-24,-10,34,-24,36,-18,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-25,18,87,0,54,-17,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-26,22,91,3,41,-15,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-27,20,93,9,53,-15,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-28,21,96,4,47,-17,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-29,17,92,-3,48,-13,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-30,6,71,-7,34,-14,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-07-31,2,56,-13,48,-9,5
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-01,25,98,12,56,-20,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-02,20,98,7,47,-19,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-03,18,91,10,50,-20,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-04,19,96,8,42,-22,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-05,14,82,-3,40,-20,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-06,7,68,-2,34,-10,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-07,3,57,-3,45,-12,5
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-08,21,96,13,54,-25,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-09,21,93,12,41,-22,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-10,18,84,9,43,-22,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-11,15,90,9,38,-23,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-12,7,69,-11,34,-20,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-13,2,61,-9,29,-9,7
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-14,2,51,-8,44,-4,6
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-15,21,94,16,46,-25,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-16,19,89,11,34,-23,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-17,17,91,14,44,-22,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-18,17,92,12,36,-23,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-19,8,76,-6,31,-20,12
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-20,4,66,-3,25,-12,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-21,1,48,-9,38,-3,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-22,19,90,10,44,-22,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-23,17,87,9,30,-21,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-24,16,86,10,33,-22,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-25,14,89,3,27,-23,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-26,10,77,-6,24,-19,13
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-27,5,67,-6,20,-7,11
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-28,4,51,-9,31,-3,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-29,21,97,7,40,-20,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-30,21,90,2,26,-18,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-08-31,23,91,4,38,-18,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-01,26,102,2,43,-16,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-02,20,90,-6,35,-11,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-03,21,79,-7,26,-2,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-04,16,69,-4,40,0,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-05,30,107,12,44,-12,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-06,25,99,5,26,-9,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-07,25,97,7,33,-10,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-08,23,99,3,32,-11,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-09,19,85,-4,33,-6,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-10,16,74,-5,22,3,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-11,12,59,-10,33,2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-12,24,100,5,40,-7,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-13,26,94,2,25,-6,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-14,23,93,6,36,-7,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-15,20,95,3,30,-7,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-16,17,86,-9,26,-2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-17,17,76,-5,21,6,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-18,13,60,-6,30,2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-19,22,96,3,40,-5,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-20,20,88,0,22,-3,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-21,20,85,2,33,-4,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-22,18,91,2,28,-5,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-23,17,75,-13,28,2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-24,14,75,-4,18,8,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-25,12,61,-3,28,2,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-26,24,98,6,37,0,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-27,22,86,1,25,1,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-28,19,91,3,37,0,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-29,19,93,7,29,-1,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-09-30,21,92,-6,36,7,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-01,20,87,5,23,12,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-02,18,71,0,34,3,10
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-03,24,98,11,44,4,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-04,24,92,2,31,6,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-05,23,92,6,41,5,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-06,20,94,6,40,6,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-07,20,90,-1,50,10,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-08,20,83,8,38,10,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-09,17,60,4,29,-8,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-10,26,94,13,54,-34,12
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-11,17,82,-7,38,6,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-12,22,89,6,40,6,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-13,20,97,7,39,6,8
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-14,18,84,-5,31,12,9
+MA,Morocco,,,Fes Metropolitan Area,,,ChIJ3Q-0RKaLnw0RKN5TjZmEYfE,2022-10-15,16,78,4,24,15,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-01,-4,36,-24,-10,-25,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-02,-6,25,-39,-17,-10,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-03,-6,45,-42,-7,5,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-04,-7,45,-41,-5,4,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-05,-8,40,-43,-9,5,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-06,-9,45,-45,-15,4,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-07,-14,39,-49,-15,6,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-08,-12,33,-43,-15,-1,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-09,-13,20,-45,-24,-13,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-10,-5,40,-43,-9,-1,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-11,-10,33,-40,-16,-41,16
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-12,-12,34,-48,-11,1,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-13,-14,37,-47,-19,0,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-14,-18,26,-55,-22,3,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-15,-18,23,-49,-22,-3,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-16,-20,9,-52,-30,-15,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-17,-15,30,-50,-16,-1,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-18,-11,29,-51,-16,0,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-19,-13,27,-46,-17,1,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-20,-13,27,-47,-22,2,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-21,-17,27,-50,-22,5,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-22,-17,18,-49,-23,0,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-23,-18,5,-51,-31,-11,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-24,-14,27,-47,-18,0,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-25,-12,21,-52,-20,0,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-26,-14,23,-45,-19,2,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-27,-14,31,-48,-25,2,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-28,-17,26,-51,-25,6,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-29,-15,20,-49,-27,0,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-30,-13,3,-53,-33,-10,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-01-31,-10,31,-45,-14,2,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-01,-7,34,-40,-11,4,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-02,-7,33,-40,-14,5,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-03,-8,33,-46,-20,4,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-04,-12,30,-52,-18,5,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-05,-10,26,-48,-19,-3,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-06,-4,16,-42,-22,-11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-07,4,45,-24,3,-11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-08,8,46,-17,3,-11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-09,9,46,-10,4,-10,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-10,12,55,-9,4,-12,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-11,6,48,-13,0,-9,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-12,3,37,-21,-3,-11,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-13,-2,22,-34,-10,-9,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-14,0,39,-38,-1,6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-15,0,33,-38,-4,7,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-16,-3,35,-36,-8,8,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-17,-3,38,-38,-9,9,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-18,-4,38,-39,-6,12,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-19,-4,33,-39,-9,3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-20,-5,21,-38,-15,-6,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-21,0,40,-34,-1,7,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-22,2,41,-34,1,7,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-23,-1,38,-35,-2,9,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-24,0,44,-36,-4,9,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-25,-2,41,-37,-4,12,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-26,-2,36,-35,-6,5,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-27,-2,28,-36,-10,-3,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-02-28,5,49,-26,7,8,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-01,8,50,-25,13,10,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-02,8,52,-22,10,11,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-03,9,55,-22,5,10,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-04,7,52,-28,5,14,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-05,9,50,-21,7,6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-06,-9,17,-51,-13,-9,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-07,9,55,-23,13,11,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-08,11,56,-23,14,12,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-09,9,54,-28,9,14,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-10,5,57,-31,3,14,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-11,1,50,-34,6,16,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-12,4,50,-28,5,8,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-13,2,43,-29,-3,0,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-14,-5,38,-42,4,11,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-15,7,55,-26,15,15,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-16,5,51,-26,8,15,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-17,4,56,-29,2,15,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-18,6,55,-28,8,17,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-19,5,51,-25,4,9,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-20,3,41,-30,-2,0,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-21,7,55,-23,13,14,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-22,8,56,-20,17,15,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-23,-5,39,-36,0,14,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-24,6,60,-22,5,16,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-25,4,53,-26,6,20,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-26,4,51,-21,3,11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-27,3,46,-21,1,2,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-28,6,56,-20,13,16,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-29,6,50,-20,13,16,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-30,3,55,-24,11,16,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-03-31,7,67,-17,11,17,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-01,3,63,-29,11,20,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-02,-3,63,-35,7,9,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-03,-31,35,-52,-19,-10,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-04,-25,33,-46,-6,-10,16
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-05,-17,44,-36,-2,-8,16
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-06,-19,44,-32,-2,-7,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-07,-17,48,-31,-7,-6,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-08,-20,41,-37,-6,-3,15
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-09,-25,30,-43,-12,-7,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-10,-27,23,-48,-15,-5,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-11,-15,43,-26,2,8,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-12,-15,43,-25,3,9,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-13,-17,36,-27,-2,10,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-14,-17,41,-31,-8,10,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-15,-20,39,-32,-7,13,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-16,-24,30,-41,-11,3,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-17,-25,26,-44,-17,-5,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-18,-14,40,-23,3,8,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-19,-14,43,-22,3,9,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-20,-16,44,-23,0,12,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-21,-15,49,-26,-6,12,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-22,-17,44,-37,-6,16,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-23,-21,39,-37,-8,7,14
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-24,-20,39,-36,-11,-1,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-25,-11,47,-22,7,9,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-26,-11,49,-21,10,8,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-27,-11,50,-16,9,11,13
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-28,-12,58,-17,6,8,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-29,-11,59,-19,12,10,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-04-30,-13,57,-22,9,-1,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-01,-6,71,-25,9,-2,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-02,-8,32,4,24,-69,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-03,5,37,16,9,-59,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-04,11,46,5,12,-10,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-05,15,56,3,6,-3,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-06,13,56,-5,10,3,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-07,10,47,-14,6,0,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-08,6,39,-26,7,0,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-09,15,56,-11,24,11,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-10,18,58,-5,26,12,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-11,17,57,-4,21,14,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-12,17,62,-7,16,14,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-13,14,57,-11,13,18,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-14,12,50,-12,12,9,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-15,8,43,-21,5,3,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-16,13,54,-9,22,12,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-17,14,53,-9,21,12,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-18,12,52,-7,17,14,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-19,10,51,-16,9,13,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-20,10,53,-18,10,17,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-21,7,47,-17,6,8,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-22,5,39,-24,1,0,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-23,12,52,-11,19,12,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-24,13,53,-5,20,11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-25,14,54,-1,15,13,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-26,13,56,-6,9,11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-27,9,53,-13,8,16,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-28,9,44,-19,3,10,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-29,7,45,-15,2,2,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-30,15,52,-10,18,11,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-05-31,14,53,-5,21,10,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-01,14,58,-6,21,11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-02,14,63,-6,13,10,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-03,10,57,-13,10,13,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-04,7,51,-13,6,7,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-05,4,43,-20,0,2,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-06,14,56,-7,21,6,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-07,14,54,-9,18,6,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-08,10,51,-8,15,7,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-09,9,52,-14,6,7,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-10,7,53,-13,9,13,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-11,3,44,-19,5,5,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-12,1,38,-26,-1,4,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-13,10,48,-13,17,7,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-14,12,55,-7,21,7,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-15,12,53,5,14,8,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-16,12,56,-4,3,7,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-17,6,51,-9,3,10,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-18,1,44,-15,0,4,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-19,-1,35,-25,-6,1,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-20,13,57,-7,16,5,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-21,12,56,-4,19,4,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-22,11,51,-5,12,5,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-23,11,58,-7,8,5,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-24,7,52,-14,2,8,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-25,0,43,-23,-1,3,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-26,-3,36,-28,-8,3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-27,10,54,-10,12,4,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-28,11,54,-7,16,3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-29,10,53,-7,9,4,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-06-30,11,60,-10,4,5,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-01,9,59,-12,7,8,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-02,4,52,-17,1,5,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-03,3,48,-23,-1,7,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-04,15,64,-3,19,2,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-05,15,68,3,27,3,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-06,15,69,-3,25,2,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-07,14,78,-13,23,-2,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-08,-3,66,-30,18,-12,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-09,-18,57,-44,7,-31,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-10,-49,-21,-68,-30,-44,10
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-11,-28,2,-35,-18,-66,12
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-12,-13,14,-20,-5,-40,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-13,-9,21,-12,-4,-28,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-14,-6,28,-15,-6,-24,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-15,-9,24,-20,-8,-18,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-16,-12,20,-28,-9,-18,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-17,-9,24,-29,-9,-6,3
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-18,13,51,3,21,-11,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-19,10,47,0,17,-11,11
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-20,12,50,8,14,-9,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-21,10,53,2,9,-8,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-22,2,50,-19,2,-4,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-23,-5,36,-40,-4,-5,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-24,-14,22,-47,-17,-6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-25,9,52,-23,10,-11,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-26,13,57,-21,18,-9,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-27,14,62,-15,15,-8,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-28,15,70,-17,9,-8,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-29,10,65,-21,7,-6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-30,-5,43,-38,-2,-15,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-07-31,-5,37,-42,-9,2,3
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-01,17,68,-16,19,-14,3
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-02,16,64,-15,18,-14,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-03,16,65,-8,16,-13,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-04,16,67,-12,9,-14,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-05,8,61,-21,5,-12,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-06,-2,49,-31,-2,-10,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-07,-1,47,-32,-5,-1,2
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-08,18,68,-4,20,-20,3
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-09,20,69,1,18,-19,3
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-10,19,66,2,13,-17,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-11,16,68,-4,7,-18,4
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-12,6,58,-17,1,-14,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-13,-2,44,-30,-5,-9,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-14,1,47,-28,-6,2,3
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-15,21,72,6,17,-21,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-16,20,70,10,19,-20,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-17,18,71,10,13,-18,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-18,17,71,3,6,-18,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-19,8,61,-10,1,-16,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-20,-3,44,-26,-6,-17,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-21,-3,40,-31,-7,3,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-22,16,64,-4,14,-19,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-23,17,68,2,15,-19,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-24,14,64,-1,10,-17,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-25,14,68,-5,6,-16,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-26,6,60,-15,0,-12,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-27,0,50,-25,-3,-8,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-28,3,49,-29,-7,5,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-29,19,70,-8,13,-14,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-30,22,73,-4,16,-13,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-08-31,19,69,-11,10,-10,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-01,20,76,-18,9,-9,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-02,16,76,-16,8,-3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-03,12,66,-26,2,-2,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-04,12,65,-30,0,6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-05,27,86,-8,24,-6,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-06,29,87,-5,24,-6,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-07,25,78,-4,19,-3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-08,25,80,-8,10,-3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-09,17,74,-13,8,1,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-10,12,62,-22,3,2,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-11,9,56,-31,-4,9,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-12,26,82,-5,22,-3,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-13,27,80,-7,21,-4,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-14,22,73,-3,19,-1,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-15,21,74,-8,12,-2,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-16,14,70,-16,7,4,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-17,11,61,-20,4,2,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-18,10,58,-25,0,8,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-19,22,77,-4,22,-3,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-20,23,75,-3,21,-1,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-21,20,70,-6,16,0,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-22,20,72,-10,8,0,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-23,14,63,-17,3,7,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-24,10,58,-21,0,3,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-25,2,43,-40,-8,6,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-26,23,77,-1,21,3,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-27,22,66,-12,15,4,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-28,20,70,-6,15,5,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-29,20,77,-9,10,5,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-09-30,16,70,-16,9,11,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-01,15,67,-19,7,8,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-02,14,62,-20,1,10,8
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-03,24,77,-6,28,7,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-04,24,74,-2,25,8,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-05,24,73,-2,20,10,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-06,21,75,-6,14,13,6
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-07,17,69,-12,16,16,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-08,14,67,-15,11,8,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-09,13,55,-9,0,2,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-10,25,74,8,19,-31,9
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-11,22,69,-2,25,9,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-12,17,61,-12,14,11,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-13,24,80,0,14,12,5
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-14,17,71,-5,9,18,7
+MA,Morocco,,,Marrakesh Metropolitan Area,,,ChIJTxlXcl7urw0RPqRAGHBidDE,2022-10-15,12,62,-12,5,12,7
