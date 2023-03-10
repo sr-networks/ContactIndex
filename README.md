@@ -1,5 +1,5 @@
 # ContactIndex
-### Contact Index for the countries of the world during the SARS-CoV-2 pandemic
+### World-wide Contact Index during the SARS-CoV-2 pandemic
 
 This is a first brief description of my Contact Index calculations based on mobility data. I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
 
