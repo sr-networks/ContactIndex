@@ -5,7 +5,11 @@ This is a first brief description of my Contact Index calculations based on mobi
 
 https://contactindex.netcheck.de
 
-- With XGBoost I first calculated a fit of the German mobility data to the German CX. 
+- With XGBoost I first calculated a fit of the German mobility data to the German CX:
+
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/127544698/225931088-f2af6898-8bcb-4c04-bd4a-11877cc30e46.png">
+
+Overfitting is avoided by using k-fold cross-validation.
 
 - Then I use the resulting model to predict the Contact Index for other countries from their respective mobility data. 
 
