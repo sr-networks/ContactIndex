@@ -1,7 +1,7 @@
-# ContactIndex
-### World-wide Contact Index during the SARS-CoV-2 pandemic
+# CXmob - Contact Index from mobility data
+### Global analysis of the Contact Index during the SARS-CoV-2 pandemic
 
-This is a first brief description of my Contact Index calculations based on mobility data. I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
+This is a first description of my Contact Index calculations based on mobility data. I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
 
 https://contactindex.netcheck.de
 
@@ -33,5 +33,5 @@ We then calculate the correlation coefficients for all availible countries and o
 
 <img width="394" alt="image" src="https://user-images.githubusercontent.com/127544698/226203613-3f9cdc14-5eab-4a19-bc75-1e1282928be7.png">
 
-Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5.
+Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5: France, UK, Italy, Germany, Spain, Belgium, and Ireland.
 
