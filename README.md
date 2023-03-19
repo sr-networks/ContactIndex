@@ -26,3 +26,12 @@ Below are some preview charts for selected countries.
 
 
 
+Next we plot all countries for which all information is availible (why is much information in Apple mobility data missing in many countries?):
+![Unknown](https://user-images.githubusercontent.com/127544698/226203516-c15d5eb3-45a5-463c-9f9f-748c06d28751.png)
+
+We then calculate the correlation coefficients for all availible countries and obtain:
+
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/127544698/226203613-3f9cdc14-5eab-4a19-bc75-1e1282928be7.png">
+
+Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5.
+
