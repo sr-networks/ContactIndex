@@ -38,7 +38,7 @@ Apparently for most European countries (except Sweden and Norway) a very convinc
 
 1. Calculation of transmissibility (on the rhs the transmissibility for Germany form comparison)
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226457612-3cfa48c6-4970-4e3a-a124-e02d75219c02.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="410" alt="image" src="https://user-images.githubusercontent.com/127544698/226457612-3cfa48c6-4970-4e3a-a124-e02d75219c02.png">
 
 
 2. Calculation of most effective NPIs
