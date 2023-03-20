@@ -36,3 +36,9 @@ We then calculate the correlation coefficients for all available countries and o
 
 Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5: France, UK, Italy, Germany, Spain, Belgium, and Ireland.
 
+1. Calculation of transmissibility
+<img width="410" alt="image" src="https://user-images.githubusercontent.com/127544698/226457178-f896f4e3-deb8-4823-86b1-6fe751b592d4.png">
+
+2. Calculation of most effective NPIs
+
+to do
