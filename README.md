@@ -1,7 +1,7 @@
 # CXmob - Contact Index from mobility data
-### Global analysis of the Contact Index during the SARS-CoV-2 pandemic
+### 1 Global analysis of the Contact Index during the SARS-CoV-2 pandemic
 
-This is a first description of my Contact Index calculations based on mobility data. I use the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
+This is a first description of Contact Index calculations based on mobility data. I used the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
 
 https://contactindex.netcheck.de
 
@@ -37,11 +37,15 @@ We then calculate the correlation coefficients for optimal time delay between CX
 
 Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5: France, UK, Italy, Germany, Spain, Belgium, and Ireland.
 
-## 1. Calculation of transmissibility (on the rhs the transmissibility for Germany for comparison)
+### 2 Calculation of transmissibility (on the rhs the transmissibility for Germany for comparison)
+
+Transmissibility T is the probablity of transmission of the virus given the contact between and infected and an susceptible individdum. I have here used a scaled version of T, so that the value for wildtyp SC2 in a completely non-immune population is 1.
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="440" alt="image" src="https://user-images.githubusercontent.com/127544698/226461336-4ccfe682-ea2e-42c5-9373-fd33036fb1de.png">
 
-## 2. Calculation of most effective NPIs
+As in the case of Germany, we can see clearly for most countries the T increasing effects of alpha, delta and omicron variants. As well, immunization (natural and vaccinated) drives down T from early 2021. 
+
+### 3 Calculation of most effective NPIs
 
 Now, what does it all mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
 
