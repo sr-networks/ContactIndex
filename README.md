@@ -43,4 +43,29 @@ Apparently for most European countries (except Sweden and Norway) a very convinc
 
 2. Calculation of most effective NPIs
 
-to do
+Now, what does it all mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
+
+- A The contact numbers are reduced because of self-restriction following the news of increased case numbers.
+- A Contact numbers could also be reduced after announcement of the NPI.
+
+In fact, we generally found that CX decreased often before the NPI implimentaiton, so that in average no significant effect of the NPI may be conlcuded. (this even holds if the trend, or difference, in CX is considered and not the absolute value, see below)
+
+It is thus hard to quantify the NPI. In the case A, one may conclude that the NPI is not neccessary. In B, we may check what happens with announcement of the NPI (data not shown).
+
+Here is the evolution of the weekly CX trends compared to their repsective values four days before the NPI implementation:
+
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/127544698/229352089-980a8afe-e51b-4cbb-9ec6-8310dee8cfe0.png"> <img width="577" alt="image" src="https://user-images.githubusercontent.com/127544698/229352499-8a7f42e8-e804-48f2-9a1d-11d9cf7c34fa.png">
+
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/127544698/229352514-ff19c786-83f4-48d9-abdc-70cf3432337a.png"> <img width="571" alt="image" src="https://user-images.githubusercontent.com/127544698/229352528-4cd4cb69-23f6-486c-8ef7-60f6b15a39d6.png">
+
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/127544698/229352535-939d3ec8-9171-4cde-af61-1ffb0c74dcef.png"> <img width="573" alt="image" src="https://user-images.githubusercontent.com/127544698/229352540-59ad7bcc-577b-4359-86b7-0193bbcfc0c3.png">
+
+<img width="565" alt="image" src="https://user-images.githubusercontent.com/127544698/229352547-e5aab9b4-7800-4612-b1bb-3d098553cfa0.png">
+<img width="573" alt="image" src="https://user-images.githubusercontent.com/127544698/229352563-60a4c2f8-64fe-4729-b9d2-6df02e8f6e3d.png">
+
+
+
+
+
+
