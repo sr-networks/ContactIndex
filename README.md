@@ -25,7 +25,7 @@ Below are some preview charts for selected countries.
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/127544698/224420531-25ad870b-b3ba-4ccd-96b4-286d088192ad.png">  <img width="280" alt="image" src="https://user-images.githubusercontent.com/127544698/224478445-e2f4e35c-eba2-4099-8f08-76c8b434c51e.png"> <img width="280" alt="image" src="https://user-images.githubusercontent.com/127544698/224572451-d7257cef-b9fc-4afd-96a5-a941f8b04d49.png">
 
 
-### 2 Plots for all countries
+### 2 Plots of CX for all countries and comparision to the Oxford NPI index
 
 Next we plot data for all countries for which complete information is available (why is much information in Apple mobility data missing in many countries?):
 
