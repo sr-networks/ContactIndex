@@ -45,8 +45,8 @@ Apparently for most European countries (except Sweden and Norway) a very convinc
 
 Now, what does it all mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
 
-- A The contact numbers are reduced because of self-restriction following the news of increased case numbers.
-- A Contact numbers could also be reduced after announcement of the NPI.
+A The contact numbers are reduced because of self-restriction following the news of increased case numbers.
+B Contact numbers could also be reduced after announcement of the NPI.
 
 In fact, we generally found that CX decreased often before the NPI implimentaiton, so that in average no significant effect of the NPI may be conlcuded. (this even holds if the trend, or difference, in CX is considered and not the absolute value, see below)
 
