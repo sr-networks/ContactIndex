@@ -9,9 +9,7 @@ https://contactindex.netcheck.de
 
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/127544698/225931088-f2af6898-8bcb-4c04-bd4a-11877cc30e46.png">
 
-Overfitting is avoided by using k-fold cross-validation.
-
-- Then I use the resulting model to predict the Contact Index for other countries from their respective mobility data. 
+Overfitting is avoided by using k-fold cross-validation. Then I use the resulting model to predict the Contact Index for other countries from their respective mobility data. 
 
 Below are some preview charts for selected countries. 
 - The first columns shows the evolution of CX over the entire time for which mobility data is availible (Apple stopped providing in April 2022). 
