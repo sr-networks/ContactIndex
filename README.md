@@ -25,10 +25,13 @@ Below are some preview charts for selected countries.
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/127544698/224420531-25ad870b-b3ba-4ccd-96b4-286d088192ad.png">  <img width="280" alt="image" src="https://user-images.githubusercontent.com/127544698/224478445-e2f4e35c-eba2-4099-8f08-76c8b434c51e.png"> <img width="280" alt="image" src="https://user-images.githubusercontent.com/127544698/224572451-d7257cef-b9fc-4afd-96a5-a941f8b04d49.png">
 
 
+### 2 Plots for all countries
 
 Next we plot data for all countries for which complete information is available (why is much information in Apple mobility data missing in many countries?):
 
 ![Unknown](https://user-images.githubusercontent.com/127544698/226203516-c15d5eb3-45a5-463c-9f9f-748c06d28751.png)
+
+### 3 Correlation of contacts with the (time-shifted) effective reproduction numbers
 
 We then calculate the correlation coefficients for optimal time delay between CX and R (shown on the rhs) for all available countries and obtain:
 
@@ -37,15 +40,15 @@ We then calculate the correlation coefficients for optimal time delay between CX
 
 Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5: France, UK, Italy, Germany, Spain, Belgium, and Ireland.
 
-### 2 Calculation of transmissibility
+### 4 Calculation of transmissibility
 
-Transmissibility T is the probablity of transmission of the virus given the contact between and infected and an susceptible individdum. I have here used a scaled version of T, so that the value for wildtyp SC2 in a completely non-immune population is 1.
+Transmissibility T is the probablity of transmission of the virus given the contact between and infected and an susceptible individdum. I have here used a scaled version of T, so that the value for wildtyp SC2 in a completely non-immune population is 1. Please find more information on the definition in https://www.medrxiv.org/content/10.1101/2023.03.02.23286502v1
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="440" alt="image" src="https://user-images.githubusercontent.com/127544698/226461336-4ccfe682-ea2e-42c5-9373-fd33036fb1de.png">
 
-As in the case of Germany (rhs), we can see clearly for most countries the T increasing effects of alpha, delta and omicron variants. As well, immunization (natural and vaccinated) drives down T from early 2021 on. 
+As in the case of Germany (rhs), we can see for most countries the T increasing effects of alpha, delta and omicron variants. As well, immunization (natural and vaccinated) drives down T from early 2021 on. 
 
-### 3 Calculation of most effective NPIs
+### 5 Calculation of most effective NPIs
 
 Now, what does it all mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
 
