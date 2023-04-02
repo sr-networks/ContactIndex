@@ -34,6 +34,10 @@ Next we plot data for all countries for which complete information is available 
 
 We then calculate the correlation coefficients for optimal time delay between CX and R (shown on the rhs) for all available countries and obtain:
 
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/127544698/229367205-8a6038ba-3ec2-437c-8a0f-3d9437806c42.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/127544698/229367172-d5dea30f-7509-4ac2-a706-eeeb5a4f703d.png"> 
+
+
 <img width="394" alt="image" src="https://user-images.githubusercontent.com/127544698/226203613-3f9cdc14-5eab-4a19-bc75-1e1282928be7.png"> <img width="389" alt="image" src="https://user-images.githubusercontent.com/127544698/226459828-aa4110b4-8716-41f2-a63c-b62c091ca52d.png">
 
 
