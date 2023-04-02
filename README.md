@@ -57,7 +57,7 @@ Here is the evolution of the weekly CX trends compared to their repsective value
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352089-980a8afe-e51b-4cbb-9ec6-8310dee8cfe0.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352499-8a7f42e8-e804-48f2-9a1d-11d9cf7c34fa.png">
 
-<img width="50" alt="image" src="https://user-images.githubusercontent.com/127544698/229352514-ff19c786-83f4-48d9-abdc-70cf3432337a.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352528-4cd4cb69-23f6-486c-8ef7-60f6b15a39d6.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352514-ff19c786-83f4-48d9-abdc-70cf3432337a.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352528-4cd4cb69-23f6-486c-8ef7-60f6b15a39d6.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352535-939d3ec8-9171-4cde-af61-1ffb0c74dcef.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352540-59ad7bcc-577b-4359-86b7-0193bbcfc0c3.png">
 
