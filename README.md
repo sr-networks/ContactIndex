@@ -37,16 +37,17 @@ We then calculate the correlation coefficients for optimal time delay between CX
 
 Apparently for most European countries (except Sweden and Norway) a very convincing correlation between the estimated CX and the reproduction numbers is found. We will continue further analysis with those countries which have an R2 value above 0.5: France, UK, Italy, Germany, Spain, Belgium, and Ireland.
 
-1. Calculation of transmissibility (on the rhs the transmissibility for Germany for comparison)
+## 1. Calculation of transmissibility (on the rhs the transmissibility for Germany for comparison)
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="440" alt="image" src="https://user-images.githubusercontent.com/127544698/226461336-4ccfe682-ea2e-42c5-9373-fd33036fb1de.png">
 
-2. Calculation of most effective NPIs
+## 2. Calculation of most effective NPIs
 
 Now, what does it all mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
 
-A The contact numbers are reduced because of self-restriction following the news of increased case numbers.
-B Contact numbers could also be reduced after announcement of the NPI.
+A - The contact numbers are reduced because of self-restriction following the news of increased case numbers.
+
+B - Contact numbers could also be reduced after announcement of the NPI.
 
 In fact, we generally found that CX decreased often before the NPI implimentaiton, so that in average no significant effect of the NPI may be conlcuded. (this even holds if the trend, or difference, in CX is considered and not the absolute value, see below)
 
