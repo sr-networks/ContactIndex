@@ -48,17 +48,15 @@ Transmissibility T is the probablity of transmission of the virus given the cont
 
 As in the case of Germany (rhs), we can see for most countries the T increasing effects of alpha, delta and omicron variants. As well, immunization (natural and vaccinated) drives down T from early 2021 on. 
 
-### 5 Calculation of most effective NPIs
+### 5 Calculation of effectivity of NPIs
 
-Now, what does it all mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
+What does it mean for the assessment of NPIs during the SC2 pandemic? Ideally, after implementation of an NPI, the number of contacts should reduce. However, there are a few conceptual problems:
 
-A - The contact numbers are reduced because of self-restriction following the news of increased case numbers.
+A - The contact numbers are reduced because of self-restriction, often following the news of increased case numbers. 
 
 B - Contact numbers could also be reduced after announcement of the NPI.
 
-In fact, we generally found that CX decreased often before the NPI implimentaiton, so that in average no significant effect of the NPI may be conlcuded. (this even holds if the trend, or difference, in CX is considered and not the absolute value, see below)
-
-It is thus hard to quantify the NPI. In the case A, one may conclude that the NPI is not neccessary. In B, we may check what happens with announcement of the NPI (data not shown).
+In fact, we generally found that CX decreased often before the NPI implementation, so how should the NPI efficacy be judged? Therefore instead I consider the trend, or difference, in CX,  and not the absolute value. So the question is then whether the NPI implementation does have any effect on the 'velocity' with which the contacts were reduced?
 
 Here is the evolution of the weekly CX trends compared to their repsective values four days before the NPI implementation:
 
@@ -71,8 +69,7 @@ Here is the evolution of the weekly CX trends compared to their repsective value
 
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/127544698/229352547-e5aab9b4-7800-4612-b1bb-3d098553cfa0.png"> <img width="490" alt="image" src="https://user-images.githubusercontent.com/127544698/229352563-60a4c2f8-64fe-4729-b9d2-6df02e8f6e3d.png">
 
-
-
+(work in progress)
 
 
 
