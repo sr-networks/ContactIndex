@@ -1,4 +1,7 @@
 # CXmob - Contact Index from mobility data
+
+The number of contacts and the social behavior of the population is very important in shaping pandemic waves. During the SARS-CoV-2 pandemic 2020-2022 many approaches tried to leverage mobility data from mobile phone operators (aggregated cell information from cell phone users) to understand the spatio-temporal spread of the virus. While spreading from region to region may be described well with mobility data, the attempts to predict local spread and reproducton numbers remained futile. This can be understood from the failure of mobility data to cover "two-point" correlations of pairs of humans being in close range from each other. On the other hand, traces of behavior that are realted to contacts, such as communting to work places, are still contained in the mobility data. Here I tried to connect mobility data with explicit knowledge of contact number from a German study of GPS-acurate individual cell phone traces. It turns out that the mobility data can be used to predict contact numbers for Germany using a machine-learning model. 
+
 ### 1 Global analysis of the Contact Index during the SARS-CoV-2 pandemic
 
 This is a first description of Contact Index calculations based on mobility data. I used the Google and Apple mobility data that was publicaly availible together with the German Contact Index that can be found here:
