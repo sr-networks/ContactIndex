@@ -47,7 +47,7 @@ We will continue further analysis with those countries which have an R2 value ab
 
 Transmissibility T is the probablity of transmission of the virus given the contact between and infected and an susceptible individdum. I have here used a scaled version of T, so that the value for wildtyp SC2 in a completely non-immune population is 1. Please find more information on the definition in https://www.medrxiv.org/content/10.1101/2023.03.02.23286502v1
 
-<img width="450" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="440" alt="image" src="https://user-images.githubusercontent.com/127544698/226461336-4ccfe682-ea2e-42c5-9373-fd33036fb1de.png">
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/127544698/226458496-cffcbe37-b430-4d2b-bf56-d1762d086cde.png"> <img width="420" alt="image" src="https://user-images.githubusercontent.com/127544698/226461336-4ccfe682-ea2e-42c5-9373-fd33036fb1de.png">
 
 As in the case of Germany (rhs), we can see for most countries the T increasing effects of alpha, delta and omicron variants. As well, immunization (natural and vaccinated) drives down T from early 2021 on. 
 
@@ -64,13 +64,13 @@ In fact, we generally found that CX decreased often before the NPI implementatio
 Here is the evolution of the weekly CX trends compared to their repsective values four days before the NPI implementation:
 
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352089-980a8afe-e51b-4cbb-9ec6-8310dee8cfe0.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352499-8a7f42e8-e804-48f2-9a1d-11d9cf7c34fa.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352089-980a8afe-e51b-4cbb-9ec6-8310dee8cfe0.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352499-8a7f42e8-e804-48f2-9a1d-11d9cf7c34fa.png">
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352514-ff19c786-83f4-48d9-abdc-70cf3432337a.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352528-4cd4cb69-23f6-486c-8ef7-60f6b15a39d6.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352514-ff19c786-83f4-48d9-abdc-70cf3432337a.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352528-4cd4cb69-23f6-486c-8ef7-60f6b15a39d6.png">
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352535-939d3ec8-9171-4cde-af61-1ffb0c74dcef.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/127544698/229352540-59ad7bcc-577b-4359-86b7-0193bbcfc0c3.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352535-939d3ec8-9171-4cde-af61-1ffb0c74dcef.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352540-59ad7bcc-577b-4359-86b7-0193bbcfc0c3.png">
 
-<img width="490" alt="image" src="https://user-images.githubusercontent.com/127544698/229352547-e5aab9b4-7800-4612-b1bb-3d098553cfa0.png"> <img width="490" alt="image" src="https://user-images.githubusercontent.com/127544698/229352563-60a4c2f8-64fe-4729-b9d2-6df02e8f6e3d.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352547-e5aab9b4-7800-4612-b1bb-3d098553cfa0.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/127544698/229352563-60a4c2f8-64fe-4729-b9d2-6df02e8f6e3d.png">
 
 (work in progress)
 
